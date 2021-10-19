@@ -1,0 +1,27 @@
+2021-01-10 19:51:09,034 - data_util.log - INFO - log启动
+2021-01-10 19:51:12,587 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-01-10 19:52:12,830 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-10 19:52:13,052 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 998
+2021-01-10 19:53:13,112 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 19:54:13,173 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 19:55:13,233 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 19:56:22,255 - data_util.log - INFO - log启动
+2021-01-10 19:56:25,515 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-01-10 19:57:25,684 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-10 19:57:25,900 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 998
+2021-01-10 19:58:27,098 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 19:59:27,158 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 20:00:19,941 - data_util.log - INFO - log启动
+2021-01-10 20:00:23,186 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-01-10 20:01:23,298 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-10 20:01:23,364 - data_util.log - INFO - Bucket queue size: 6, Input queue size: 995
+2021-01-10 20:02:23,426 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 20:03:23,462 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 20:04:23,521 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 20:05:23,582 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 20:06:23,642 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000
+2021-01-10 20:28:23,448 - data_util.log - INFO - log启动
+2021-01-10 20:28:26,575 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-01-10 20:29:26,780 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-10 20:29:28,902 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 1000
+2021-01-10 20:30:28,962 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1000

@@ -1,0 +1,354 @@
+2021-09-21 10:21:12,220 - data_util.log - INFO - log启动
+2021-09-21 10:23:32,057 - data_util.log - INFO - log启动
+2021-09-21 10:23:34,365 - data_util.log - INFO - 
+2021-09-21 10:31:55,958 - data_util.log - INFO - log启动
+2021-09-21 10:31:58,266 - data_util.log - INFO - 
+2021-09-21 10:34:02,679 - data_util.log - INFO - log启动
+2021-09-21 10:34:04,971 - data_util.log - INFO - 
+2021-09-21 10:38:36,375 - data_util.log - INFO - log启动
+2021-09-21 10:38:38,674 - data_util.log - INFO - 
+2021-09-21 10:41:40,039 - data_util.log - INFO - log启动
+2021-09-21 10:41:42,331 - data_util.log - INFO - 
+2021-09-21 10:45:54,124 - data_util.log - INFO - log启动
+2021-09-21 10:45:56,435 - data_util.log - INFO - 
+2021-09-21 10:48:00,036 - data_util.log - INFO - log启动
+2021-09-21 10:48:02,330 - data_util.log - INFO - 
+2021-09-21 10:51:14,301 - data_util.log - INFO - log启动
+2021-09-21 10:52:13,566 - data_util.log - INFO - log启动
+2021-09-21 10:52:15,859 - data_util.log - INFO - 
+2021-09-21 10:57:45,431 - data_util.log - INFO - log启动
+2021-09-21 10:57:47,709 - data_util.log - INFO - 
+2021-09-21 11:03:13,567 - data_util.log - INFO - log启动
+2021-09-21 11:03:15,870 - data_util.log - INFO - 
+2021-09-21 11:09:33,871 - data_util.log - INFO - log启动
+2021-09-21 11:09:36,145 - data_util.log - INFO - 
+2021-09-21 11:10:07,166 - data_util.log - INFO - log启动
+2021-09-21 11:10:09,450 - data_util.log - INFO - 
+2021-09-21 11:12:04,933 - data_util.log - INFO - 0001000.tar rouge_1:0.5094 rouge_2:0.3272 rouge_l:0.4655
+2021-09-21 11:12:05,000 - data_util.log - INFO - 
+2021-09-21 11:13:57,882 - data_util.log - INFO - 0002000.tar rouge_1:0.5369 rouge_2:0.3416 rouge_l:0.4795
+2021-09-21 11:13:57,949 - data_util.log - INFO - 
+2021-09-21 11:15:13,780 - data_util.log - INFO - log启动
+2021-09-21 11:15:16,080 - data_util.log - INFO - 
+2021-09-21 11:17:10,935 - data_util.log - INFO - 0001000.tar rouge_1:0.5094 rouge_2:0.3272 rouge_l:0.4655
+2021-09-21 11:17:11,000 - data_util.log - INFO - 
+2021-09-21 11:19:03,507 - data_util.log - INFO - 0002000.tar rouge_1:0.5369 rouge_2:0.3416 rouge_l:0.4795
+2021-09-21 11:19:03,573 - data_util.log - INFO - 
+2021-09-21 11:20:56,263 - data_util.log - INFO - 0003000.tar rouge_1:0.5382 rouge_2:0.3488 rouge_l:0.4689
+2021-09-21 11:20:56,329 - data_util.log - INFO - 
+2021-09-21 11:22:50,725 - data_util.log - INFO - 0004000.tar rouge_1:0.5216 rouge_2:0.3309 rouge_l:0.4674
+2021-09-21 11:22:50,791 - data_util.log - INFO - 
+2021-09-21 11:24:44,145 - data_util.log - INFO - 0005000.tar rouge_1:0.5239 rouge_2:0.3311 rouge_l:0.4626
+2021-09-21 11:24:44,210 - data_util.log - INFO - 
+2021-09-21 11:26:37,955 - data_util.log - INFO - 0006000.tar rouge_1:0.5427 rouge_2:0.3459 rouge_l:0.4777
+2021-09-21 11:26:38,022 - data_util.log - INFO - 
+2021-09-21 11:28:31,677 - data_util.log - INFO - 0007000.tar rouge_1:0.5312 rouge_2:0.3425 rouge_l:0.4670
+2021-09-21 11:28:31,743 - data_util.log - INFO - 
+2021-09-21 11:30:25,867 - data_util.log - INFO - 0008000.tar rouge_1:0.5193 rouge_2:0.3295 rouge_l:0.4618
+2021-09-21 11:30:25,932 - data_util.log - INFO - 
+2021-09-21 11:32:19,271 - data_util.log - INFO - 0009000.tar rouge_1:0.5214 rouge_2:0.3397 rouge_l:0.4684
+2021-09-21 11:32:19,337 - data_util.log - INFO - 
+2021-09-21 11:34:13,641 - data_util.log - INFO - 0010000.tar rouge_1:0.5207 rouge_2:0.3344 rouge_l:0.4674
+2021-09-21 11:34:13,706 - data_util.log - INFO - 
+2021-09-21 11:36:07,869 - data_util.log - INFO - 0011000.tar rouge_1:0.5158 rouge_2:0.3204 rouge_l:0.4641
+2021-09-21 11:36:07,934 - data_util.log - INFO - 
+2021-09-21 11:38:02,419 - data_util.log - INFO - 0012000.tar rouge_1:0.5141 rouge_2:0.3250 rouge_l:0.4511
+2021-09-21 11:38:02,485 - data_util.log - INFO - 
+2021-09-21 11:39:57,742 - data_util.log - INFO - 0013000.tar rouge_1:0.5236 rouge_2:0.3241 rouge_l:0.4653
+2021-09-21 11:39:57,808 - data_util.log - INFO - 
+2021-09-21 11:41:50,723 - data_util.log - INFO - 0014000.tar rouge_1:0.5266 rouge_2:0.3393 rouge_l:0.4726
+2021-09-21 12:37:07,786 - data_util.log - INFO - log启动
+2021-09-21 12:37:45,441 - data_util.log - INFO - log启动
+2021-09-21 12:37:47,738 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-09-21 12:38:52,891 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 12:39:07,115 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 4000
+2021-09-21 12:40:18,675 - data_util.log - INFO - log启动
+2021-09-21 12:40:21,019 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 28
+2021-09-21 12:41:21,799 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 12:41:53,357 - data_util.log - INFO - Bucket queue size: 77, Input queue size: 1870
+2021-09-21 12:42:53,417 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:43:53,478 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:44:53,538 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:46:06,344 - data_util.log - INFO - log启动
+2021-09-21 12:46:08,631 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-09-21 12:47:09,484 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 12:47:17,607 - data_util.log - INFO - Bucket queue size: 27, Input queue size: 1944
+2021-09-21 12:48:17,667 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:49:17,727 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:49:20,165 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 12:50:17,788 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:50:57,667 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 12:51:17,847 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:52:17,907 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:53:17,968 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:54:18,028 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:55:18,088 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:56:18,149 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:57:18,209 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:58:18,269 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 12:59:18,330 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:00:18,390 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:01:18,450 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:02:18,491 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:03:18,495 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:04:18,555 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:05:18,616 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:06:18,676 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:07:18,736 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:08:18,797 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:09:18,857 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:10:18,917 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:11:18,978 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:12:19,038 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:13:19,098 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:14:19,159 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:15:19,219 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:16:19,279 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:17:19,339 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:18:19,400 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:19:19,460 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:22:25,571 - data_util.log - INFO - log启动
+2021-09-21 13:22:27,875 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1
+2021-09-21 13:23:29,715 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 13:23:48,582 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1998
+2021-09-21 13:24:48,639 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:25:37,032 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 13:25:48,705 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:26:48,776 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:27:13,436 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 13:27:48,835 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:28:48,895 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:28:49,738 - data_util.log - INFO - iter:6150  mle_loss:0.242  rl_loss:-0.018  reward:0.8958
+2021-09-21 13:29:48,955 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:30:49,015 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:31:49,076 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:32:49,136 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:33:49,196 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:34:49,257 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:35:49,317 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:36:49,377 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:37:49,438 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:38:49,498 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:39:49,558 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:40:49,619 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:41:49,679 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:42:49,739 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:43:49,800 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:44:49,860 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:45:49,920 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:46:49,980 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:47:50,041 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:48:50,101 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:49:50,161 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:50:50,222 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:51:50,282 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:52:50,342 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:53:50,363 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:54:50,367 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:55:50,427 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:56:50,488 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:57:50,548 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:58:50,608 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 13:59:50,669 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:00:50,729 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:01:50,789 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:02:50,847 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:03:50,907 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:04:50,968 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:05:51,028 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:06:51,088 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:07:51,149 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:08:51,209 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:09:51,269 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:10:51,330 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:11:51,390 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:12:51,450 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:13:51,510 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:14:51,571 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:15:51,631 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:16:51,691 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:17:51,752 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:18:51,812 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:19:51,872 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:20:51,933 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:21:51,993 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:22:52,053 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:23:52,114 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:24:52,174 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:25:52,234 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:26:52,295 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:27:52,355 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:28:52,415 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:29:52,475 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:30:52,536 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:31:52,596 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:32:52,656 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:33:52,717 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:34:52,777 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:35:52,837 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:42:26,088 - data_util.log - INFO - log启动
+2021-09-21 14:42:28,462 - data_util.log - INFO - Bucket queue size: 21, Input queue size: 75
+2021-09-21 14:43:28,623 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:44:32,411 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:45:32,472 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:45:36,308 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 14:46:32,531 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:47:13,622 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 14:47:32,591 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:48:32,651 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 14:48:52,473 - data_util.log - INFO - iter:6150  mle_loss:0.237  rl_loss:-0.020  reward:0.9009
+2021-09-21 14:52:42,933 - data_util.log - INFO - log启动
+2021-09-21 14:52:45,219 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-09-21 14:53:45,967 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 14:54:06,752 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1998
+2021-09-21 14:55:06,813 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:01:10,507 - data_util.log - INFO - log启动
+2021-09-21 15:01:12,832 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-09-21 15:02:13,443 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:02:30,911 - data_util.log - INFO - Bucket queue size: 46, Input queue size: 1906
+2021-09-21 15:02:48,916 - data_util.log - INFO - log启动
+2021-09-21 15:02:51,259 - data_util.log - INFO - Bucket queue size: 12, Input queue size: 14
+2021-09-21 15:03:52,895 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:04:12,029 - data_util.log - INFO - Bucket queue size: 40, Input queue size: 2000
+2021-09-21 15:05:12,089 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:06:01,287 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 15:06:12,147 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:07:12,207 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:07:38,711 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 15:08:12,268 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:09:12,327 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:09:18,691 - data_util.log - INFO - iter:6150  mle_loss:0.242  rl_loss:-0.018  reward:0.8958
+2021-09-21 15:10:12,387 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:10:55,691 - data_util.log - INFO - iter:6200  mle_loss:0.187  rl_loss:-0.007  reward:0.9351
+2021-09-21 15:11:12,447 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:12:18,116 - data_util.log - INFO - log启动
+2021-09-21 15:12:20,440 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-09-21 15:13:34,600 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:13:46,631 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1998
+2021-09-21 15:14:46,673 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:15:32,754 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 15:15:46,731 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:16:46,791 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:17:12,277 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 15:17:46,851 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:18:46,912 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:21:36,883 - data_util.log - INFO - log启动
+2021-09-21 15:21:39,184 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-09-21 15:22:41,131 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:23:00,196 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1998
+2021-09-21 15:24:00,255 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:24:51,747 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 15:25:00,315 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:26:00,375 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:26:30,999 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 15:27:00,435 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:30:59,975 - data_util.log - INFO - log启动
+2021-09-21 15:31:02,305 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 74
+2021-09-21 15:32:03,083 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:32:23,633 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1998
+2021-09-21 15:33:23,691 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:34:13,779 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 15:34:23,752 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:35:23,812 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:35:51,508 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 15:36:23,871 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:39:41,036 - data_util.log - INFO - log启动
+2021-09-21 15:39:43,349 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-09-21 15:40:49,220 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:41:04,621 - data_util.log - INFO - Bucket queue size: 48, Input queue size: 1902
+2021-09-21 15:42:04,679 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:42:54,542 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 15:43:04,700 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:44:04,771 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:44:32,259 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 15:45:04,831 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:46:04,892 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:46:11,964 - data_util.log - INFO - iter:6150  mle_loss:0.237  rl_loss:-0.019  reward:0.9012
+2021-09-21 15:47:04,957 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:47:49,177 - data_util.log - INFO - iter:6200  mle_loss:0.180  rl_loss:-0.006  reward:0.9350
+2021-09-21 15:48:05,028 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:49:05,088 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:50:05,148 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:52:08,804 - data_util.log - INFO - log启动
+2021-09-21 15:52:11,123 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 114
+2021-09-21 15:53:11,599 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 15:53:41,571 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 2000
+2021-09-21 15:54:41,643 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:55:22,130 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 15:55:41,709 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:56:41,779 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:57:01,344 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 15:57:41,839 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 15:58:41,869 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:04:27,695 - data_util.log - INFO - log启动
+2021-09-21 16:04:30,001 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-09-21 16:05:30,615 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-09-21 16:05:49,367 - data_util.log - INFO - Bucket queue size: 30, Input queue size: 1938
+2021-09-21 16:06:49,427 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:07:48,578 - data_util.log - INFO - iter:6050  mle_loss:0.192  rl_loss:-0.006  reward:0.9391
+2021-09-21 16:07:49,487 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:08:49,547 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:09:27,396 - data_util.log - INFO - iter:6100  mle_loss:0.191  rl_loss:-0.010  reward:0.9185
+2021-09-21 16:09:49,608 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:10:49,667 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:11:06,764 - data_util.log - INFO - iter:6150  mle_loss:0.237  rl_loss:-0.019  reward:0.9011
+2021-09-21 16:11:49,727 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:12:43,444 - data_util.log - INFO - iter:6200  mle_loss:0.183  rl_loss:-0.002  reward:0.9381
+2021-09-21 16:12:49,787 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:13:49,847 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:14:19,620 - data_util.log - INFO - iter:6250  mle_loss:0.247  rl_loss:-0.012  reward:0.9070
+2021-09-21 16:14:49,911 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:15:49,971 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:15:55,607 - data_util.log - INFO - iter:6300  mle_loss:0.205  rl_loss:-0.008  reward:0.9309
+2021-09-21 16:16:50,031 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:17:30,446 - data_util.log - INFO - iter:6350  mle_loss:0.234  rl_loss:-0.027  reward:0.9016
+2021-09-21 16:17:50,091 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:18:50,151 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:19:05,760 - data_util.log - INFO - iter:6400  mle_loss:0.233  rl_loss:-0.025  reward:0.9112
+2021-09-21 16:19:50,211 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:20:42,648 - data_util.log - INFO - iter:6450  mle_loss:0.232  rl_loss:-0.015  reward:0.9021
+2021-09-21 16:20:50,272 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:21:50,332 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:22:20,490 - data_util.log - INFO - iter:6500  mle_loss:0.239  rl_loss:-0.016  reward:0.8968
+2021-09-21 16:22:50,391 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:23:50,451 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:23:59,222 - data_util.log - INFO - iter:6550  mle_loss:0.210  rl_loss:-0.018  reward:0.9144
+2021-09-21 16:24:50,511 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:25:33,158 - data_util.log - INFO - iter:6600  mle_loss:0.254  rl_loss:-0.027  reward:0.8925
+2021-09-21 16:25:50,571 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:26:50,631 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:27:13,272 - data_util.log - INFO - iter:6650  mle_loss:0.246  rl_loss:-0.024  reward:0.9066
+2021-09-21 16:27:50,691 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:28:50,510 - data_util.log - INFO - iter:6700  mle_loss:0.233  rl_loss:-0.010  reward:0.9248
+2021-09-21 16:28:50,751 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:29:50,811 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:30:29,356 - data_util.log - INFO - iter:6750  mle_loss:0.264  rl_loss:-0.013  reward:0.9088
+2021-09-21 16:30:50,871 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:31:50,931 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:32:07,070 - data_util.log - INFO - iter:6800  mle_loss:0.238  rl_loss:-0.024  reward:0.9049
+2021-09-21 16:32:50,991 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:33:46,552 - data_util.log - INFO - iter:6850  mle_loss:0.207  rl_loss:-0.015  reward:0.9188
+2021-09-21 16:33:51,051 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:34:51,111 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:35:26,319 - data_util.log - INFO - iter:6900  mle_loss:0.255  rl_loss:-0.016  reward:0.9006
+2021-09-21 16:35:51,127 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:36:51,187 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:37:02,668 - data_util.log - INFO - iter:6950  mle_loss:0.244  rl_loss:-0.027  reward:0.8946
+2021-09-21 16:37:51,247 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:38:40,630 - data_util.log - INFO - iter:7000  mle_loss:0.254  rl_loss:-0.022  reward:0.9115
+2021-09-21 16:38:51,255 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:39:51,315 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:40:19,668 - data_util.log - INFO - iter:7050  mle_loss:0.288  rl_loss:-0.028  reward:0.8806
+2021-09-21 16:40:51,358 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:41:51,415 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:41:58,233 - data_util.log - INFO - iter:7100  mle_loss:0.275  rl_loss:-0.019  reward:0.8925
+2021-09-21 16:42:51,475 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:43:35,112 - data_util.log - INFO - iter:7150  mle_loss:0.296  rl_loss:-0.016  reward:0.9091
+2021-09-21 16:43:51,536 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-09-21 16:46:22,771 - data_util.log - INFO - log启动
+2021-09-21 16:46:25,066 - data_util.log - INFO - 
+2021-09-21 16:48:28,077 - data_util.log - INFO - 0006000.tar rouge_1:0.5404 rouge_2:0.3439 rouge_l:0.4750
+2021-09-21 16:48:28,142 - data_util.log - INFO - 
+2021-09-21 16:50:34,331 - data_util.log - INFO - 0006500.tar rouge_1:0.5317 rouge_2:0.3327 rouge_l:0.4589
+2021-09-21 16:50:34,397 - data_util.log - INFO - 
+2021-09-21 16:52:39,324 - data_util.log - INFO - 0007000.tar rouge_1:0.5250 rouge_2:0.3213 rouge_l:0.4543

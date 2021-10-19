@@ -1,0 +1,9 @@
+make_data_files.py    text process
+train_senti.py    train models
+train_senti_variable.py    train models with variable reinforcement paraments
+eval_senti.py  evaluate models
+
+
+train models without reinforcement: python train_senti.py --train_mle=yes --train_rl=no --mle_weight=1.0  --sentiment_weight=0.75
+train models with reinforcement: python train_senti.py --train_mle=yes --train_rl=yes --mle_weight=0.0016  --sentiment_weight=0.75
+evaluate models: python eval_senti.py --task=validate --start_from=xxxx.tar

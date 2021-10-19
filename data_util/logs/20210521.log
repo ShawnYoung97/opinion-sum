@@ -1,0 +1,183 @@
+2021-05-21 10:03:45,006 - data_util.log - INFO - log启动
+2021-05-21 10:03:50,208 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-05-21 10:04:56,089 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 10:05:04,589 - data_util.log - INFO - Bucket queue size: 7, Input queue size: 3968
+2021-05-21 10:06:34,704 - data_util.log - INFO - Bucket queue size: 15, Input queue size: 3956
+2021-05-21 10:08:41,808 - data_util.log - INFO - Bucket queue size: 20, Input queue size: 3996
+2021-05-21 10:09:48,552 - data_util.log - INFO - Bucket queue size: 21, Input queue size: 3992
+2021-05-21 10:11:21,483 - data_util.log - INFO - Bucket queue size: 29, Input queue size: 3981
+2021-05-21 10:12:48,529 - data_util.log - INFO - Bucket queue size: 40, Input queue size: 3985
+2021-05-21 10:15:05,556 - data_util.log - INFO - log启动
+2021-05-21 10:15:10,704 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 10:15:34,553 - data_util.log - INFO - log启动
+2021-05-21 10:15:39,662 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 10:16:40,566 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 10:16:58,097 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 3998
+2021-05-21 10:18:13,504 - data_util.log - INFO - Bucket queue size: 2, Input queue size: 3995
+2021-05-21 10:19:33,835 - data_util.log - INFO - Bucket queue size: 12, Input queue size: 3964
+2021-05-21 10:21:18,099 - data_util.log - INFO - Bucket queue size: 17, Input queue size: 3950
+2021-05-21 10:23:22,480 - data_util.log - INFO - Bucket queue size: 23, Input queue size: 3984
+2021-05-21 10:24:27,351 - data_util.log - INFO - Bucket queue size: 24, Input queue size: 3988
+2021-05-21 10:25:27,419 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 10:28:07,394 - data_util.log - INFO - log启动
+2021-05-21 10:28:12,557 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 10:29:13,334 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 10:29:41,221 - data_util.log - INFO - Bucket queue size: 3, Input queue size: 3988
+2021-05-21 10:30:59,529 - data_util.log - INFO - Bucket queue size: 7, Input queue size: 3991
+2021-05-21 10:32:08,924 - data_util.log - INFO - Bucket queue size: 25, Input queue size: 3953
+2021-05-21 10:33:09,987 - data_util.log - INFO - Bucket queue size: 73, Input queue size: 3786
+2021-05-21 10:35:16,430 - data_util.log - INFO - Bucket queue size: 103, Input queue size: 3732
+2021-05-21 10:38:01,280 - data_util.log - INFO - Bucket queue size: 109, Input queue size: 3729
+2021-05-21 10:39:01,356 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 10:39:59,280 - data_util.log - INFO - log启动
+2021-05-21 10:40:04,419 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 10:41:05,445 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 10:41:32,485 - data_util.log - INFO - Bucket queue size: 3, Input queue size: 3988
+2021-05-21 10:42:37,748 - data_util.log - INFO - Bucket queue size: 7, Input queue size: 3976
+2021-05-21 10:43:46,946 - data_util.log - INFO - Bucket queue size: 19, Input queue size: 3996
+2021-05-21 10:45:20,888 - data_util.log - INFO - Bucket queue size: 23, Input queue size: 3984
+2021-05-21 10:47:07,935 - data_util.log - INFO - Bucket queue size: 106, Input queue size: 3668
+2021-05-21 10:48:14,402 - data_util.log - INFO - Bucket queue size: 110, Input queue size: 3727
+2021-05-21 10:49:14,463 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 10:52:18,141 - data_util.log - INFO - log启动
+2021-05-21 10:52:23,293 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 10:53:23,376 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 10:53:40,676 - data_util.log - INFO - Bucket queue size: 2, Input queue size: 3989
+2021-05-21 10:54:46,156 - data_util.log - INFO - Bucket queue size: 7, Input queue size: 3996
+2021-05-21 10:56:14,623 - data_util.log - INFO - Bucket queue size: 19, Input queue size: 3971
+2021-05-21 10:58:48,598 - data_util.log - INFO - Bucket queue size: 26, Input queue size: 3972
+2021-05-21 11:00:22,729 - data_util.log - INFO - Bucket queue size: 28, Input queue size: 3964
+2021-05-21 11:02:25,103 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:03:25,164 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:04:25,224 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:05:25,284 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:06:25,345 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:07:25,405 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:08:25,465 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:09:25,526 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:10:25,586 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:11:25,646 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:12:25,707 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 11:13:25,767 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 14:40:16,582 - data_util.log - INFO - log启动
+2021-05-21 14:40:21,716 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 14:41:27,348 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 14:41:57,842 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 3997
+2021-05-21 14:42:58,185 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 3996
+2021-05-21 14:44:16,260 - data_util.log - INFO - Bucket queue size: 9, Input queue size: 3998
+2021-05-21 14:45:34,563 - data_util.log - INFO - Bucket queue size: 15, Input queue size: 3995
+2021-05-21 14:47:11,272 - data_util.log - INFO - Bucket queue size: 23, Input queue size: 3984
+2021-05-21 14:48:14,425 - data_util.log - INFO - Bucket queue size: 25, Input queue size: 3980
+2021-05-21 14:49:14,491 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 14:50:23,684 - data_util.log - INFO - log启动
+2021-05-21 14:50:28,818 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1
+2021-05-21 14:51:27,673 - data_util.log - INFO - log启动
+2021-05-21 14:51:32,789 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 14:52:32,851 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 14:52:32,859 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 3993
+2021-05-21 15:22:03,093 - data_util.log - INFO - log启动
+2021-05-21 15:22:08,229 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1
+2021-05-21 15:23:08,290 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 15:23:08,298 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 3993
+2021-05-21 15:23:28,924 - data_util.log - INFO - log启动
+2021-05-21 15:23:34,023 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 15:24:34,666 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 15:24:42,347 - data_util.log - INFO - Bucket queue size: 2, Input queue size: 3990
+2021-05-21 15:25:48,184 - data_util.log - INFO - Bucket queue size: 10, Input queue size: 3989
+2021-05-21 15:27:12,448 - data_util.log - INFO - Bucket queue size: 16, Input queue size: 3975
+2021-05-21 15:28:12,635 - data_util.log - INFO - Bucket queue size: 19, Input queue size: 3979
+2021-05-21 15:29:18,407 - data_util.log - INFO - Bucket queue size: 21, Input queue size: 3992
+2021-05-21 15:30:34,060 - data_util.log - INFO - Bucket queue size: 26, Input queue size: 3996
+2021-05-21 15:31:35,775 - data_util.log - INFO - Bucket queue size: 31, Input queue size: 3990
+2021-05-21 15:35:36,829 - data_util.log - INFO - log启动
+2021-05-21 15:35:41,976 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 15:36:42,599 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 15:37:10,654 - data_util.log - INFO - Bucket queue size: 3, Input queue size: 3986
+2021-05-21 15:38:15,818 - data_util.log - INFO - Bucket queue size: 17, Input queue size: 3987
+2021-05-21 15:39:36,986 - data_util.log - INFO - Bucket queue size: 20, Input queue size: 3991
+2021-05-21 15:40:37,122 - data_util.log - INFO - Bucket queue size: 21, Input queue size: 3992
+2021-05-21 15:41:40,894 - data_util.log - INFO - Bucket queue size: 30, Input queue size: 3956
+2021-05-21 15:43:26,513 - data_util.log - INFO - Bucket queue size: 37, Input queue size: 4000
+2021-05-21 15:44:38,173 - data_util.log - INFO - Bucket queue size: 44, Input queue size: 3997
+2021-05-21 15:45:38,239 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:48:30,057 - data_util.log - INFO - log启动
+2021-05-21 17:48:32,487 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-05-21 17:49:32,912 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 17:49:44,139 - data_util.log - INFO - Bucket queue size: 3, Input queue size: 4000
+2021-05-21 17:50:44,394 - data_util.log - INFO - Bucket queue size: 316, Input queue size: 3532
+2021-05-21 17:51:44,461 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:52:44,708 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:53:44,930 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:54:45,447 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:55:46,070 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:56:46,575 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:57:46,640 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:58:46,914 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 17:59:46,974 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:00:47,011 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:01:47,071 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:02:47,131 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:03:47,191 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:04:47,252 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:05:47,311 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:06:47,371 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:07:47,432 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:08:47,491 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:09:47,551 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:10:47,611 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:11:47,671 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:12:47,731 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:13:47,791 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:14:47,852 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:15:47,912 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:16:47,973 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:17:48,033 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:18:48,091 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:19:48,152 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:20:48,212 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:21:48,255 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:22:48,315 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:23:48,376 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:24:48,436 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:25:48,497 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:26:48,555 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:27:48,615 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:28:48,676 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:29:48,735 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 18:30:48,796 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:05:33,269 - data_util.log - INFO - log启动
+2021-05-21 19:05:35,601 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-21 19:06:35,780 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 19:06:36,347 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 3993
+2021-05-21 19:07:36,474 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 996
+2021-05-21 19:08:37,457 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:09:38,395 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:10:38,886 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:11:40,292 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:12:40,700 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:13:41,450 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:14:42,201 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:15:32,295 - data_util.log - INFO - log启动
+2021-05-21 19:15:34,735 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-05-21 19:16:34,872 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 19:16:40,344 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 3992
+2021-05-21 19:17:42,348 - data_util.log - INFO - Bucket queue size: 27, Input queue size: 3968
+2021-05-21 19:18:44,436 - data_util.log - INFO - Bucket queue size: 34, Input queue size: 3993
+2021-05-21 19:19:57,168 - data_util.log - INFO - Bucket queue size: 42, Input queue size: 3991
+2021-05-21 19:20:58,523 - data_util.log - INFO - Bucket queue size: 52, Input queue size: 3989
+2021-05-21 19:22:08,969 - data_util.log - INFO - Bucket queue size: 116, Input queue size: 3982
+2021-05-21 19:23:15,983 - data_util.log - INFO - Bucket queue size: 130, Input queue size: 3980
+2021-05-21 19:24:30,946 - data_util.log - INFO - Bucket queue size: 929, Input queue size: 1722
+2021-05-21 19:25:52,407 - data_util.log - INFO - log启动
+2021-05-21 19:25:54,839 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 40
+2021-05-21 19:26:55,309 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-21 19:27:05,732 - data_util.log - INFO - Bucket queue size: 9, Input queue size: 3962
+2021-05-21 19:28:08,951 - data_util.log - INFO - Bucket queue size: 925, Input queue size: 2103
+2021-05-21 19:29:09,397 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:30:09,993 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:31:10,458 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:32:11,335 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:33:11,636 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:34:12,228 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:35:12,588 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-21 19:36:12,647 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000

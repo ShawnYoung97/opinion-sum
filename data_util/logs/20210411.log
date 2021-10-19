@@ -1,0 +1,52 @@
+2021-04-11 00:00:39,049 - data_util.log - INFO - log启动
+2021-04-11 00:00:42,278 - data_util.log - INFO - 
+2021-04-11 00:02:54,449 - data_util.log - INFO - 0013000.tar rouge_1:0.2980 rouge_2:0.1504 rouge_l:0.2293
+2021-04-11 00:02:54,518 - data_util.log - INFO - 
+2021-04-11 00:05:07,001 - data_util.log - INFO - 0013500.tar rouge_1:0.2882 rouge_2:0.1260 rouge_l:0.2205
+2021-04-11 00:05:07,071 - data_util.log - INFO - 
+2021-04-11 00:07:17,109 - data_util.log - INFO - 0014000.tar rouge_1:0.2679 rouge_2:0.1231 rouge_l:0.2168
+2021-04-11 00:07:17,181 - data_util.log - INFO - 
+2021-04-11 00:09:24,227 - data_util.log - INFO - 0014500.tar rouge_1:0.2854 rouge_2:0.1427 rouge_l:0.2271
+2021-04-11 00:09:24,298 - data_util.log - INFO - 
+2021-04-11 00:11:32,180 - data_util.log - INFO - 0015000.tar rouge_1:0.2675 rouge_2:0.1134 rouge_l:0.2036
+2021-04-11 00:11:32,253 - data_util.log - INFO - 
+2021-04-11 00:13:43,129 - data_util.log - INFO - 0015500.tar rouge_1:0.2537 rouge_2:0.1171 rouge_l:0.1999
+2021-04-11 00:13:43,195 - data_util.log - INFO - 
+2021-04-11 00:15:53,115 - data_util.log - INFO - 0016000.tar rouge_1:0.2577 rouge_2:0.1205 rouge_l:0.2067
+2021-04-11 00:15:53,188 - data_util.log - INFO - 
+2021-04-11 00:17:57,885 - data_util.log - INFO - 0016500.tar rouge_1:0.2595 rouge_2:0.1216 rouge_l:0.2090
+2021-04-11 00:17:57,961 - data_util.log - INFO - 
+2021-04-11 00:20:04,825 - data_util.log - INFO - 0017000.tar rouge_1:0.2831 rouge_2:0.1360 rouge_l:0.2275
+2021-04-11 00:20:04,901 - data_util.log - INFO - 
+2021-04-11 00:22:16,806 - data_util.log - INFO - 0017500.tar rouge_1:0.2750 rouge_2:0.1306 rouge_l:0.2231
+2021-04-11 00:22:16,872 - data_util.log - INFO - 
+2021-04-11 00:24:36,209 - data_util.log - INFO - 0018000.tar rouge_1:0.2946 rouge_2:0.1265 rouge_l:0.2330
+2021-04-11 00:24:36,285 - data_util.log - INFO - 
+2021-04-11 00:26:35,639 - data_util.log - INFO - 0018500.tar rouge_1:0.2712 rouge_2:0.1252 rouge_l:0.2081
+2021-04-11 00:26:35,712 - data_util.log - INFO - 
+2021-04-11 00:28:41,986 - data_util.log - INFO - 0019000.tar rouge_1:0.2641 rouge_2:0.1169 rouge_l:0.2137
+2021-04-11 00:28:42,052 - data_util.log - INFO - 
+2021-04-11 00:30:31,957 - data_util.log - INFO - 0019500.tar rouge_1:0.2564 rouge_2:0.1251 rouge_l:0.2103
+2021-04-11 00:30:32,023 - data_util.log - INFO - 
+2021-04-11 00:32:25,950 - data_util.log - INFO - 0020000.tar rouge_1:0.2599 rouge_2:0.1218 rouge_l:0.2098
+2021-04-11 00:32:26,024 - data_util.log - INFO - 
+2021-04-11 00:34:35,424 - data_util.log - INFO - 0020500.tar rouge_1:0.2592 rouge_2:0.1206 rouge_l:0.2100
+2021-04-11 00:34:35,499 - data_util.log - INFO - 
+2021-04-11 00:36:42,721 - data_util.log - INFO - 0021000.tar rouge_1:0.2316 rouge_2:0.0997 rouge_l:0.1893
+2021-04-11 00:36:42,797 - data_util.log - INFO - 
+2021-04-11 00:38:49,857 - data_util.log - INFO - 0021500.tar rouge_1:0.2582 rouge_2:0.1112 rouge_l:0.2021
+2021-04-11 00:38:49,932 - data_util.log - INFO - 
+2021-04-11 00:40:54,848 - data_util.log - INFO - 0022000.tar rouge_1:0.2518 rouge_2:0.1121 rouge_l:0.2092
+2021-04-11 00:40:54,921 - data_util.log - INFO - 
+2021-04-11 00:43:04,054 - data_util.log - INFO - 0022500.tar rouge_1:0.2686 rouge_2:0.1294 rouge_l:0.2216
+2021-04-11 00:43:04,124 - data_util.log - INFO - 
+2021-04-11 00:45:12,547 - data_util.log - INFO - 0023000.tar rouge_1:0.2604 rouge_2:0.1256 rouge_l:0.2082
+2021-04-11 00:45:12,619 - data_util.log - INFO - 
+2021-04-11 00:47:17,748 - data_util.log - INFO - 0023500.tar rouge_1:0.2580 rouge_2:0.1208 rouge_l:0.2088
+2021-04-11 00:47:17,821 - data_util.log - INFO - 
+2021-04-11 00:49:35,402 - data_util.log - INFO - 0024000.tar rouge_1:0.2722 rouge_2:0.1311 rouge_l:0.2251
+2021-04-11 00:49:35,474 - data_util.log - INFO - 
+2021-04-11 00:51:52,938 - data_util.log - INFO - 0024500.tar rouge_1:0.2888 rouge_2:0.1383 rouge_l:0.2333
+2021-04-11 00:51:53,013 - data_util.log - INFO - 
+2021-04-11 00:54:10,411 - data_util.log - INFO - 0025000.tar rouge_1:0.2805 rouge_2:0.1267 rouge_l:0.2224
+2021-04-11 00:54:10,483 - data_util.log - INFO - 

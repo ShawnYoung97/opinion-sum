@@ -1,0 +1,808 @@
+2021-10-19 07:07:01,357 - data_util.log - INFO - log启动
+2021-10-19 07:07:04,876 - data_util.log - INFO - 
+2021-10-19 07:08:58,988 - data_util.log - INFO - 0047800.tar rouge_1:0.4512 rouge_2:0.3571 rouge_l:0.4290
+2021-10-19 07:08:59,099 - data_util.log - INFO - 
+2021-10-19 07:10:56,954 - data_util.log - INFO - 0047900.tar rouge_1:0.4300 rouge_2:0.2960 rouge_l:0.3942
+2021-10-19 07:10:57,064 - data_util.log - INFO - 
+2021-10-19 07:11:08,007 - data_util.log - INFO - log启动
+2021-10-19 07:11:10,384 - data_util.log - INFO - 
+2021-10-19 07:13:02,667 - data_util.log - INFO - 0036700.tar rouge_1:0.4798 rouge_2:0.3916 rouge_l:0.4586
+2021-10-19 07:13:02,776 - data_util.log - INFO - 
+2021-10-19 07:13:07,356 - data_util.log - INFO - 0048000.tar rouge_1:0.2536 rouge_2:0.0262 rouge_l:0.1530
+2021-10-19 07:13:07,464 - data_util.log - INFO - 
+2021-10-19 07:15:11,020 - data_util.log - INFO - 0036800.tar rouge_1:0.2885 rouge_2:0.0810 rouge_l:0.2260
+2021-10-19 07:15:11,132 - data_util.log - INFO - 
+2021-10-19 07:15:17,909 - data_util.log - INFO - 0048100.tar rouge_1:0.1268 rouge_2:0.0075 rouge_l:0.1121
+2021-10-19 07:15:18,017 - data_util.log - INFO - 
+2021-10-19 07:17:18,279 - data_util.log - INFO - 0036900.tar rouge_1:0.2250 rouge_2:0.0918 rouge_l:0.1985
+2021-10-19 07:17:18,390 - data_util.log - INFO - 
+2021-10-19 07:17:27,007 - data_util.log - INFO - 0048200.tar rouge_1:0.2710 rouge_2:0.0500 rouge_l:0.1891
+2021-10-19 07:17:27,115 - data_util.log - INFO - 
+2021-10-19 07:19:27,472 - data_util.log - INFO - 0037000.tar rouge_1:0.1624 rouge_2:0.0223 rouge_l:0.1314
+2021-10-19 07:19:27,583 - data_util.log - INFO - 
+2021-10-19 07:19:37,523 - data_util.log - INFO - 0048300.tar rouge_1:0.2544 rouge_2:0.0486 rouge_l:0.2023
+2021-10-19 07:19:37,630 - data_util.log - INFO - 
+2021-10-19 07:21:34,697 - data_util.log - INFO - 0037100.tar rouge_1:0.1484 rouge_2:0.0316 rouge_l:0.1228
+2021-10-19 07:21:34,809 - data_util.log - INFO - 
+2021-10-19 07:21:36,713 - data_util.log - INFO - 0048400.tar rouge_1:0.2464 rouge_2:0.0476 rouge_l:0.1964
+2021-10-19 07:21:36,824 - data_util.log - INFO - 
+2021-10-19 07:23:44,056 - data_util.log - INFO - 0037200.tar rouge_1:0.1757 rouge_2:0.0368 rouge_l:0.1489
+2021-10-19 07:23:44,166 - data_util.log - INFO - 
+2021-10-19 07:23:50,152 - data_util.log - INFO - 0048500.tar rouge_1:0.2684 rouge_2:0.0328 rouge_l:0.1803
+2021-10-19 07:23:50,264 - data_util.log - INFO - 
+2021-10-19 07:25:48,612 - data_util.log - INFO - 0037300.tar rouge_1:0.2014 rouge_2:0.0345 rouge_l:0.1578
+2021-10-19 07:25:48,723 - data_util.log - INFO - 
+2021-10-19 07:26:00,488 - data_util.log - INFO - 0048600.tar rouge_1:0.2456 rouge_2:0.0270 rouge_l:0.1714
+2021-10-19 07:26:00,599 - data_util.log - INFO - 
+2021-10-19 07:27:57,601 - data_util.log - INFO - 0037400.tar rouge_1:0.1870 rouge_2:0.0192 rouge_l:0.1505
+2021-10-19 07:27:57,713 - data_util.log - INFO - 
+2021-10-19 07:28:10,111 - data_util.log - INFO - 0048700.tar rouge_1:0.2400 rouge_2:0.0295 rouge_l:0.1589
+2021-10-19 07:28:10,221 - data_util.log - INFO - 
+2021-10-19 07:30:07,003 - data_util.log - INFO - 0037500.tar rouge_1:0.1965 rouge_2:0.0205 rouge_l:0.1512
+2021-10-19 07:30:07,116 - data_util.log - INFO - 
+2021-10-19 07:30:19,659 - data_util.log - INFO - 0048800.tar rouge_1:0.2554 rouge_2:0.0301 rouge_l:0.1874
+2021-10-19 07:30:19,766 - data_util.log - INFO - 
+2021-10-19 07:32:17,211 - data_util.log - INFO - 0037600.tar rouge_1:0.2055 rouge_2:0.0144 rouge_l:0.1517
+2021-10-19 07:32:17,322 - data_util.log - INFO - 
+2021-10-19 07:32:30,725 - data_util.log - INFO - 0048900.tar rouge_1:0.2429 rouge_2:0.0316 rouge_l:0.1900
+2021-10-19 07:32:30,834 - data_util.log - INFO - 
+2021-10-19 07:34:25,404 - data_util.log - INFO - 0037700.tar rouge_1:0.1877 rouge_2:0.0182 rouge_l:0.1462
+2021-10-19 07:34:25,515 - data_util.log - INFO - 
+2021-10-19 07:34:40,585 - data_util.log - INFO - 0049000.tar rouge_1:0.2535 rouge_2:0.0348 rouge_l:0.1984
+2021-10-19 07:34:40,700 - data_util.log - INFO - 
+2021-10-19 07:36:34,992 - data_util.log - INFO - 0037800.tar rouge_1:0.1893 rouge_2:0.0176 rouge_l:0.1482
+2021-10-19 07:36:35,104 - data_util.log - INFO - 
+2021-10-19 07:36:47,645 - data_util.log - INFO - 0049100.tar rouge_1:0.2813 rouge_2:0.0352 rouge_l:0.2038
+2021-10-19 07:36:47,759 - data_util.log - INFO - 
+2021-10-19 07:38:44,703 - data_util.log - INFO - 0037900.tar rouge_1:0.1871 rouge_2:0.0153 rouge_l:0.1522
+2021-10-19 07:38:44,816 - data_util.log - INFO - 
+2021-10-19 07:38:58,826 - data_util.log - INFO - 0049200.tar rouge_1:0.3355 rouge_2:0.0923 rouge_l:0.2621
+2021-10-19 07:38:58,934 - data_util.log - INFO - 
+2021-10-19 07:40:54,152 - data_util.log - INFO - 0038000.tar rouge_1:0.2027 rouge_2:0.0109 rouge_l:0.1588
+2021-10-19 07:40:54,262 - data_util.log - INFO - 
+2021-10-19 07:41:08,982 - data_util.log - INFO - 0049300.tar rouge_1:0.1743 rouge_2:0.0234 rouge_l:0.1457
+2021-10-19 07:41:09,093 - data_util.log - INFO - 
+2021-10-19 07:43:04,162 - data_util.log - INFO - 0038100.tar rouge_1:0.2075 rouge_2:0.0179 rouge_l:0.1648
+2021-10-19 07:43:04,273 - data_util.log - INFO - 
+2021-10-19 07:43:18,442 - data_util.log - INFO - 0049400.tar rouge_1:0.2413 rouge_2:0.0351 rouge_l:0.1950
+2021-10-19 07:43:18,552 - data_util.log - INFO - 
+2021-10-19 07:45:14,576 - data_util.log - INFO - 0038200.tar rouge_1:0.1947 rouge_2:0.0167 rouge_l:0.1609
+2021-10-19 07:45:14,688 - data_util.log - INFO - 
+2021-10-19 07:45:27,565 - data_util.log - INFO - 0049500.tar rouge_1:0.1833 rouge_2:0.0243 rouge_l:0.1571
+2021-10-19 07:45:27,672 - data_util.log - INFO - 
+2021-10-19 07:47:24,457 - data_util.log - INFO - 0038300.tar rouge_1:0.2007 rouge_2:0.0130 rouge_l:0.1620
+2021-10-19 07:47:24,570 - data_util.log - INFO - 
+2021-10-19 07:47:37,661 - data_util.log - INFO - 0049600.tar rouge_1:0.1546 rouge_2:0.0062 rouge_l:0.1266
+2021-10-19 07:47:37,769 - data_util.log - INFO - 
+2021-10-19 07:49:12,738 - data_util.log - INFO - 0038400.tar rouge_1:0.1916 rouge_2:0.0297 rouge_l:0.1570
+2021-10-19 07:49:12,847 - data_util.log - INFO - 
+2021-10-19 07:49:49,465 - data_util.log - INFO - 0049700.tar rouge_1:0.1720 rouge_2:0.0038 rouge_l:0.1358
+2021-10-19 07:49:49,574 - data_util.log - INFO - 
+2021-10-19 07:51:21,279 - data_util.log - INFO - 0038500.tar rouge_1:0.1218 rouge_2:0.0264 rouge_l:0.1087
+2021-10-19 07:51:21,389 - data_util.log - INFO - 
+2021-10-19 07:52:00,378 - data_util.log - INFO - 0049800.tar rouge_1:0.1190 rouge_2:0.0019 rouge_l:0.1017
+2021-10-19 07:52:00,485 - data_util.log - INFO - 
+2021-10-19 07:53:31,001 - data_util.log - INFO - 0038600.tar rouge_1:0.2061 rouge_2:0.0354 rouge_l:0.1682
+2021-10-19 07:53:31,113 - data_util.log - INFO - 
+2021-10-19 07:54:10,013 - data_util.log - INFO - 0049900.tar rouge_1:0.0846 rouge_2:0.0026 rouge_l:0.0764
+2021-10-19 07:54:10,122 - data_util.log - INFO - 
+2021-10-19 07:55:40,008 - data_util.log - INFO - 0038700.tar rouge_1:0.1771 rouge_2:0.0254 rouge_l:0.1474
+2021-10-19 07:55:40,118 - data_util.log - INFO - 
+2021-10-19 07:56:19,933 - data_util.log - INFO - 0050000.tar rouge_1:0.1542 rouge_2:0.0122 rouge_l:0.1318
+2021-10-19 07:56:20,041 - data_util.log - INFO - 
+2021-10-19 07:57:49,715 - data_util.log - INFO - 0038800.tar rouge_1:0.1779 rouge_2:0.0199 rouge_l:0.1453
+2021-10-19 07:57:49,828 - data_util.log - INFO - 
+2021-10-19 07:58:30,536 - data_util.log - INFO - 0050100.tar rouge_1:0.1456 rouge_2:0.0104 rouge_l:0.1278
+2021-10-19 07:58:30,645 - data_util.log - INFO - 
+2021-10-19 07:59:58,530 - data_util.log - INFO - 0038900.tar rouge_1:0.2132 rouge_2:0.0328 rouge_l:0.1744
+2021-10-19 07:59:58,643 - data_util.log - INFO - 
+2021-10-19 08:00:41,494 - data_util.log - INFO - 0050200.tar rouge_1:0.1460 rouge_2:0.0073 rouge_l:0.1201
+2021-10-19 08:00:41,603 - data_util.log - INFO - 
+2021-10-19 08:02:07,334 - data_util.log - INFO - 0039000.tar rouge_1:0.1568 rouge_2:0.0317 rouge_l:0.1276
+2021-10-19 08:02:07,445 - data_util.log - INFO - 
+2021-10-19 08:02:51,798 - data_util.log - INFO - 0050300.tar rouge_1:0.1410 rouge_2:0.0081 rouge_l:0.1180
+2021-10-19 08:02:51,907 - data_util.log - INFO - 
+2021-10-19 08:04:16,059 - data_util.log - INFO - 0039100.tar rouge_1:0.1769 rouge_2:0.0334 rouge_l:0.1445
+2021-10-19 08:04:16,169 - data_util.log - INFO - 
+2021-10-19 08:05:02,048 - data_util.log - INFO - 0050400.tar rouge_1:0.1401 rouge_2:0.0062 rouge_l:0.1172
+2021-10-19 08:05:02,160 - data_util.log - INFO - 
+2021-10-19 08:06:26,468 - data_util.log - INFO - 0039200.tar rouge_1:0.2080 rouge_2:0.0414 rouge_l:0.1625
+2021-10-19 08:06:26,580 - data_util.log - INFO - 
+2021-10-19 08:07:12,322 - data_util.log - INFO - 0050500.tar rouge_1:0.1088 rouge_2:0.0028 rouge_l:0.0974
+2021-10-19 08:07:12,432 - data_util.log - INFO - 
+2021-10-19 08:08:37,106 - data_util.log - INFO - 0039300.tar rouge_1:0.2170 rouge_2:0.0232 rouge_l:0.1764
+2021-10-19 08:08:37,217 - data_util.log - INFO - 
+2021-10-19 08:09:22,906 - data_util.log - INFO - 0050600.tar rouge_1:0.1306 rouge_2:0.0051 rouge_l:0.1096
+2021-10-19 08:09:23,016 - data_util.log - INFO - 
+2021-10-19 08:10:45,258 - data_util.log - INFO - 0039400.tar rouge_1:0.1803 rouge_2:0.0169 rouge_l:0.1526
+2021-10-19 08:10:45,367 - data_util.log - INFO - 
+2021-10-19 08:11:34,069 - data_util.log - INFO - 0050700.tar rouge_1:0.1492 rouge_2:0.0115 rouge_l:0.1269
+2021-10-19 08:11:34,176 - data_util.log - INFO - 
+2021-10-19 08:12:54,113 - data_util.log - INFO - 0039500.tar rouge_1:0.1719 rouge_2:0.0130 rouge_l:0.1411
+2021-10-19 08:12:54,224 - data_util.log - INFO - 
+2021-10-19 08:13:45,343 - data_util.log - INFO - 0050800.tar rouge_1:0.1490 rouge_2:0.0104 rouge_l:0.1227
+2021-10-19 08:13:45,453 - data_util.log - INFO - 
+2021-10-19 08:15:02,378 - data_util.log - INFO - 0039600.tar rouge_1:0.1610 rouge_2:0.0144 rouge_l:0.1350
+2021-10-19 08:15:02,489 - data_util.log - INFO - 
+2021-10-19 08:15:56,422 - data_util.log - INFO - 0050900.tar rouge_1:0.1453 rouge_2:0.0108 rouge_l:0.1295
+2021-10-19 08:15:56,532 - data_util.log - INFO - 
+2021-10-19 08:17:10,541 - data_util.log - INFO - 0039700.tar rouge_1:0.1705 rouge_2:0.0132 rouge_l:0.1412
+2021-10-19 08:17:10,652 - data_util.log - INFO - 
+2021-10-19 08:18:06,194 - data_util.log - INFO - 0051000.tar rouge_1:0.1285 rouge_2:0.0084 rouge_l:0.1095
+2021-10-19 08:18:06,306 - data_util.log - INFO - 
+2021-10-19 08:19:20,379 - data_util.log - INFO - 0039800.tar rouge_1:0.2050 rouge_2:0.0280 rouge_l:0.1635
+2021-10-19 08:19:20,488 - data_util.log - INFO - 
+2021-10-19 08:20:16,502 - data_util.log - INFO - 0051100.tar rouge_1:0.1290 rouge_2:0.0060 rouge_l:0.1163
+2021-10-19 08:20:16,609 - data_util.log - INFO - 
+2021-10-19 08:21:31,209 - data_util.log - INFO - 0039900.tar rouge_1:0.2315 rouge_2:0.0371 rouge_l:0.1863
+2021-10-19 08:21:31,319 - data_util.log - INFO - 
+2021-10-19 08:22:27,364 - data_util.log - INFO - 0051200.tar rouge_1:0.1402 rouge_2:0.0075 rouge_l:0.1270
+2021-10-19 08:22:27,475 - data_util.log - INFO - 
+2021-10-19 08:23:41,731 - data_util.log - INFO - 0040000.tar rouge_1:0.1902 rouge_2:0.0301 rouge_l:0.1552
+2021-10-19 08:23:41,842 - data_util.log - INFO - 
+2021-10-19 08:24:39,373 - data_util.log - INFO - 0051300.tar rouge_1:0.1337 rouge_2:0.0076 rouge_l:0.1252
+2021-10-19 08:24:39,482 - data_util.log - INFO - 
+2021-10-19 08:25:51,503 - data_util.log - INFO - 0040100.tar rouge_1:0.1866 rouge_2:0.0320 rouge_l:0.1455
+2021-10-19 08:25:51,614 - data_util.log - INFO - 
+2021-10-19 08:26:50,620 - data_util.log - INFO - 0051400.tar rouge_1:0.1491 rouge_2:0.0153 rouge_l:0.1333
+2021-10-19 08:26:50,728 - data_util.log - INFO - 
+2021-10-19 08:27:59,844 - data_util.log - INFO - 0040200.tar rouge_1:0.2492 rouge_2:0.0508 rouge_l:0.1990
+2021-10-19 08:27:59,957 - data_util.log - INFO - 
+2021-10-19 08:29:01,987 - data_util.log - INFO - 0051500.tar rouge_1:0.1435 rouge_2:0.0117 rouge_l:0.1281
+2021-10-19 08:29:02,096 - data_util.log - INFO - 
+2021-10-19 08:30:08,412 - data_util.log - INFO - 0040300.tar rouge_1:0.2300 rouge_2:0.0319 rouge_l:0.1814
+2021-10-19 08:30:08,522 - data_util.log - INFO - 
+2021-10-19 08:31:13,401 - data_util.log - INFO - 0051600.tar rouge_1:0.1433 rouge_2:0.0142 rouge_l:0.1245
+2021-10-19 08:31:13,514 - data_util.log - INFO - 
+2021-10-19 08:32:17,992 - data_util.log - INFO - 0040400.tar rouge_1:0.2446 rouge_2:0.0336 rouge_l:0.1896
+2021-10-19 08:32:18,104 - data_util.log - INFO - 
+2021-10-19 08:33:25,046 - data_util.log - INFO - 0051700.tar rouge_1:0.1459 rouge_2:0.0067 rouge_l:0.1262
+2021-10-19 08:33:25,156 - data_util.log - INFO - 
+2021-10-19 08:34:27,280 - data_util.log - INFO - 0040500.tar rouge_1:0.2194 rouge_2:0.0262 rouge_l:0.1733
+2021-10-19 08:34:27,391 - data_util.log - INFO - 
+2021-10-19 08:35:36,772 - data_util.log - INFO - 0051800.tar rouge_1:0.1210 rouge_2:0.0020 rouge_l:0.1084
+2021-10-19 08:35:36,882 - data_util.log - INFO - 
+2021-10-19 08:36:36,771 - data_util.log - INFO - 0040600.tar rouge_1:0.2466 rouge_2:0.0311 rouge_l:0.1974
+2021-10-19 08:36:36,883 - data_util.log - INFO - 
+2021-10-19 08:37:47,309 - data_util.log - INFO - 0051900.tar rouge_1:0.1391 rouge_2:0.0099 rouge_l:0.1245
+2021-10-19 08:37:47,418 - data_util.log - INFO - 
+2021-10-19 08:38:46,196 - data_util.log - INFO - 0040700.tar rouge_1:0.1973 rouge_2:0.0287 rouge_l:0.1635
+2021-10-19 08:38:46,308 - data_util.log - INFO - 
+2021-10-19 08:39:57,707 - data_util.log - INFO - 0052000.tar rouge_1:0.1318 rouge_2:0.0071 rouge_l:0.1158
+2021-10-19 08:39:57,816 - data_util.log - INFO - 
+2021-10-19 08:40:35,307 - data_util.log - INFO - 0040800.tar rouge_1:0.1431 rouge_2:0.0095 rouge_l:0.1178
+2021-10-19 08:40:35,416 - data_util.log - INFO - 
+2021-10-19 08:42:08,831 - data_util.log - INFO - 0052100.tar rouge_1:0.1389 rouge_2:0.0122 rouge_l:0.1192
+2021-10-19 08:42:08,941 - data_util.log - INFO - 
+2021-10-19 08:42:23,685 - data_util.log - INFO - 0040900.tar rouge_1:0.1308 rouge_2:0.0120 rouge_l:0.1116
+2021-10-19 08:42:23,796 - data_util.log - INFO - 
+2021-10-19 08:44:20,006 - data_util.log - INFO - 0052200.tar rouge_1:0.0935 rouge_2:0.0008 rouge_l:0.0860
+2021-10-19 08:44:20,115 - data_util.log - INFO - 
+2021-10-19 08:44:34,139 - data_util.log - INFO - 0041000.tar rouge_1:0.1529 rouge_2:0.0136 rouge_l:0.1263
+2021-10-19 08:44:34,249 - data_util.log - INFO - 
+2021-10-19 08:46:30,566 - data_util.log - INFO - 0052300.tar rouge_1:0.1015 rouge_2:0.0029 rouge_l:0.0891
+2021-10-19 08:46:30,676 - data_util.log - INFO - 
+2021-10-19 08:46:44,219 - data_util.log - INFO - 0041100.tar rouge_1:0.1600 rouge_2:0.0131 rouge_l:0.1315
+2021-10-19 08:46:44,330 - data_util.log - INFO - 
+2021-10-19 08:48:41,939 - data_util.log - INFO - 0052400.tar rouge_1:0.1164 rouge_2:0.0038 rouge_l:0.1008
+2021-10-19 08:48:42,051 - data_util.log - INFO - 
+2021-10-19 08:48:53,907 - data_util.log - INFO - 0041200.tar rouge_1:0.1569 rouge_2:0.0133 rouge_l:0.1327
+2021-10-19 08:48:54,017 - data_util.log - INFO - 
+2021-10-19 08:50:54,936 - data_util.log - INFO - 0052500.tar rouge_1:0.1398 rouge_2:0.0085 rouge_l:0.1191
+2021-10-19 08:50:55,047 - data_util.log - INFO - 
+2021-10-19 08:51:02,213 - data_util.log - INFO - 0041300.tar rouge_1:0.1572 rouge_2:0.0087 rouge_l:0.1360
+2021-10-19 08:51:02,324 - data_util.log - INFO - 
+2021-10-19 08:53:08,883 - data_util.log - INFO - 0052600.tar rouge_1:0.1282 rouge_2:0.0061 rouge_l:0.1078
+2021-10-19 08:53:08,993 - data_util.log - INFO - 
+2021-10-19 08:53:10,441 - data_util.log - INFO - 0041400.tar rouge_1:0.1996 rouge_2:0.0223 rouge_l:0.1631
+2021-10-19 08:53:10,557 - data_util.log - INFO - 
+2021-10-19 08:55:24,637 - data_util.log - INFO - 0041500.tar rouge_1:0.1422 rouge_2:0.0032 rouge_l:0.1167
+2021-10-19 08:55:24,749 - data_util.log - INFO - 
+2021-10-19 08:55:25,123 - data_util.log - INFO - 0052700.tar rouge_1:0.1085 rouge_2:0.0050 rouge_l:0.0975
+2021-10-19 08:55:25,232 - data_util.log - INFO - 
+2021-10-19 08:57:34,923 - data_util.log - INFO - 0041600.tar rouge_1:0.1706 rouge_2:0.0081 rouge_l:0.1388
+2021-10-19 08:57:35,036 - data_util.log - INFO - 
+2021-10-19 08:57:38,784 - data_util.log - INFO - 0052800.tar rouge_1:0.1135 rouge_2:0.0061 rouge_l:0.0982
+2021-10-19 08:57:38,892 - data_util.log - INFO - 
+2021-10-19 08:59:49,411 - data_util.log - INFO - 0041700.tar rouge_1:0.1449 rouge_2:0.0088 rouge_l:0.1326
+2021-10-19 08:59:49,526 - data_util.log - INFO - 
+2021-10-19 08:59:58,165 - data_util.log - INFO - 0052900.tar rouge_1:0.1274 rouge_2:0.0029 rouge_l:0.1063
+2021-10-19 08:59:58,283 - data_util.log - INFO - 
+2021-10-19 09:02:00,786 - data_util.log - INFO - 0041800.tar rouge_1:0.1373 rouge_2:0.0055 rouge_l:0.1254
+2021-10-19 09:02:00,898 - data_util.log - INFO - 
+2021-10-19 09:02:17,743 - data_util.log - INFO - 0053000.tar rouge_1:0.1247 rouge_2:0.0055 rouge_l:0.0993
+2021-10-19 09:02:17,854 - data_util.log - INFO - 
+2021-10-19 09:04:10,986 - data_util.log - INFO - 0041900.tar rouge_1:0.1473 rouge_2:0.0092 rouge_l:0.1360
+2021-10-19 09:04:11,099 - data_util.log - INFO - 
+2021-10-19 09:04:29,784 - data_util.log - INFO - 0053100.tar rouge_1:0.1018 rouge_2:0.0061 rouge_l:0.0909
+2021-10-19 09:04:29,899 - data_util.log - INFO - 
+2021-10-19 09:06:23,749 - data_util.log - INFO - 0042000.tar rouge_1:0.1285 rouge_2:0.0060 rouge_l:0.1180
+2021-10-19 09:06:23,871 - data_util.log - INFO - 
+2021-10-19 09:06:46,984 - data_util.log - INFO - 0053200.tar rouge_1:0.1054 rouge_2:0.0095 rouge_l:0.0950
+2021-10-19 09:06:47,096 - data_util.log - INFO - 
+2021-10-19 09:08:38,365 - data_util.log - INFO - 0042100.tar rouge_1:0.1531 rouge_2:0.0126 rouge_l:0.1403
+2021-10-19 09:08:38,479 - data_util.log - INFO - 
+2021-10-19 09:09:05,416 - data_util.log - INFO - 0053300.tar rouge_1:0.1093 rouge_2:0.0068 rouge_l:0.0883
+2021-10-19 09:09:05,529 - data_util.log - INFO - 
+2021-10-19 09:10:51,731 - data_util.log - INFO - 0042200.tar rouge_1:0.1183 rouge_2:0.0072 rouge_l:0.1120
+2021-10-19 09:10:51,860 - data_util.log - INFO - 
+2021-10-19 09:11:23,507 - data_util.log - INFO - 0053400.tar rouge_1:0.1537 rouge_2:0.0121 rouge_l:0.1276
+2021-10-19 09:11:23,626 - data_util.log - INFO - 
+2021-10-19 09:12:51,014 - data_util.log - INFO - 0042300.tar rouge_1:0.1044 rouge_2:0.0060 rouge_l:0.0994
+2021-10-19 09:12:51,129 - data_util.log - INFO - 
+2021-10-19 09:13:43,557 - data_util.log - INFO - 0053500.tar rouge_1:0.1403 rouge_2:0.0066 rouge_l:0.1157
+2021-10-19 09:13:43,671 - data_util.log - INFO - 
+2021-10-19 09:15:03,795 - data_util.log - INFO - 0042400.tar rouge_1:0.1174 rouge_2:0.0066 rouge_l:0.1126
+2021-10-19 09:15:03,908 - data_util.log - INFO - 
+2021-10-19 09:16:02,806 - data_util.log - INFO - 0053600.tar rouge_1:0.1297 rouge_2:0.0067 rouge_l:0.1064
+2021-10-19 09:16:02,929 - data_util.log - INFO - 
+2021-10-19 09:17:17,577 - data_util.log - INFO - 0042500.tar rouge_1:0.1414 rouge_2:0.0100 rouge_l:0.1312
+2021-10-19 09:17:17,690 - data_util.log - INFO - 
+2021-10-19 09:18:21,317 - data_util.log - INFO - 0053700.tar rouge_1:0.1338 rouge_2:0.0070 rouge_l:0.1101
+2021-10-19 09:18:21,439 - data_util.log - INFO - 
+2021-10-19 09:19:29,203 - data_util.log - INFO - 0042600.tar rouge_1:0.1362 rouge_2:0.0139 rouge_l:0.1308
+2021-10-19 09:19:29,315 - data_util.log - INFO - 
+2021-10-19 09:20:40,047 - data_util.log - INFO - 0053800.tar rouge_1:0.1353 rouge_2:0.0058 rouge_l:0.1101
+2021-10-19 09:20:40,156 - data_util.log - INFO - 
+2021-10-19 09:21:42,139 - data_util.log - INFO - 0042700.tar rouge_1:0.1335 rouge_2:0.0112 rouge_l:0.1248
+2021-10-19 09:21:42,253 - data_util.log - INFO - 
+2021-10-19 09:22:59,550 - data_util.log - INFO - 0053900.tar rouge_1:0.1355 rouge_2:0.0059 rouge_l:0.1065
+2021-10-19 09:22:59,675 - data_util.log - INFO - 
+2021-10-19 09:23:54,350 - data_util.log - INFO - 0042800.tar rouge_1:0.1413 rouge_2:0.0103 rouge_l:0.1340
+2021-10-19 09:23:54,465 - data_util.log - INFO - 
+2021-10-19 09:25:19,771 - data_util.log - INFO - 0054000.tar rouge_1:0.1316 rouge_2:0.0037 rouge_l:0.1092
+2021-10-19 09:25:19,883 - data_util.log - INFO - 
+2021-10-19 09:26:06,460 - data_util.log - INFO - 0042900.tar rouge_1:0.1457 rouge_2:0.0132 rouge_l:0.1367
+2021-10-19 09:26:06,574 - data_util.log - INFO - 
+2021-10-19 09:27:39,611 - data_util.log - INFO - 0054100.tar rouge_1:0.1496 rouge_2:0.0100 rouge_l:0.1186
+2021-10-19 09:27:39,734 - data_util.log - INFO - 
+2021-10-19 09:28:18,953 - data_util.log - INFO - 0043000.tar rouge_1:0.1338 rouge_2:0.0118 rouge_l:0.1280
+2021-10-19 09:28:19,065 - data_util.log - INFO - 
+2021-10-19 09:29:58,820 - data_util.log - INFO - 0054200.tar rouge_1:0.1746 rouge_2:0.0091 rouge_l:0.1298
+2021-10-19 09:29:58,937 - data_util.log - INFO - 
+2021-10-19 09:30:30,704 - data_util.log - INFO - 0043100.tar rouge_1:0.1470 rouge_2:0.0119 rouge_l:0.1344
+2021-10-19 09:30:30,816 - data_util.log - INFO - 
+2021-10-19 09:32:17,901 - data_util.log - INFO - 0054300.tar rouge_1:0.1946 rouge_2:0.0157 rouge_l:0.1439
+2021-10-19 09:32:18,028 - data_util.log - INFO - 
+2021-10-19 09:32:42,549 - data_util.log - INFO - 0043200.tar rouge_1:0.1457 rouge_2:0.0138 rouge_l:0.1338
+2021-10-19 09:32:42,660 - data_util.log - INFO - 
+2021-10-19 09:34:39,147 - data_util.log - INFO - 0054400.tar rouge_1:0.1729 rouge_2:0.0074 rouge_l:0.1290
+2021-10-19 09:34:39,262 - data_util.log - INFO - 
+2021-10-19 09:34:54,600 - data_util.log - INFO - 0043300.tar rouge_1:0.1472 rouge_2:0.0127 rouge_l:0.1413
+2021-10-19 09:34:54,715 - data_util.log - INFO - 
+2021-10-19 09:37:00,618 - data_util.log - INFO - 0054500.tar rouge_1:0.1688 rouge_2:0.0090 rouge_l:0.1297
+2021-10-19 09:37:00,731 - data_util.log - INFO - 
+2021-10-19 09:37:06,580 - data_util.log - INFO - 0043400.tar rouge_1:0.1340 rouge_2:0.0120 rouge_l:0.1246
+2021-10-19 09:37:06,701 - data_util.log - INFO - 
+2021-10-19 09:39:21,645 - data_util.log - INFO - 0043500.tar rouge_1:0.1378 rouge_2:0.0118 rouge_l:0.1310
+2021-10-19 09:39:21,766 - data_util.log - INFO - 
+2021-10-19 09:39:24,370 - data_util.log - INFO - 0054600.tar rouge_1:0.1633 rouge_2:0.0108 rouge_l:0.1241
+2021-10-19 09:39:24,484 - data_util.log - INFO - 
+2021-10-19 09:41:36,869 - data_util.log - INFO - 0043600.tar rouge_1:0.1288 rouge_2:0.0100 rouge_l:0.1213
+2021-10-19 09:41:36,982 - data_util.log - INFO - 
+2021-10-19 09:41:45,988 - data_util.log - INFO - 0054700.tar rouge_1:0.1559 rouge_2:0.0080 rouge_l:0.1215
+2021-10-19 09:41:46,113 - data_util.log - INFO - 
+2021-10-19 09:43:48,269 - data_util.log - INFO - 0043700.tar rouge_1:0.1434 rouge_2:0.0116 rouge_l:0.1318
+2021-10-19 09:43:48,384 - data_util.log - INFO - 
+2021-10-19 09:44:06,372 - data_util.log - INFO - 0054800.tar rouge_1:0.1439 rouge_2:0.0038 rouge_l:0.1123
+2021-10-19 09:44:06,492 - data_util.log - INFO - 
+2021-10-19 09:46:04,544 - data_util.log - INFO - 0043800.tar rouge_1:0.1463 rouge_2:0.0107 rouge_l:0.1344
+2021-10-19 09:46:04,668 - data_util.log - INFO - 
+2021-10-19 09:46:20,021 - data_util.log - INFO - 0054900.tar rouge_1:0.1481 rouge_2:0.0050 rouge_l:0.1121
+2021-10-19 09:46:20,135 - data_util.log - INFO - 
+2021-10-19 09:48:19,665 - data_util.log - INFO - 0043900.tar rouge_1:0.1459 rouge_2:0.0118 rouge_l:0.1352
+2021-10-19 09:48:19,779 - data_util.log - INFO - 
+2021-10-19 09:48:35,763 - data_util.log - INFO - 0055000.tar rouge_1:0.1484 rouge_2:0.0061 rouge_l:0.1155
+2021-10-19 09:48:35,885 - data_util.log - INFO - 
+2021-10-19 09:50:35,161 - data_util.log - INFO - 0044000.tar rouge_1:0.1337 rouge_2:0.0057 rouge_l:0.1180
+2021-10-19 09:50:35,274 - data_util.log - INFO - 
+2021-10-19 09:50:51,101 - data_util.log - INFO - 0055100.tar rouge_1:0.1458 rouge_2:0.0082 rouge_l:0.1220
+2021-10-19 09:50:51,222 - data_util.log - INFO - 
+2021-10-19 09:52:50,075 - data_util.log - INFO - 0044100.tar rouge_1:0.1289 rouge_2:0.0105 rouge_l:0.1239
+2021-10-19 09:52:50,211 - data_util.log - INFO - 
+2021-10-19 09:53:11,366 - data_util.log - INFO - 0055200.tar rouge_1:0.1507 rouge_2:0.0088 rouge_l:0.1217
+2021-10-19 09:53:11,480 - data_util.log - INFO - 
+2021-10-19 09:55:05,329 - data_util.log - INFO - 0044200.tar rouge_1:0.1405 rouge_2:0.0120 rouge_l:0.1300
+2021-10-19 09:55:05,444 - data_util.log - INFO - 
+2021-10-19 09:55:29,167 - data_util.log - INFO - 0055300.tar rouge_1:0.1371 rouge_2:0.0054 rouge_l:0.1080
+2021-10-19 09:55:29,278 - data_util.log - INFO - 
+2021-10-19 09:57:17,320 - data_util.log - INFO - 0044300.tar rouge_1:0.1562 rouge_2:0.0121 rouge_l:0.1406
+2021-10-19 09:57:17,445 - data_util.log - INFO - 
+2021-10-19 09:57:48,509 - data_util.log - INFO - 0055400.tar rouge_1:0.1340 rouge_2:0.0032 rouge_l:0.1071
+2021-10-19 09:57:48,620 - data_util.log - INFO - 
+2021-10-19 09:59:29,825 - data_util.log - INFO - 0044400.tar rouge_1:0.1427 rouge_2:0.0086 rouge_l:0.1353
+2021-10-19 09:59:29,937 - data_util.log - INFO - 
+2021-10-19 10:00:06,951 - data_util.log - INFO - 0055500.tar rouge_1:0.1324 rouge_2:0.0068 rouge_l:0.1098
+2021-10-19 10:00:07,071 - data_util.log - INFO - 
+2021-10-19 10:01:42,409 - data_util.log - INFO - 0044500.tar rouge_1:0.1581 rouge_2:0.0117 rouge_l:0.1440
+2021-10-19 10:01:42,522 - data_util.log - INFO - 
+2021-10-19 10:02:23,292 - data_util.log - INFO - 0055600.tar rouge_1:0.1277 rouge_2:0.0035 rouge_l:0.0996
+2021-10-19 10:02:23,411 - data_util.log - INFO - 
+2021-10-19 10:03:55,402 - data_util.log - INFO - 0044600.tar rouge_1:0.1576 rouge_2:0.0116 rouge_l:0.1433
+2021-10-19 10:03:55,516 - data_util.log - INFO - 
+2021-10-19 10:04:42,922 - data_util.log - INFO - 0055700.tar rouge_1:0.1183 rouge_2:0.0047 rouge_l:0.0988
+2021-10-19 10:04:43,035 - data_util.log - INFO - 
+2021-10-19 10:06:08,161 - data_util.log - INFO - 0044700.tar rouge_1:0.1284 rouge_2:0.0116 rouge_l:0.1222
+2021-10-19 10:06:08,273 - data_util.log - INFO - 
+2021-10-19 10:07:02,391 - data_util.log - INFO - 0055800.tar rouge_1:0.1313 rouge_2:0.0081 rouge_l:0.1027
+2021-10-19 10:07:02,509 - data_util.log - INFO - 
+2021-10-19 10:08:21,021 - data_util.log - INFO - 0044800.tar rouge_1:0.1417 rouge_2:0.0132 rouge_l:0.1277
+2021-10-19 10:08:21,135 - data_util.log - INFO - 
+2021-10-19 10:08:48,126 - data_util.log - INFO - 0055900.tar rouge_1:0.0000 rouge_2:0.0000 rouge_l:0.0000
+2021-10-19 10:08:48,245 - data_util.log - INFO - 
+2021-10-19 10:10:33,443 - data_util.log - INFO - 0044900.tar rouge_1:0.1356 rouge_2:0.0137 rouge_l:0.1285
+2021-10-19 10:10:33,559 - data_util.log - INFO - 
+2021-10-19 10:11:05,480 - data_util.log - INFO - 0056000.tar rouge_1:0.1361 rouge_2:0.0049 rouge_l:0.1068
+2021-10-19 10:11:05,597 - data_util.log - INFO - 
+2021-10-19 10:12:45,942 - data_util.log - INFO - 0045000.tar rouge_1:0.1283 rouge_2:0.0131 rouge_l:0.1224
+2021-10-19 10:12:46,054 - data_util.log - INFO - 
+2021-10-19 10:13:21,884 - data_util.log - INFO - 0056100.tar rouge_1:0.1304 rouge_2:0.0071 rouge_l:0.1083
+2021-10-19 10:13:21,996 - data_util.log - INFO - 
+2021-10-19 10:14:58,630 - data_util.log - INFO - 0045100.tar rouge_1:0.1368 rouge_2:0.0144 rouge_l:0.1270
+2021-10-19 10:14:58,751 - data_util.log - INFO - 
+2021-10-19 10:15:16,853 - data_util.log - INFO - 0056200.tar rouge_1:0.1302 rouge_2:0.0066 rouge_l:0.1064
+2021-10-19 10:15:16,970 - data_util.log - INFO - 
+2021-10-19 10:17:09,748 - data_util.log - INFO - 0056300.tar rouge_1:0.1279 rouge_2:0.0044 rouge_l:0.1085
+2021-10-19 10:17:09,857 - data_util.log - INFO - 
+2021-10-19 10:17:11,877 - data_util.log - INFO - 0045200.tar rouge_1:0.1303 rouge_2:0.0115 rouge_l:0.1225
+2021-10-19 10:17:11,999 - data_util.log - INFO - 
+2021-10-19 10:19:03,978 - data_util.log - INFO - 0056400.tar rouge_1:0.1203 rouge_2:0.0031 rouge_l:0.0965
+2021-10-19 10:19:04,104 - data_util.log - INFO - 
+2021-10-19 10:19:22,887 - data_util.log - INFO - 0045300.tar rouge_1:0.1089 rouge_2:0.0081 rouge_l:0.1037
+2021-10-19 10:19:22,998 - data_util.log - INFO - 
+2021-10-19 10:20:58,559 - data_util.log - INFO - 0056500.tar rouge_1:0.1257 rouge_2:0.0051 rouge_l:0.1073
+2021-10-19 10:20:58,668 - data_util.log - INFO - 
+2021-10-19 10:21:36,143 - data_util.log - INFO - 0045400.tar rouge_1:0.1234 rouge_2:0.0115 rouge_l:0.1175
+2021-10-19 10:21:36,257 - data_util.log - INFO - 
+2021-10-19 10:22:52,601 - data_util.log - INFO - 0056600.tar rouge_1:0.1480 rouge_2:0.0079 rouge_l:0.1188
+2021-10-19 10:22:52,719 - data_util.log - INFO - 
+2021-10-19 10:23:48,450 - data_util.log - INFO - 0045500.tar rouge_1:0.1170 rouge_2:0.0093 rouge_l:0.1082
+2021-10-19 10:23:48,566 - data_util.log - INFO - 
+2021-10-19 10:24:47,869 - data_util.log - INFO - 0056700.tar rouge_1:0.1319 rouge_2:0.0058 rouge_l:0.1074
+2021-10-19 10:24:47,984 - data_util.log - INFO - 
+2021-10-19 10:25:59,391 - data_util.log - INFO - 0045600.tar rouge_1:0.1494 rouge_2:0.0126 rouge_l:0.1385
+2021-10-19 10:25:59,506 - data_util.log - INFO - 
+2021-10-19 10:26:51,812 - data_util.log - INFO - 0056800.tar rouge_1:0.1304 rouge_2:0.0065 rouge_l:0.1104
+2021-10-19 10:26:51,924 - data_util.log - INFO - 
+2021-10-19 10:28:12,553 - data_util.log - INFO - 0045700.tar rouge_1:0.1497 rouge_2:0.0108 rouge_l:0.1350
+2021-10-19 10:28:12,663 - data_util.log - INFO - 
+2021-10-19 10:28:50,008 - data_util.log - INFO - 0056900.tar rouge_1:0.1171 rouge_2:0.0080 rouge_l:0.1050
+2021-10-19 10:28:50,119 - data_util.log - INFO - 
+2021-10-19 10:30:25,853 - data_util.log - INFO - 0045800.tar rouge_1:0.1379 rouge_2:0.0142 rouge_l:0.1298
+2021-10-19 10:30:25,967 - data_util.log - INFO - 
+2021-10-19 10:31:09,296 - data_util.log - INFO - 0057000.tar rouge_1:0.1414 rouge_2:0.0115 rouge_l:0.1125
+2021-10-19 10:31:09,411 - data_util.log - INFO - 
+2021-10-19 10:32:41,597 - data_util.log - INFO - 0045900.tar rouge_1:0.1279 rouge_2:0.0109 rouge_l:0.1203
+2021-10-19 10:32:41,712 - data_util.log - INFO - 
+2021-10-19 10:33:29,816 - data_util.log - INFO - 0057100.tar rouge_1:0.1277 rouge_2:0.0047 rouge_l:0.1105
+2021-10-19 10:33:29,927 - data_util.log - INFO - 
+2021-10-19 10:34:55,336 - data_util.log - INFO - 0046000.tar rouge_1:0.1323 rouge_2:0.0097 rouge_l:0.1222
+2021-10-19 10:34:55,459 - data_util.log - INFO - 
+2021-10-19 10:35:49,261 - data_util.log - INFO - 0057200.tar rouge_1:0.1411 rouge_2:0.0090 rouge_l:0.1190
+2021-10-19 10:35:49,375 - data_util.log - INFO - 
+2021-10-19 10:37:09,599 - data_util.log - INFO - 0046100.tar rouge_1:0.1258 rouge_2:0.0098 rouge_l:0.1170
+2021-10-19 10:37:09,710 - data_util.log - INFO - 
+2021-10-19 10:38:07,947 - data_util.log - INFO - 0057300.tar rouge_1:0.1336 rouge_2:0.0084 rouge_l:0.1109
+2021-10-19 10:38:08,064 - data_util.log - INFO - 
+2021-10-19 10:39:22,708 - data_util.log - INFO - 0046200.tar rouge_1:0.1445 rouge_2:0.0111 rouge_l:0.1347
+2021-10-19 10:39:22,820 - data_util.log - INFO - 
+2021-10-19 10:40:26,409 - data_util.log - INFO - 0057400.tar rouge_1:0.1128 rouge_2:0.0075 rouge_l:0.1017
+2021-10-19 10:40:26,531 - data_util.log - INFO - 
+2021-10-19 10:41:36,586 - data_util.log - INFO - 0046300.tar rouge_1:0.1352 rouge_2:0.0130 rouge_l:0.1265
+2021-10-19 10:41:36,699 - data_util.log - INFO - 
+2021-10-19 10:42:45,168 - data_util.log - INFO - 0057500.tar rouge_1:0.1296 rouge_2:0.0075 rouge_l:0.1157
+2021-10-19 10:42:45,284 - data_util.log - INFO - 
+2021-10-19 10:43:48,806 - data_util.log - INFO - 0046400.tar rouge_1:0.1357 rouge_2:0.0133 rouge_l:0.1249
+2021-10-19 10:43:48,921 - data_util.log - INFO - 
+2021-10-19 10:45:04,151 - data_util.log - INFO - 0057600.tar rouge_1:0.1500 rouge_2:0.0074 rouge_l:0.1198
+2021-10-19 10:45:04,268 - data_util.log - INFO - 
+2021-10-19 10:46:01,722 - data_util.log - INFO - 0046500.tar rouge_1:0.1490 rouge_2:0.0119 rouge_l:0.1338
+2021-10-19 10:46:01,834 - data_util.log - INFO - 
+2021-10-19 10:46:50,501 - data_util.log - INFO - 0057700.tar rouge_1:0.0000 rouge_2:0.0000 rouge_l:0.0000
+2021-10-19 10:46:50,609 - data_util.log - INFO - 
+2021-10-19 10:48:14,751 - data_util.log - INFO - 0046600.tar rouge_1:0.1495 rouge_2:0.0166 rouge_l:0.1391
+2021-10-19 10:48:14,867 - data_util.log - INFO - 
+2021-10-19 10:49:09,194 - data_util.log - INFO - 0057800.tar rouge_1:0.1473 rouge_2:0.0118 rouge_l:0.1281
+2021-10-19 10:49:09,308 - data_util.log - INFO - 
+2021-10-19 10:50:26,875 - data_util.log - INFO - 0046700.tar rouge_1:0.1461 rouge_2:0.0188 rouge_l:0.1331
+2021-10-19 10:50:26,992 - data_util.log - INFO - 
+2021-10-19 10:51:28,727 - data_util.log - INFO - 0057900.tar rouge_1:0.1342 rouge_2:0.0109 rouge_l:0.1194
+2021-10-19 10:51:28,852 - data_util.log - INFO - 
+2021-10-19 10:52:38,581 - data_util.log - INFO - 0046800.tar rouge_1:0.1203 rouge_2:0.0061 rouge_l:0.1115
+2021-10-19 10:52:38,695 - data_util.log - INFO - 
+2021-10-19 10:53:40,203 - data_util.log - INFO - 0058000.tar rouge_1:0.1431 rouge_2:0.0137 rouge_l:0.1259
+2021-10-19 10:53:40,321 - data_util.log - INFO - 
+2021-10-19 10:54:51,164 - data_util.log - INFO - 0046900.tar rouge_1:0.1322 rouge_2:0.0090 rouge_l:0.1232
+2021-10-19 10:54:51,281 - data_util.log - INFO - 
+2021-10-19 10:55:59,824 - data_util.log - INFO - 0058100.tar rouge_1:0.1380 rouge_2:0.0123 rouge_l:0.1234
+2021-10-19 10:55:59,938 - data_util.log - INFO - 
+2021-10-19 10:57:04,352 - data_util.log - INFO - 0047000.tar rouge_1:0.1489 rouge_2:0.0117 rouge_l:0.1333
+2021-10-19 10:57:04,464 - data_util.log - INFO - 
+2021-10-19 10:58:18,124 - data_util.log - INFO - 0058200.tar rouge_1:0.1158 rouge_2:0.0076 rouge_l:0.1046
+2021-10-19 10:58:18,246 - data_util.log - INFO - 
+2021-10-19 10:59:16,282 - data_util.log - INFO - 0047100.tar rouge_1:0.1587 rouge_2:0.0141 rouge_l:0.1411
+2021-10-19 10:59:16,400 - data_util.log - INFO - 
+2021-10-19 11:00:36,571 - data_util.log - INFO - 0058300.tar rouge_1:0.0987 rouge_2:0.0068 rouge_l:0.0948
+2021-10-19 11:00:36,684 - data_util.log - INFO - 
+2021-10-19 11:01:29,095 - data_util.log - INFO - 0047200.tar rouge_1:0.1323 rouge_2:0.0122 rouge_l:0.1191
+2021-10-19 11:01:29,209 - data_util.log - INFO - 
+2021-10-19 11:02:56,734 - data_util.log - INFO - 0058400.tar rouge_1:0.1105 rouge_2:0.0079 rouge_l:0.1072
+2021-10-19 11:02:56,848 - data_util.log - INFO - 
+2021-10-19 11:03:42,320 - data_util.log - INFO - 0047300.tar rouge_1:0.1505 rouge_2:0.0222 rouge_l:0.1330
+2021-10-19 11:03:42,434 - data_util.log - INFO - 
+2021-10-19 11:05:16,043 - data_util.log - INFO - 0058500.tar rouge_1:0.1054 rouge_2:0.0096 rouge_l:0.1022
+2021-10-19 11:05:16,159 - data_util.log - INFO - 
+2021-10-19 11:05:55,318 - data_util.log - INFO - 0047400.tar rouge_1:0.1243 rouge_2:0.0115 rouge_l:0.1204
+2021-10-19 11:05:55,433 - data_util.log - INFO - 
+2021-10-19 11:07:35,401 - data_util.log - INFO - 0058600.tar rouge_1:0.1057 rouge_2:0.0081 rouge_l:0.1005
+2021-10-19 11:07:35,523 - data_util.log - INFO - 
+2021-10-19 11:08:07,609 - data_util.log - INFO - 0047500.tar rouge_1:0.1323 rouge_2:0.0143 rouge_l:0.1222
+2021-10-19 11:08:07,721 - data_util.log - INFO - 
+2021-10-19 11:09:55,302 - data_util.log - INFO - 0058700.tar rouge_1:0.0994 rouge_2:0.0091 rouge_l:0.0987
+2021-10-19 11:09:55,421 - data_util.log - INFO - 
+2021-10-19 11:10:19,958 - data_util.log - INFO - 0047600.tar rouge_1:0.1419 rouge_2:0.0105 rouge_l:0.1320
+2021-10-19 11:10:20,068 - data_util.log - INFO - 
+2021-10-19 11:12:00,101 - data_util.log - INFO - 0058800.tar rouge_1:0.1004 rouge_2:0.0051 rouge_l:0.0956
+2021-10-19 11:12:00,221 - data_util.log - INFO - 
+2021-10-19 11:12:32,630 - data_util.log - INFO - 0047700.tar rouge_1:0.1371 rouge_2:0.0129 rouge_l:0.1241
+2021-10-19 11:12:32,742 - data_util.log - INFO - 
+2021-10-19 11:13:53,505 - data_util.log - INFO - 0058900.tar rouge_1:0.1082 rouge_2:0.0075 rouge_l:0.0935
+2021-10-19 11:13:53,633 - data_util.log - INFO - 
+2021-10-19 11:14:47,098 - data_util.log - INFO - 0047800.tar rouge_1:0.1268 rouge_2:0.0109 rouge_l:0.1147
+2021-10-19 11:14:47,212 - data_util.log - INFO - 
+2021-10-19 11:15:52,813 - data_util.log - INFO - 0059000.tar rouge_1:0.1095 rouge_2:0.0080 rouge_l:0.1046
+2021-10-19 11:15:52,935 - data_util.log - INFO - 
+2021-10-19 11:16:59,615 - data_util.log - INFO - 0047900.tar rouge_1:0.1066 rouge_2:0.0100 rouge_l:0.1027
+2021-10-19 11:16:59,726 - data_util.log - INFO - 
+2021-10-19 11:18:12,387 - data_util.log - INFO - 0059100.tar rouge_1:0.0962 rouge_2:0.0080 rouge_l:0.0929
+2021-10-19 11:18:12,506 - data_util.log - INFO - 
+2021-10-19 11:19:13,548 - data_util.log - INFO - 0048000.tar rouge_1:0.1048 rouge_2:0.0070 rouge_l:0.0999
+2021-10-19 11:19:13,662 - data_util.log - INFO - 
+2021-10-19 11:20:30,658 - data_util.log - INFO - 0059200.tar rouge_1:0.1121 rouge_2:0.0119 rouge_l:0.1082
+2021-10-19 11:20:30,783 - data_util.log - INFO - 
+2021-10-19 11:21:26,719 - data_util.log - INFO - 0048100.tar rouge_1:0.1114 rouge_2:0.0090 rouge_l:0.1057
+2021-10-19 11:21:26,834 - data_util.log - INFO - 
+2021-10-19 11:22:49,490 - data_util.log - INFO - 0059300.tar rouge_1:0.0947 rouge_2:0.0074 rouge_l:0.0929
+2021-10-19 11:22:49,610 - data_util.log - INFO - 
+2021-10-19 11:23:39,678 - data_util.log - INFO - 0048200.tar rouge_1:0.1414 rouge_2:0.0129 rouge_l:0.1291
+2021-10-19 11:23:39,798 - data_util.log - INFO - 
+2021-10-19 11:25:09,267 - data_util.log - INFO - 0059400.tar rouge_1:0.1059 rouge_2:0.0089 rouge_l:0.1022
+2021-10-19 11:25:09,382 - data_util.log - INFO - 
+2021-10-19 11:25:53,879 - data_util.log - INFO - 0048300.tar rouge_1:0.1426 rouge_2:0.0105 rouge_l:0.1285
+2021-10-19 11:25:53,991 - data_util.log - INFO - 
+2021-10-19 11:27:28,027 - data_util.log - INFO - 0059500.tar rouge_1:0.0971 rouge_2:0.0087 rouge_l:0.0943
+2021-10-19 11:27:28,141 - data_util.log - INFO - 
+2021-10-19 11:28:09,158 - data_util.log - INFO - 0048400.tar rouge_1:0.1324 rouge_2:0.0063 rouge_l:0.1242
+2021-10-19 11:28:09,272 - data_util.log - INFO - 
+2021-10-19 11:29:47,192 - data_util.log - INFO - 0059600.tar rouge_1:0.1009 rouge_2:0.0091 rouge_l:0.0969
+2021-10-19 11:29:47,317 - data_util.log - INFO - 
+2021-10-19 11:30:21,676 - data_util.log - INFO - 0048500.tar rouge_1:0.1381 rouge_2:0.0065 rouge_l:0.1289
+2021-10-19 11:30:21,791 - data_util.log - INFO - 
+2021-10-19 11:32:08,118 - data_util.log - INFO - 0059700.tar rouge_1:0.0905 rouge_2:0.0068 rouge_l:0.0877
+2021-10-19 11:32:08,245 - data_util.log - INFO - 
+2021-10-19 11:32:35,530 - data_util.log - INFO - 0048600.tar rouge_1:0.1346 rouge_2:0.0058 rouge_l:0.1273
+2021-10-19 11:32:35,645 - data_util.log - INFO - 
+2021-10-19 11:34:26,877 - data_util.log - INFO - 0059800.tar rouge_1:0.0959 rouge_2:0.0091 rouge_l:0.0951
+2021-10-19 11:34:27,002 - data_util.log - INFO - 
+2021-10-19 11:34:50,134 - data_util.log - INFO - 0048700.tar rouge_1:0.1498 rouge_2:0.0115 rouge_l:0.1423
+2021-10-19 11:34:50,250 - data_util.log - INFO - 
+2021-10-19 11:36:46,263 - data_util.log - INFO - 0059900.tar rouge_1:0.0965 rouge_2:0.0073 rouge_l:0.0957
+2021-10-19 11:36:46,376 - data_util.log - INFO - 
+2021-10-19 11:37:01,648 - data_util.log - INFO - 0048800.tar rouge_1:0.1469 rouge_2:0.0115 rouge_l:0.1380
+2021-10-19 11:37:01,764 - data_util.log - INFO - 
+2021-10-19 11:39:07,726 - data_util.log - INFO - 0060000.tar rouge_1:0.0945 rouge_2:0.0086 rouge_l:0.0924
+2021-10-19 11:39:07,839 - data_util.log - INFO - 
+2021-10-19 11:39:13,148 - data_util.log - INFO - 0048900.tar rouge_1:0.1543 rouge_2:0.0109 rouge_l:0.1442
+2021-10-19 11:39:13,271 - data_util.log - INFO - 
+2021-10-19 11:41:38,496 - data_util.log - INFO - 0049000.tar rouge_1:0.1682 rouge_2:0.0176 rouge_l:0.1499
+2021-10-19 11:41:38,611 - data_util.log - INFO - 
+2021-10-19 11:41:40,782 - data_util.log - INFO - 0060100.tar rouge_1:0.0991 rouge_2:0.0079 rouge_l:0.0971
+2021-10-19 11:41:40,895 - data_util.log - INFO - 
+2021-10-19 11:43:52,996 - data_util.log - INFO - 0049100.tar rouge_1:0.1607 rouge_2:0.0187 rouge_l:0.1488
+2021-10-19 11:43:53,110 - data_util.log - INFO - 
+2021-10-19 11:44:00,896 - data_util.log - INFO - 0060200.tar rouge_1:0.1044 rouge_2:0.0085 rouge_l:0.1024
+2021-10-19 11:44:01,020 - data_util.log - INFO - 
+2021-10-19 11:46:05,677 - data_util.log - INFO - 0049200.tar rouge_1:0.1645 rouge_2:0.0188 rouge_l:0.1471
+2021-10-19 11:46:05,793 - data_util.log - INFO - 
+2021-10-19 11:46:19,677 - data_util.log - INFO - 0060300.tar rouge_1:0.1034 rouge_2:0.0104 rouge_l:0.0991
+2021-10-19 11:46:19,791 - data_util.log - INFO - 
+2021-10-19 11:48:18,290 - data_util.log - INFO - 0049300.tar rouge_1:0.1538 rouge_2:0.0183 rouge_l:0.1395
+2021-10-19 11:48:18,401 - data_util.log - INFO - 
+2021-10-19 11:48:40,836 - data_util.log - INFO - 0060400.tar rouge_1:0.0965 rouge_2:0.0084 rouge_l:0.0931
+2021-10-19 11:48:40,956 - data_util.log - INFO - 
+2021-10-19 11:50:31,696 - data_util.log - INFO - 0049400.tar rouge_1:0.1567 rouge_2:0.0153 rouge_l:0.1459
+2021-10-19 11:50:31,807 - data_util.log - INFO - 
+2021-10-19 11:51:00,853 - data_util.log - INFO - 0060500.tar rouge_1:0.0962 rouge_2:0.0083 rouge_l:0.0922
+2021-10-19 11:51:00,964 - data_util.log - INFO - 
+2021-10-19 11:52:45,269 - data_util.log - INFO - 0049500.tar rouge_1:0.1225 rouge_2:0.0096 rouge_l:0.1049
+2021-10-19 11:52:45,382 - data_util.log - INFO - 
+2021-10-19 11:53:20,778 - data_util.log - INFO - 0060600.tar rouge_1:0.0957 rouge_2:0.0097 rouge_l:0.0936
+2021-10-19 11:53:20,898 - data_util.log - INFO - 
+2021-10-19 11:54:57,045 - data_util.log - INFO - 0049600.tar rouge_1:0.1452 rouge_2:0.0110 rouge_l:0.1318
+2021-10-19 11:54:57,157 - data_util.log - INFO - 
+2021-10-19 11:55:40,363 - data_util.log - INFO - 0060700.tar rouge_1:0.0971 rouge_2:0.0096 rouge_l:0.0950
+2021-10-19 11:55:40,488 - data_util.log - INFO - 
+2021-10-19 11:57:10,084 - data_util.log - INFO - 0049700.tar rouge_1:0.1771 rouge_2:0.0181 rouge_l:0.1564
+2021-10-19 11:57:10,196 - data_util.log - INFO - 
+2021-10-19 11:57:58,645 - data_util.log - INFO - 0060800.tar rouge_1:0.1034 rouge_2:0.0087 rouge_l:0.1019
+2021-10-19 11:57:58,766 - data_util.log - INFO - 
+2021-10-19 11:59:22,729 - data_util.log - INFO - 0049800.tar rouge_1:0.1549 rouge_2:0.0142 rouge_l:0.1388
+2021-10-19 11:59:22,839 - data_util.log - INFO - 
+2021-10-19 12:00:18,207 - data_util.log - INFO - 0060900.tar rouge_1:0.0955 rouge_2:0.0077 rouge_l:0.0929
+2021-10-19 12:00:18,326 - data_util.log - INFO - 
+2021-10-19 12:01:35,976 - data_util.log - INFO - 0049900.tar rouge_1:0.1281 rouge_2:0.0114 rouge_l:0.1194
+2021-10-19 12:01:36,090 - data_util.log - INFO - 
+2021-10-19 12:02:37,905 - data_util.log - INFO - 0061000.tar rouge_1:0.1103 rouge_2:0.0104 rouge_l:0.1040
+2021-10-19 12:02:38,033 - data_util.log - INFO - 
+2021-10-19 12:03:48,303 - data_util.log - INFO - 0050000.tar rouge_1:0.1125 rouge_2:0.0079 rouge_l:0.1037
+2021-10-19 12:03:48,417 - data_util.log - INFO - 
+2021-10-19 12:04:57,611 - data_util.log - INFO - 0061100.tar rouge_1:0.1183 rouge_2:0.0101 rouge_l:0.1057
+2021-10-19 12:04:57,734 - data_util.log - INFO - 
+2021-10-19 12:06:01,186 - data_util.log - INFO - 0050100.tar rouge_1:0.1220 rouge_2:0.0094 rouge_l:0.1110
+2021-10-19 12:06:01,302 - data_util.log - INFO - 
+2021-10-19 12:07:16,357 - data_util.log - INFO - 0061200.tar rouge_1:0.1111 rouge_2:0.0080 rouge_l:0.1060
+2021-10-19 12:07:16,476 - data_util.log - INFO - 
+2021-10-19 12:08:13,499 - data_util.log - INFO - 0050200.tar rouge_1:0.1383 rouge_2:0.0114 rouge_l:0.1262
+2021-10-19 12:08:13,615 - data_util.log - INFO - 
+2021-10-19 12:09:36,671 - data_util.log - INFO - 0061300.tar rouge_1:0.1079 rouge_2:0.0054 rouge_l:0.1027
+2021-10-19 12:09:36,795 - data_util.log - INFO - 
+2021-10-19 12:10:26,772 - data_util.log - INFO - 0050300.tar rouge_1:0.1636 rouge_2:0.0144 rouge_l:0.1478
+2021-10-19 12:10:26,890 - data_util.log - INFO - 
+2021-10-19 12:11:55,290 - data_util.log - INFO - 0061400.tar rouge_1:0.1176 rouge_2:0.0078 rouge_l:0.1120
+2021-10-19 12:11:55,401 - data_util.log - INFO - 
+2021-10-19 12:12:38,572 - data_util.log - INFO - 0050400.tar rouge_1:0.1697 rouge_2:0.0128 rouge_l:0.1499
+2021-10-19 12:12:38,686 - data_util.log - INFO - 
+2021-10-19 12:14:14,525 - data_util.log - INFO - 0061500.tar rouge_1:0.1258 rouge_2:0.0081 rouge_l:0.1215
+2021-10-19 12:14:14,647 - data_util.log - INFO - 
+2021-10-19 12:14:51,245 - data_util.log - INFO - 0050500.tar rouge_1:0.1412 rouge_2:0.0121 rouge_l:0.1299
+2021-10-19 12:14:51,360 - data_util.log - INFO - 
+2021-10-19 12:16:34,268 - data_util.log - INFO - 0061600.tar rouge_1:0.1185 rouge_2:0.0092 rouge_l:0.1127
+2021-10-19 12:16:34,380 - data_util.log - INFO - 
+2021-10-19 12:17:02,278 - data_util.log - INFO - 0050600.tar rouge_1:0.1404 rouge_2:0.0069 rouge_l:0.1262
+2021-10-19 12:17:02,393 - data_util.log - INFO - 
+2021-10-19 12:18:53,537 - data_util.log - INFO - 0061700.tar rouge_1:0.1144 rouge_2:0.0113 rouge_l:0.1096
+2021-10-19 12:18:53,652 - data_util.log - INFO - 
+2021-10-19 12:19:14,767 - data_util.log - INFO - 0050700.tar rouge_1:0.1407 rouge_2:0.0084 rouge_l:0.1252
+2021-10-19 12:19:14,882 - data_util.log - INFO - 
+2021-10-19 12:21:13,018 - data_util.log - INFO - 0061800.tar rouge_1:0.1085 rouge_2:0.0078 rouge_l:0.1038
+2021-10-19 12:21:13,132 - data_util.log - INFO - 
+2021-10-19 12:21:26,590 - data_util.log - INFO - 0050800.tar rouge_1:0.1550 rouge_2:0.0141 rouge_l:0.1443
+2021-10-19 12:21:26,709 - data_util.log - INFO - 
+2021-10-19 12:23:32,558 - data_util.log - INFO - 0061900.tar rouge_1:0.0897 rouge_2:0.0070 rouge_l:0.0891
+2021-10-19 12:23:32,682 - data_util.log - INFO - 
+2021-10-19 12:23:38,671 - data_util.log - INFO - 0050900.tar rouge_1:0.1554 rouge_2:0.0109 rouge_l:0.1445
+2021-10-19 12:23:38,788 - data_util.log - INFO - 
+2021-10-19 12:26:00,380 - data_util.log - INFO - 0051000.tar rouge_1:0.1679 rouge_2:0.0121 rouge_l:0.1494
+2021-10-19 12:26:00,492 - data_util.log - INFO - 
+2021-10-19 12:26:02,750 - data_util.log - INFO - 0062000.tar rouge_1:0.0817 rouge_2:0.0065 rouge_l:0.0802
+2021-10-19 12:26:02,863 - data_util.log - INFO - 
+2021-10-19 12:28:13,249 - data_util.log - INFO - 0051100.tar rouge_1:0.1427 rouge_2:0.0081 rouge_l:0.1307
+2021-10-19 12:28:13,363 - data_util.log - INFO - 
+2021-10-19 12:28:21,438 - data_util.log - INFO - 0062100.tar rouge_1:0.0784 rouge_2:0.0041 rouge_l:0.0784
+2021-10-19 12:28:21,562 - data_util.log - INFO - 
+2021-10-19 12:30:26,180 - data_util.log - INFO - 0051200.tar rouge_1:0.1738 rouge_2:0.0113 rouge_l:0.1529
+2021-10-19 12:30:26,291 - data_util.log - INFO - 
+2021-10-19 12:30:41,612 - data_util.log - INFO - 0062200.tar rouge_1:0.0792 rouge_2:0.0037 rouge_l:0.0792
+2021-10-19 12:30:41,726 - data_util.log - INFO - 
+2021-10-19 12:32:39,485 - data_util.log - INFO - 0051300.tar rouge_1:0.1886 rouge_2:0.0222 rouge_l:0.1650
+2021-10-19 12:32:39,597 - data_util.log - INFO - 
+2021-10-19 12:33:01,145 - data_util.log - INFO - 0062300.tar rouge_1:0.0963 rouge_2:0.0078 rouge_l:0.0936
+2021-10-19 12:33:01,255 - data_util.log - INFO - 
+2021-10-19 12:34:52,756 - data_util.log - INFO - 0051400.tar rouge_1:0.1819 rouge_2:0.0126 rouge_l:0.1596
+2021-10-19 12:34:52,871 - data_util.log - INFO - 
+2021-10-19 12:35:20,669 - data_util.log - INFO - 0062400.tar rouge_1:0.0790 rouge_2:0.0055 rouge_l:0.0782
+2021-10-19 12:35:20,783 - data_util.log - INFO - 
+2021-10-19 12:37:04,816 - data_util.log - INFO - 0051500.tar rouge_1:0.1848 rouge_2:0.0167 rouge_l:0.1592
+2021-10-19 12:37:04,930 - data_util.log - INFO - 
+2021-10-19 12:37:42,117 - data_util.log - INFO - 0062500.tar rouge_1:0.0775 rouge_2:0.0037 rouge_l:0.0767
+2021-10-19 12:37:42,229 - data_util.log - INFO - 
+2021-10-19 12:39:18,272 - data_util.log - INFO - 0051600.tar rouge_1:0.1872 rouge_2:0.0186 rouge_l:0.1636
+2021-10-19 12:39:18,389 - data_util.log - INFO - 
+2021-10-19 12:40:01,581 - data_util.log - INFO - 0062600.tar rouge_1:0.0797 rouge_2:0.0052 rouge_l:0.0790
+2021-10-19 12:40:01,701 - data_util.log - INFO - 
+2021-10-19 12:41:35,836 - data_util.log - INFO - 0051700.tar rouge_1:0.1895 rouge_2:0.0221 rouge_l:0.1628
+2021-10-19 12:41:35,958 - data_util.log - INFO - 
+2021-10-19 12:42:22,935 - data_util.log - INFO - 0062700.tar rouge_1:0.0766 rouge_2:0.0049 rouge_l:0.0758
+2021-10-19 12:42:23,056 - data_util.log - INFO - 
+2021-10-19 12:43:49,220 - data_util.log - INFO - 0051800.tar rouge_1:0.1848 rouge_2:0.0231 rouge_l:0.1581
+2021-10-19 12:43:49,334 - data_util.log - INFO - 
+2021-10-19 12:44:42,976 - data_util.log - INFO - 0062800.tar rouge_1:0.0814 rouge_2:0.0055 rouge_l:0.0806
+2021-10-19 12:44:43,099 - data_util.log - INFO - 
+2021-10-19 12:46:01,616 - data_util.log - INFO - 0051900.tar rouge_1:0.1830 rouge_2:0.0128 rouge_l:0.1531
+2021-10-19 12:46:01,730 - data_util.log - INFO - 
+2021-10-19 12:47:02,557 - data_util.log - INFO - 0062900.tar rouge_1:0.0859 rouge_2:0.0073 rouge_l:0.0851
+2021-10-19 12:47:02,678 - data_util.log - INFO - 
+2021-10-19 12:48:14,694 - data_util.log - INFO - 0052000.tar rouge_1:0.1809 rouge_2:0.0159 rouge_l:0.1585
+2021-10-19 12:48:14,809 - data_util.log - INFO - 
+2021-10-19 12:49:22,374 - data_util.log - INFO - 0063000.tar rouge_1:0.0789 rouge_2:0.0062 rouge_l:0.0789
+2021-10-19 12:49:22,492 - data_util.log - INFO - 
+2021-10-19 12:50:28,445 - data_util.log - INFO - 0052100.tar rouge_1:0.1971 rouge_2:0.0167 rouge_l:0.1693
+2021-10-19 12:50:28,560 - data_util.log - INFO - 
+2021-10-19 12:51:41,641 - data_util.log - INFO - 0063100.tar rouge_1:0.0718 rouge_2:0.0038 rouge_l:0.0718
+2021-10-19 12:51:41,764 - data_util.log - INFO - 
+2021-10-19 12:52:40,811 - data_util.log - INFO - 0052200.tar rouge_1:0.1850 rouge_2:0.0174 rouge_l:0.1549
+2021-10-19 12:52:40,925 - data_util.log - INFO - 
+2021-10-19 12:54:01,189 - data_util.log - INFO - 0063200.tar rouge_1:0.0754 rouge_2:0.0062 rouge_l:0.0754
+2021-10-19 12:54:01,301 - data_util.log - INFO - 
+2021-10-19 12:54:52,820 - data_util.log - INFO - 0052300.tar rouge_1:0.2091 rouge_2:0.0267 rouge_l:0.1827
+2021-10-19 12:54:52,934 - data_util.log - INFO - 
+2021-10-19 12:56:22,498 - data_util.log - INFO - 0063300.tar rouge_1:0.0761 rouge_2:0.0044 rouge_l:0.0761
+2021-10-19 12:56:22,612 - data_util.log - INFO - 
+2021-10-19 12:57:06,774 - data_util.log - INFO - 0052400.tar rouge_1:0.2153 rouge_2:0.0254 rouge_l:0.1808
+2021-10-19 12:57:06,926 - data_util.log - INFO - 
+2021-10-19 12:58:43,001 - data_util.log - INFO - 0063400.tar rouge_1:0.0732 rouge_2:0.0043 rouge_l:0.0726
+2021-10-19 12:58:43,123 - data_util.log - INFO - 
+2021-10-19 12:59:19,997 - data_util.log - INFO - 0052500.tar rouge_1:0.1846 rouge_2:0.0254 rouge_l:0.1589
+2021-10-19 12:59:20,113 - data_util.log - INFO - 
+2021-10-19 13:01:02,447 - data_util.log - INFO - 0063500.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:01:02,570 - data_util.log - INFO - 
+2021-10-19 13:01:31,829 - data_util.log - INFO - 0052600.tar rouge_1:0.1823 rouge_2:0.0115 rouge_l:0.1536
+2021-10-19 13:01:31,942 - data_util.log - INFO - 
+2021-10-19 13:03:24,398 - data_util.log - INFO - 0063600.tar rouge_1:0.0660 rouge_2:0.0032 rouge_l:0.0660
+2021-10-19 13:03:24,521 - data_util.log - INFO - 
+2021-10-19 13:03:44,758 - data_util.log - INFO - 0052700.tar rouge_1:0.1909 rouge_2:0.0207 rouge_l:0.1602
+2021-10-19 13:03:44,875 - data_util.log - INFO - 
+2021-10-19 13:05:45,731 - data_util.log - INFO - 0063700.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:05:45,855 - data_util.log - INFO - 
+2021-10-19 13:05:56,327 - data_util.log - INFO - 0052800.tar rouge_1:0.2050 rouge_2:0.0211 rouge_l:0.1692
+2021-10-19 13:05:56,442 - data_util.log - INFO - 
+2021-10-19 13:08:08,366 - data_util.log - INFO - 0052900.tar rouge_1:0.1911 rouge_2:0.0124 rouge_l:0.1620
+2021-10-19 13:08:08,496 - data_util.log - INFO - 
+2021-10-19 13:08:09,920 - data_util.log - INFO - 0063800.tar rouge_1:0.0661 rouge_2:0.0037 rouge_l:0.0661
+2021-10-19 13:08:10,040 - data_util.log - INFO - 
+2021-10-19 13:10:20,684 - data_util.log - INFO - 0053000.tar rouge_1:0.2153 rouge_2:0.0206 rouge_l:0.1828
+2021-10-19 13:10:20,797 - data_util.log - INFO - 
+2021-10-19 13:10:29,999 - data_util.log - INFO - 0063900.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:10:30,117 - data_util.log - INFO - 
+2021-10-19 13:12:32,034 - data_util.log - INFO - 0053100.tar rouge_1:0.2175 rouge_2:0.0247 rouge_l:0.1847
+2021-10-19 13:12:32,151 - data_util.log - INFO - 
+2021-10-19 13:12:49,030 - data_util.log - INFO - 0064000.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:12:49,138 - data_util.log - INFO - 
+2021-10-19 13:14:42,729 - data_util.log - INFO - 0053200.tar rouge_1:0.1914 rouge_2:0.0174 rouge_l:0.1665
+2021-10-19 13:14:42,847 - data_util.log - INFO - 
+2021-10-19 13:15:01,943 - data_util.log - INFO - 0064100.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:15:02,051 - data_util.log - INFO - 
+2021-10-19 13:16:52,663 - data_util.log - INFO - 0053300.tar rouge_1:0.1715 rouge_2:0.0209 rouge_l:0.1505
+2021-10-19 13:16:52,778 - data_util.log - INFO - 
+2021-10-19 13:17:15,890 - data_util.log - INFO - 0064200.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:17:16,000 - data_util.log - INFO - 
+2021-10-19 13:18:41,303 - data_util.log - INFO - 0053400.tar rouge_1:0.1539 rouge_2:0.0198 rouge_l:0.1355
+2021-10-19 13:18:41,417 - data_util.log - INFO - 
+2021-10-19 13:19:28,337 - data_util.log - INFO - 0064300.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:19:28,448 - data_util.log - INFO - 
+2021-10-19 13:20:32,577 - data_util.log - INFO - 0053500.tar rouge_1:0.1776 rouge_2:0.0211 rouge_l:0.1527
+2021-10-19 13:20:32,689 - data_util.log - INFO - 
+2021-10-19 13:21:41,669 - data_util.log - INFO - 0064400.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:21:41,780 - data_util.log - INFO - 
+2021-10-19 13:22:26,074 - data_util.log - INFO - 0053600.tar rouge_1:0.1803 rouge_2:0.0216 rouge_l:0.1586
+2021-10-19 13:22:26,189 - data_util.log - INFO - 
+2021-10-19 13:23:55,475 - data_util.log - INFO - 0064500.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:23:55,584 - data_util.log - INFO - 
+2021-10-19 13:24:20,684 - data_util.log - INFO - 0053700.tar rouge_1:0.1723 rouge_2:0.0182 rouge_l:0.1454
+2021-10-19 13:24:20,799 - data_util.log - INFO - 
+2021-10-19 13:26:09,013 - data_util.log - INFO - 0053800.tar rouge_1:0.1519 rouge_2:0.0137 rouge_l:0.1323
+2021-10-19 13:26:09,123 - data_util.log - INFO - 
+2021-10-19 13:26:10,059 - data_util.log - INFO - 0064600.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:26:10,167 - data_util.log - INFO - 
+2021-10-19 13:28:07,696 - data_util.log - INFO - 0053900.tar rouge_1:0.1748 rouge_2:0.0220 rouge_l:0.1526
+2021-10-19 13:28:07,808 - data_util.log - INFO - 
+2021-10-19 13:28:31,464 - data_util.log - INFO - 0064700.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:28:31,573 - data_util.log - INFO - 
+2021-10-19 13:29:58,652 - data_util.log - INFO - 0054000.tar rouge_1:0.1690 rouge_2:0.0211 rouge_l:0.1479
+2021-10-19 13:29:58,766 - data_util.log - INFO - 
+2021-10-19 13:30:46,444 - data_util.log - INFO - 0064800.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:30:46,555 - data_util.log - INFO - 
+2021-10-19 13:31:46,552 - data_util.log - INFO - 0054100.tar rouge_1:0.1786 rouge_2:0.0244 rouge_l:0.1552
+2021-10-19 13:31:46,663 - data_util.log - INFO - 
+2021-10-19 13:33:01,615 - data_util.log - INFO - 0064900.tar rouge_1:0.0654 rouge_2:0.0027 rouge_l:0.0654
+2021-10-19 13:33:01,724 - data_util.log - INFO - 
+2021-10-19 13:33:39,742 - data_util.log - INFO - 0054200.tar rouge_1:0.1888 rouge_2:0.0228 rouge_l:0.1619
+2021-10-19 13:33:39,852 - data_util.log - INFO - 
+2021-10-19 13:35:15,070 - data_util.log - INFO - 0065000.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:35:15,185 - data_util.log - INFO - 
+2021-10-19 13:35:25,527 - data_util.log - INFO - 0054300.tar rouge_1:0.1818 rouge_2:0.0143 rouge_l:0.1588
+2021-10-19 13:35:25,644 - data_util.log - INFO - 
+2021-10-19 13:37:17,372 - data_util.log - INFO - 0054400.tar rouge_1:0.1915 rouge_2:0.0150 rouge_l:0.1599
+2021-10-19 13:37:17,486 - data_util.log - INFO - 
+2021-10-19 13:37:29,222 - data_util.log - INFO - 0065100.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:37:29,334 - data_util.log - INFO - 
+2021-10-19 13:39:09,312 - data_util.log - INFO - 0054500.tar rouge_1:0.1722 rouge_2:0.0157 rouge_l:0.1553
+2021-10-19 13:39:09,427 - data_util.log - INFO - 
+2021-10-19 13:39:42,394 - data_util.log - INFO - 0065200.tar rouge_1:0.0654 rouge_2:0.0033 rouge_l:0.0654
+2021-10-19 13:39:42,506 - data_util.log - INFO - 
+2021-10-19 13:41:20,893 - data_util.log - INFO - 0054600.tar rouge_1:0.2160 rouge_2:0.0276 rouge_l:0.1897
+2021-10-19 13:41:21,008 - data_util.log - INFO - 
+2021-10-19 13:41:57,085 - data_util.log - INFO - 0065300.tar rouge_1:0.0654 rouge_2:0.0038 rouge_l:0.0654
+2021-10-19 13:41:57,194 - data_util.log - INFO - 
+2021-10-19 13:43:31,490 - data_util.log - INFO - 0054700.tar rouge_1:0.2101 rouge_2:0.0272 rouge_l:0.1776
+2021-10-19 13:43:31,601 - data_util.log - INFO - 
+2021-10-19 13:44:11,385 - data_util.log - INFO - 0065400.tar rouge_1:0.0654 rouge_2:0.0038 rouge_l:0.0654
+2021-10-19 13:44:11,495 - data_util.log - INFO - 
+2021-10-19 13:45:43,541 - data_util.log - INFO - 0054800.tar rouge_1:0.1997 rouge_2:0.0243 rouge_l:0.1683
+2021-10-19 13:45:43,655 - data_util.log - INFO - 
+2021-10-19 13:46:25,754 - data_util.log - INFO - 0065500.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:46:25,863 - data_util.log - INFO - 
+2021-10-19 13:47:54,354 - data_util.log - INFO - 0054900.tar rouge_1:0.2138 rouge_2:0.0243 rouge_l:0.1873
+2021-10-19 13:47:54,467 - data_util.log - INFO - 
+2021-10-19 13:48:40,031 - data_util.log - INFO - 0065600.tar rouge_1:0.0654 rouge_2:0.0033 rouge_l:0.0654
+2021-10-19 13:48:40,143 - data_util.log - INFO - 
+2021-10-19 13:50:05,490 - data_util.log - INFO - 0055000.tar rouge_1:0.2137 rouge_2:0.0230 rouge_l:0.1810
+2021-10-19 13:50:05,602 - data_util.log - INFO - 
+2021-10-19 13:50:53,735 - data_util.log - INFO - 0065700.tar rouge_1:0.0654 rouge_2:0.0027 rouge_l:0.0654
+2021-10-19 13:50:53,844 - data_util.log - INFO - 
+2021-10-19 13:52:16,055 - data_util.log - INFO - 0055100.tar rouge_1:0.2101 rouge_2:0.0322 rouge_l:0.1862
+2021-10-19 13:52:16,166 - data_util.log - INFO - 
+2021-10-19 13:53:08,198 - data_util.log - INFO - 0065800.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 13:53:08,307 - data_util.log - INFO - 
+2021-10-19 13:54:28,835 - data_util.log - INFO - 0055200.tar rouge_1:0.1325 rouge_2:0.0130 rouge_l:0.1182
+2021-10-19 13:54:28,950 - data_util.log - INFO - 
+2021-10-19 13:55:22,604 - data_util.log - INFO - 0065900.tar rouge_1:0.0654 rouge_2:0.0027 rouge_l:0.0654
+2021-10-19 13:55:22,714 - data_util.log - INFO - 
+2021-10-19 13:56:41,524 - data_util.log - INFO - 0055300.tar rouge_1:0.0956 rouge_2:0.0042 rouge_l:0.0866
+2021-10-19 13:56:41,639 - data_util.log - INFO - 
+2021-10-19 13:57:36,261 - data_util.log - INFO - 0066000.tar rouge_1:0.0654 rouge_2:0.0038 rouge_l:0.0654
+2021-10-19 13:57:36,369 - data_util.log - INFO - 
+2021-10-19 13:58:53,401 - data_util.log - INFO - 0055400.tar rouge_1:0.0962 rouge_2:0.0051 rouge_l:0.0872
+2021-10-19 13:58:53,513 - data_util.log - INFO - 
+2021-10-19 13:59:50,015 - data_util.log - INFO - 0066100.tar rouge_1:0.0654 rouge_2:0.0032 rouge_l:0.0654
+2021-10-19 13:59:50,124 - data_util.log - INFO - 
+2021-10-19 14:01:06,850 - data_util.log - INFO - 0055500.tar rouge_1:0.0956 rouge_2:0.0044 rouge_l:0.0894
+2021-10-19 14:01:06,965 - data_util.log - INFO - 
+2021-10-19 14:02:03,825 - data_util.log - INFO - 0066200.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 14:02:03,934 - data_util.log - INFO - 
+2021-10-19 14:03:18,866 - data_util.log - INFO - 0055600.tar rouge_1:0.0937 rouge_2:0.0047 rouge_l:0.0895
+2021-10-19 14:03:18,980 - data_util.log - INFO - 
+2021-10-19 14:04:18,317 - data_util.log - INFO - 0066300.tar rouge_1:0.0654 rouge_2:0.0032 rouge_l:0.0654
+2021-10-19 14:04:18,425 - data_util.log - INFO - 
+2021-10-19 14:05:31,758 - data_util.log - INFO - 0055700.tar rouge_1:0.0860 rouge_2:0.0051 rouge_l:0.0831
+2021-10-19 14:05:31,869 - data_util.log - INFO - 
+2021-10-19 14:06:32,302 - data_util.log - INFO - 0066400.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 14:06:32,412 - data_util.log - INFO - 
+2021-10-19 14:07:44,731 - data_util.log - INFO - 0055800.tar rouge_1:0.0887 rouge_2:0.0029 rouge_l:0.0830
+2021-10-19 14:07:44,844 - data_util.log - INFO - 
+2021-10-19 14:08:46,862 - data_util.log - INFO - 0066500.tar rouge_1:0.0654 rouge_2:0.0032 rouge_l:0.0648
+2021-10-19 14:08:46,971 - data_util.log - INFO - 
+2021-10-19 14:09:56,855 - data_util.log - INFO - 0055900.tar rouge_1:0.1007 rouge_2:0.0057 rouge_l:0.0952
+2021-10-19 14:09:56,972 - data_util.log - INFO - 
+2021-10-19 14:11:01,356 - data_util.log - INFO - 0066600.tar rouge_1:0.0654 rouge_2:0.0033 rouge_l:0.0648
+2021-10-19 14:11:01,466 - data_util.log - INFO - 
+2021-10-19 14:12:08,231 - data_util.log - INFO - 0056000.tar rouge_1:0.0899 rouge_2:0.0071 rouge_l:0.0828
+2021-10-19 14:12:08,344 - data_util.log - INFO - 
+2021-10-19 14:13:14,519 - data_util.log - INFO - 0066700.tar rouge_1:0.0654 rouge_2:0.0032 rouge_l:0.0648
+2021-10-19 14:13:14,629 - data_util.log - INFO - 
+2021-10-19 14:14:20,347 - data_util.log - INFO - 0056100.tar rouge_1:0.0923 rouge_2:0.0080 rouge_l:0.0837
+2021-10-19 14:14:20,461 - data_util.log - INFO - 
+2021-10-19 14:15:28,401 - data_util.log - INFO - 0066800.tar rouge_1:0.0646 rouge_2:0.0025 rouge_l:0.0640
+2021-10-19 14:15:28,512 - data_util.log - INFO - 
+2021-10-19 14:16:31,417 - data_util.log - INFO - 0056200.tar rouge_1:0.0931 rouge_2:0.0067 rouge_l:0.0869
+2021-10-19 14:16:31,532 - data_util.log - INFO - 
+2021-10-19 14:17:43,232 - data_util.log - INFO - 0066900.tar rouge_1:0.0654 rouge_2:0.0025 rouge_l:0.0639
+2021-10-19 14:17:43,343 - data_util.log - INFO - 
+2021-10-19 14:18:43,733 - data_util.log - INFO - 0056300.tar rouge_1:0.0897 rouge_2:0.0064 rouge_l:0.0863
+2021-10-19 14:18:43,848 - data_util.log - INFO - 
+2021-10-19 14:19:58,183 - data_util.log - INFO - 0067000.tar rouge_1:0.0654 rouge_2:0.0038 rouge_l:0.0654
+2021-10-19 14:19:58,294 - data_util.log - INFO - 
+2021-10-19 14:20:55,038 - data_util.log - INFO - 0056400.tar rouge_1:0.0954 rouge_2:0.0072 rouge_l:0.0908
+2021-10-19 14:20:55,151 - data_util.log - INFO - 
+2021-10-19 14:22:13,475 - data_util.log - INFO - 0067100.tar rouge_1:0.0654 rouge_2:0.0038 rouge_l:0.0654
+2021-10-19 14:22:13,585 - data_util.log - INFO - 
+2021-10-19 14:23:06,150 - data_util.log - INFO - 0056500.tar rouge_1:0.0941 rouge_2:0.0071 rouge_l:0.0900
+2021-10-19 14:23:06,263 - data_util.log - INFO - 
+2021-10-19 14:24:28,295 - data_util.log - INFO - 0067200.tar rouge_1:0.0654 rouge_2:0.0025 rouge_l:0.0639
+2021-10-19 14:24:28,406 - data_util.log - INFO - 
+2021-10-19 14:25:17,729 - data_util.log - INFO - 0056600.tar rouge_1:0.0880 rouge_2:0.0071 rouge_l:0.0843
+2021-10-19 14:25:17,841 - data_util.log - INFO - 
+2021-10-19 14:26:43,181 - data_util.log - INFO - 0067300.tar rouge_1:0.0646 rouge_2:0.0025 rouge_l:0.0640
+2021-10-19 14:26:43,291 - data_util.log - INFO - 
+2021-10-19 14:27:29,170 - data_util.log - INFO - 0056700.tar rouge_1:0.0881 rouge_2:0.0060 rouge_l:0.0845
+2021-10-19 14:27:29,286 - data_util.log - INFO - 
+2021-10-19 14:28:57,122 - data_util.log - INFO - 0067400.tar rouge_1:0.0654 rouge_2:0.0038 rouge_l:0.0654
+2021-10-19 14:28:57,231 - data_util.log - INFO - 
+2021-10-19 14:31:11,255 - data_util.log - INFO - 0067500.tar rouge_1:0.0654 rouge_2:0.0037 rouge_l:0.0654
+2021-10-19 14:31:11,368 - data_util.log - INFO - 
+2021-10-19 14:33:25,272 - data_util.log - INFO - 0067600.tar rouge_1:0.0654 rouge_2:0.0032 rouge_l:0.0654
+2021-10-19 14:33:25,383 - data_util.log - INFO - 
+2021-10-19 14:35:40,084 - data_util.log - INFO - 0067700.tar rouge_1:0.0647 rouge_2:0.0037 rouge_l:0.0647
+2021-10-19 14:35:40,193 - data_util.log - INFO - 
+2021-10-19 14:37:54,564 - data_util.log - INFO - 0067800.tar rouge_1:0.0654 rouge_2:0.0032 rouge_l:0.0654
+2021-10-19 14:37:54,679 - data_util.log - INFO - 

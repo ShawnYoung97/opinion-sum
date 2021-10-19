@@ -1,0 +1,973 @@
+2021-01-05 16:21:23,341 - data_util.log - INFO - log启动
+2021-01-05 16:21:25,606 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 11
+2021-01-05 16:22:26,805 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-05 16:22:40,810 - data_util.log - INFO - Bucket queue size: 2, Input queue size: 1995
+2021-01-05 16:23:34,117 - data_util.log - INFO - iter:50  mle_loss:5.947  reward:0.0000
+2021-01-05 16:23:40,870 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:24:07,343 - data_util.log - INFO - iter:100  mle_loss:5.802  reward:0.0000
+2021-01-05 16:24:35,870 - data_util.log - INFO - iter:150  mle_loss:5.747  reward:0.0000
+2021-01-05 16:24:40,931 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:25:05,611 - data_util.log - INFO - iter:200  mle_loss:6.459  reward:0.0000
+2021-01-05 16:25:33,983 - data_util.log - INFO - iter:250  mle_loss:6.406  reward:0.0000
+2021-01-05 16:25:40,992 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:26:05,687 - data_util.log - INFO - iter:300  mle_loss:6.154  reward:0.0000
+2021-01-05 16:26:36,293 - data_util.log - INFO - iter:350  mle_loss:6.202  reward:0.0000
+2021-01-05 16:26:41,052 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:27:05,860 - data_util.log - INFO - iter:400  mle_loss:6.142  reward:0.0000
+2021-01-05 16:27:34,319 - data_util.log - INFO - iter:450  mle_loss:6.085  reward:0.0000
+2021-01-05 16:27:41,113 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:28:06,841 - data_util.log - INFO - iter:500  mle_loss:6.146  reward:0.0000
+2021-01-05 16:28:36,606 - data_util.log - INFO - iter:550  mle_loss:6.428  reward:0.0000
+2021-01-05 16:28:41,173 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:29:07,478 - data_util.log - INFO - iter:600  mle_loss:6.066  reward:0.0000
+2021-01-05 16:29:37,386 - data_util.log - INFO - iter:650  mle_loss:6.157  reward:0.0000
+2021-01-05 16:29:41,234 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:30:06,119 - data_util.log - INFO - iter:700  mle_loss:6.215  reward:0.0000
+2021-01-05 16:30:37,126 - data_util.log - INFO - iter:750  mle_loss:6.094  reward:0.0000
+2021-01-05 16:30:41,294 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:31:08,079 - data_util.log - INFO - iter:800  mle_loss:6.218  reward:0.0000
+2021-01-05 16:31:37,525 - data_util.log - INFO - iter:850  mle_loss:6.150  reward:0.0000
+2021-01-05 16:31:41,354 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:32:07,388 - data_util.log - INFO - iter:900  mle_loss:6.220  reward:0.0000
+2021-01-05 16:32:36,528 - data_util.log - INFO - iter:950  mle_loss:6.181  reward:0.0000
+2021-01-05 16:32:41,415 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:33:06,452 - data_util.log - INFO - iter:1000  mle_loss:6.086  reward:0.0000
+2021-01-05 16:33:38,823 - data_util.log - INFO - iter:1050  mle_loss:5.977  reward:0.0000
+2021-01-05 16:33:41,476 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:34:09,531 - data_util.log - INFO - iter:1100  mle_loss:6.120  reward:0.0000
+2021-01-05 16:34:40,013 - data_util.log - INFO - iter:1150  mle_loss:6.075  reward:0.0000
+2021-01-05 16:34:41,536 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:35:08,848 - data_util.log - INFO - iter:1200  mle_loss:5.991  reward:0.0000
+2021-01-05 16:35:38,012 - data_util.log - INFO - iter:1250  mle_loss:6.045  reward:0.0000
+2021-01-05 16:35:41,597 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:36:10,445 - data_util.log - INFO - iter:1300  mle_loss:6.112  reward:0.0000
+2021-01-05 16:36:39,370 - data_util.log - INFO - iter:1350  mle_loss:6.216  reward:0.0000
+2021-01-05 16:36:41,657 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:37:08,331 - data_util.log - INFO - iter:1400  mle_loss:5.866  reward:0.0000
+2021-01-05 16:37:39,292 - data_util.log - INFO - iter:1450  mle_loss:6.227  reward:0.0000
+2021-01-05 16:37:41,718 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:38:08,285 - data_util.log - INFO - iter:1500  mle_loss:6.184  reward:0.0000
+2021-01-05 16:38:40,109 - data_util.log - INFO - iter:1550  mle_loss:6.154  reward:0.0000
+2021-01-05 16:38:41,778 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:39:11,436 - data_util.log - INFO - iter:1600  mle_loss:6.183  reward:0.0000
+2021-01-05 16:39:38,419 - data_util.log - INFO - iter:1650  mle_loss:6.082  reward:0.0000
+2021-01-05 16:39:41,838 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:40:10,908 - data_util.log - INFO - iter:1700  mle_loss:6.021  reward:0.0000
+2021-01-05 16:40:38,688 - data_util.log - INFO - iter:1750  mle_loss:6.192  reward:0.0000
+2021-01-05 16:40:41,899 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:41:09,345 - data_util.log - INFO - iter:1800  mle_loss:6.160  reward:0.0000
+2021-01-05 16:41:40,498 - data_util.log - INFO - iter:1850  mle_loss:6.160  reward:0.0000
+2021-01-05 16:41:41,959 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:42:08,744 - data_util.log - INFO - iter:1900  mle_loss:6.187  reward:0.0000
+2021-01-05 16:42:40,696 - data_util.log - INFO - iter:1950  mle_loss:5.965  reward:0.0000
+2021-01-05 16:42:42,020 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:43:10,288 - data_util.log - INFO - iter:2000  mle_loss:6.156  reward:0.0000
+2021-01-05 16:43:54,382 - data_util.log - INFO - log启动
+2021-01-05 16:43:56,618 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 11
+2021-01-05 16:45:00,016 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-05 16:45:04,021 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 1998
+2021-01-05 16:46:04,877 - data_util.log - INFO - iter:50  mle_loss:8.043  reward:0.0000
+2021-01-05 16:46:15,021 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:46:37,886 - data_util.log - INFO - iter:100  mle_loss:7.197  reward:0.0000
+2021-01-05 16:47:06,350 - data_util.log - INFO - iter:150  mle_loss:7.612  reward:0.0000
+2021-01-05 16:47:15,082 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:47:35,916 - data_util.log - INFO - iter:200  mle_loss:7.240  reward:0.0000
+2021-01-05 16:48:04,147 - data_util.log - INFO - iter:250  mle_loss:7.337  reward:0.0000
+2021-01-05 16:48:15,142 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:48:35,587 - data_util.log - INFO - iter:300  mle_loss:7.372  reward:0.0000
+2021-01-05 16:49:05,944 - data_util.log - INFO - iter:350  mle_loss:7.422  reward:0.0000
+2021-01-05 16:49:15,203 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:49:35,319 - data_util.log - INFO - iter:400  mle_loss:7.210  reward:0.0000
+2021-01-05 16:50:03,610 - data_util.log - INFO - iter:450  mle_loss:7.348  reward:0.0000
+2021-01-05 16:50:15,263 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:50:35,875 - data_util.log - INFO - iter:500  mle_loss:7.391  reward:0.0000
+2021-01-05 16:51:06,841 - data_util.log - INFO - iter:550  mle_loss:7.441  reward:0.0000
+2021-01-05 16:51:15,324 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:51:37,438 - data_util.log - INFO - iter:600  mle_loss:7.197  reward:0.0000
+2021-01-05 16:52:07,126 - data_util.log - INFO - iter:650  mle_loss:7.526  reward:0.0000
+2021-01-05 16:52:15,384 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:52:35,616 - data_util.log - INFO - iter:700  mle_loss:7.198  reward:0.0000
+2021-01-05 16:53:06,458 - data_util.log - INFO - iter:750  mle_loss:7.429  reward:0.0000
+2021-01-05 16:53:15,418 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:53:37,166 - data_util.log - INFO - iter:800  mle_loss:7.146  reward:0.0000
+2021-01-05 16:54:06,399 - data_util.log - INFO - iter:850  mle_loss:7.663  reward:0.0000
+2021-01-05 16:54:15,478 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:54:36,074 - data_util.log - INFO - iter:900  mle_loss:7.340  reward:0.0000
+2021-01-05 16:55:05,068 - data_util.log - INFO - iter:950  mle_loss:7.190  reward:0.0000
+2021-01-05 16:55:15,538 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:55:34,814 - data_util.log - INFO - iter:1000  mle_loss:7.405  reward:0.0000
+2021-01-05 16:56:08,294 - data_util.log - INFO - iter:1050  mle_loss:7.372  reward:0.0000
+2021-01-05 16:56:15,599 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:56:38,802 - data_util.log - INFO - iter:1100  mle_loss:7.157  reward:0.0000
+2021-01-05 16:57:09,063 - data_util.log - INFO - iter:1150  mle_loss:7.425  reward:0.0000
+2021-01-05 16:57:15,659 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:57:37,676 - data_util.log - INFO - iter:1200  mle_loss:7.608  reward:0.0000
+2021-01-05 16:58:06,677 - data_util.log - INFO - iter:1250  mle_loss:7.156  reward:0.0000
+2021-01-05 16:58:15,689 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:58:38,925 - data_util.log - INFO - iter:1300  mle_loss:7.179  reward:0.0000
+2021-01-05 16:59:07,754 - data_util.log - INFO - iter:1350  mle_loss:7.433  reward:0.0000
+2021-01-05 16:59:15,750 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 16:59:36,502 - data_util.log - INFO - iter:1400  mle_loss:7.595  reward:0.0000
+2021-01-05 17:00:07,347 - data_util.log - INFO - iter:1450  mle_loss:7.146  reward:0.0000
+2021-01-05 17:00:15,810 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:00:36,193 - data_util.log - INFO - iter:1500  mle_loss:7.397  reward:0.0000
+2021-01-05 17:01:09,161 - data_util.log - INFO - iter:1550  mle_loss:7.190  reward:0.0000
+2021-01-05 17:01:15,871 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:01:40,356 - data_util.log - INFO - iter:1600  mle_loss:7.412  reward:0.0000
+2021-01-05 17:02:07,206 - data_util.log - INFO - iter:1650  mle_loss:7.377  reward:0.0000
+2021-01-05 17:02:15,931 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:02:39,522 - data_util.log - INFO - iter:1700  mle_loss:7.391  reward:0.0000
+2021-01-05 17:03:07,182 - data_util.log - INFO - iter:1750  mle_loss:7.384  reward:0.0000
+2021-01-05 17:03:15,992 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:03:37,668 - data_util.log - INFO - iter:1800  mle_loss:7.437  reward:0.0000
+2021-01-05 17:04:08,609 - data_util.log - INFO - iter:1850  mle_loss:7.134  reward:0.0000
+2021-01-05 17:04:16,052 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:04:36,812 - data_util.log - INFO - iter:1900  mle_loss:7.452  reward:0.0000
+2021-01-05 17:05:08,635 - data_util.log - INFO - iter:1950  mle_loss:7.376  reward:0.0000
+2021-01-05 17:05:16,112 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:05:38,059 - data_util.log - INFO - iter:2000  mle_loss:7.377  reward:0.0000
+2021-01-05 17:06:11,370 - data_util.log - INFO - iter:2050  mle_loss:7.204  reward:0.0000
+2021-01-05 17:06:16,173 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:06:39,897 - data_util.log - INFO - iter:2100  mle_loss:7.578  reward:0.0000
+2021-01-05 17:07:11,007 - data_util.log - INFO - iter:2150  mle_loss:7.432  reward:0.0000
+2021-01-05 17:07:16,233 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:07:39,401 - data_util.log - INFO - iter:2200  mle_loss:7.147  reward:0.0000
+2021-01-05 17:08:09,655 - data_util.log - INFO - iter:2250  mle_loss:7.404  reward:0.0000
+2021-01-05 17:08:16,294 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:08:39,993 - data_util.log - INFO - iter:2300  mle_loss:7.428  reward:0.0000
+2021-01-05 17:08:54,621 - data_util.log - INFO - log启动
+2021-01-05 17:08:56,854 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 11
+2021-01-05 17:10:17,963 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-01-05 17:10:27,437 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 1997
+2021-01-05 17:11:02,149 - data_util.log - INFO - iter:50  mle_loss:6.098  reward:0.0000
+2021-01-05 17:11:27,497 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:11:32,713 - data_util.log - INFO - iter:100  mle_loss:5.577  reward:0.0000
+2021-01-05 17:11:59,115 - data_util.log - INFO - iter:150  mle_loss:5.549  reward:0.0000
+2021-01-05 17:12:26,604 - data_util.log - INFO - iter:200  mle_loss:5.436  reward:0.0000
+2021-01-05 17:12:27,513 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:12:52,839 - data_util.log - INFO - iter:250  mle_loss:5.512  reward:0.0000
+2021-01-05 17:13:22,099 - data_util.log - INFO - iter:300  mle_loss:5.448  reward:0.0000
+2021-01-05 17:13:27,574 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:13:50,262 - data_util.log - INFO - iter:350  mle_loss:5.299  reward:0.0000
+2021-01-05 17:14:17,612 - data_util.log - INFO - iter:400  mle_loss:4.804  reward:0.0000
+2021-01-05 17:14:27,635 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:14:43,861 - data_util.log - INFO - iter:450  mle_loss:4.554  reward:0.0000
+2021-01-05 17:15:13,909 - data_util.log - INFO - iter:500  mle_loss:4.437  reward:0.0000
+2021-01-05 17:15:27,695 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:15:42,977 - data_util.log - INFO - iter:550  mle_loss:4.250  reward:0.0000
+2021-01-05 17:16:11,421 - data_util.log - INFO - iter:600  mle_loss:4.109  reward:0.0000
+2021-01-05 17:16:27,756 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:16:38,991 - data_util.log - INFO - iter:650  mle_loss:4.167  reward:0.0000
+2021-01-05 17:17:05,423 - data_util.log - INFO - iter:700  mle_loss:4.066  reward:0.0000
+2021-01-05 17:17:27,816 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:17:34,107 - data_util.log - INFO - iter:750  mle_loss:4.037  reward:0.0000
+2021-01-05 17:18:02,674 - data_util.log - INFO - iter:800  mle_loss:3.856  reward:0.0000
+2021-01-05 17:18:27,877 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:18:29,822 - data_util.log - INFO - iter:850  mle_loss:3.930  reward:0.0000
+2021-01-05 17:18:57,412 - data_util.log - INFO - iter:900  mle_loss:3.914  reward:0.0000
+2021-01-05 17:19:24,314 - data_util.log - INFO - iter:950  mle_loss:3.831  reward:0.0000
+2021-01-05 17:19:27,937 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:19:52,005 - data_util.log - INFO - iter:1000  mle_loss:3.883  reward:0.0000
+2021-01-05 17:20:23,420 - data_util.log - INFO - iter:1050  mle_loss:3.975  reward:0.0000
+2021-01-05 17:20:27,998 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:20:51,811 - data_util.log - INFO - iter:1100  mle_loss:3.652  reward:0.0000
+2021-01-05 17:21:19,896 - data_util.log - INFO - iter:1150  mle_loss:3.629  reward:0.0000
+2021-01-05 17:21:28,058 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:21:46,498 - data_util.log - INFO - iter:1200  mle_loss:3.543  reward:0.0000
+2021-01-05 17:22:13,427 - data_util.log - INFO - iter:1250  mle_loss:3.572  reward:0.0000
+2021-01-05 17:22:28,119 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:22:43,322 - data_util.log - INFO - iter:1300  mle_loss:3.589  reward:0.0000
+2021-01-05 17:23:10,025 - data_util.log - INFO - iter:1350  mle_loss:3.444  reward:0.0000
+2021-01-05 17:23:28,179 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:23:36,712 - data_util.log - INFO - iter:1400  mle_loss:3.388  reward:0.0000
+2021-01-05 17:24:05,221 - data_util.log - INFO - iter:1450  mle_loss:3.389  reward:0.0000
+2021-01-05 17:24:28,240 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:24:31,991 - data_util.log - INFO - iter:1500  mle_loss:3.554  reward:0.0000
+2021-01-05 17:25:02,761 - data_util.log - INFO - iter:1550  mle_loss:3.179  reward:0.0000
+2021-01-05 17:25:28,300 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:25:31,656 - data_util.log - INFO - iter:1600  mle_loss:3.388  reward:0.0000
+2021-01-05 17:25:56,514 - data_util.log - INFO - iter:1650  mle_loss:3.147  reward:0.0000
+2021-01-05 17:26:26,461 - data_util.log - INFO - iter:1700  mle_loss:3.315  reward:0.0000
+2021-01-05 17:26:28,361 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:26:52,060 - data_util.log - INFO - iter:1750  mle_loss:3.175  reward:0.0000
+2021-01-05 17:27:20,340 - data_util.log - INFO - iter:1800  mle_loss:3.076  reward:0.0000
+2021-01-05 17:27:28,421 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:27:48,967 - data_util.log - INFO - iter:1850  mle_loss:3.129  reward:0.0000
+2021-01-05 17:28:15,109 - data_util.log - INFO - iter:1900  mle_loss:3.237  reward:0.0000
+2021-01-05 17:28:28,482 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:28:44,583 - data_util.log - INFO - iter:1950  mle_loss:3.245  reward:0.0000
+2021-01-05 17:29:11,846 - data_util.log - INFO - iter:2000  mle_loss:3.142  reward:0.0000
+2021-01-05 17:29:28,542 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:29:42,839 - data_util.log - INFO - iter:2050  mle_loss:2.921  reward:0.0000
+2021-01-05 17:30:09,267 - data_util.log - INFO - iter:2100  mle_loss:3.052  reward:0.0000
+2021-01-05 17:30:28,603 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:30:37,928 - data_util.log - INFO - iter:2150  mle_loss:3.075  reward:0.0000
+2021-01-05 17:31:04,214 - data_util.log - INFO - iter:2200  mle_loss:2.867  reward:0.0000
+2021-01-05 17:31:28,663 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:31:32,239 - data_util.log - INFO - iter:2250  mle_loss:3.063  reward:0.0000
+2021-01-05 17:32:00,349 - data_util.log - INFO - iter:2300  mle_loss:2.966  reward:0.0000
+2021-01-05 17:32:28,582 - data_util.log - INFO - iter:2350  mle_loss:2.677  reward:0.0000
+2021-01-05 17:32:28,724 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:32:55,638 - data_util.log - INFO - iter:2400  mle_loss:2.992  reward:0.0000
+2021-01-05 17:33:22,940 - data_util.log - INFO - iter:2450  mle_loss:2.714  reward:0.0000
+2021-01-05 17:33:28,784 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:33:50,985 - data_util.log - INFO - iter:2500  mle_loss:2.740  reward:0.0000
+2021-01-05 17:34:20,184 - data_util.log - INFO - iter:2550  mle_loss:2.660  reward:0.0000
+2021-01-05 17:34:28,845 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:34:47,081 - data_util.log - INFO - iter:2600  mle_loss:2.625  reward:0.0000
+2021-01-05 17:35:14,882 - data_util.log - INFO - iter:2650  mle_loss:2.801  reward:0.0000
+2021-01-05 17:35:28,905 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:35:43,470 - data_util.log - INFO - iter:2700  mle_loss:2.915  reward:0.0000
+2021-01-05 17:36:11,971 - data_util.log - INFO - iter:2750  mle_loss:2.691  reward:0.0000
+2021-01-05 17:36:28,966 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:36:36,506 - data_util.log - INFO - iter:2800  mle_loss:2.526  reward:0.0000
+2021-01-05 17:37:04,940 - data_util.log - INFO - iter:2850  mle_loss:2.523  reward:0.0000
+2021-01-05 17:37:29,026 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:37:33,608 - data_util.log - INFO - iter:2900  mle_loss:2.597  reward:0.0000
+2021-01-05 17:38:00,650 - data_util.log - INFO - iter:2950  mle_loss:2.538  reward:0.0000
+2021-01-05 17:38:29,087 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:38:29,355 - data_util.log - INFO - iter:3000  mle_loss:2.890  reward:0.0000
+2021-01-05 17:38:58,907 - data_util.log - INFO - iter:3050  mle_loss:2.639  reward:0.0000
+2021-01-05 17:39:25,030 - data_util.log - INFO - iter:3100  mle_loss:2.669  reward:0.0000
+2021-01-05 17:39:29,148 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:39:53,694 - data_util.log - INFO - iter:3150  mle_loss:2.490  reward:0.0000
+2021-01-05 17:40:21,485 - data_util.log - INFO - iter:3200  mle_loss:2.464  reward:0.0000
+2021-01-05 17:40:29,208 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1999
+2021-01-05 17:40:50,068 - data_util.log - INFO - iter:3250  mle_loss:2.366  reward:0.0000
+2021-01-05 17:41:16,467 - data_util.log - INFO - iter:3300  mle_loss:2.447  reward:0.0000
+2021-01-05 17:41:29,275 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:41:43,565 - data_util.log - INFO - iter:3350  mle_loss:2.321  reward:0.0000
+2021-01-05 17:42:11,905 - data_util.log - INFO - iter:3400  mle_loss:2.462  reward:0.0000
+2021-01-05 17:42:29,335 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:42:40,588 - data_util.log - INFO - iter:3450  mle_loss:2.444  reward:0.0000
+2021-01-05 17:43:07,635 - data_util.log - INFO - iter:3500  mle_loss:2.307  reward:0.0000
+2021-01-05 17:43:29,396 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:43:35,503 - data_util.log - INFO - iter:3550  mle_loss:2.382  reward:0.0000
+2021-01-05 17:44:02,011 - data_util.log - INFO - iter:3600  mle_loss:2.313  reward:0.0000
+2021-01-05 17:44:29,456 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:44:30,269 - data_util.log - INFO - iter:3650  mle_loss:2.336  reward:0.0000
+2021-01-05 17:44:59,226 - data_util.log - INFO - iter:3700  mle_loss:2.263  reward:0.0000
+2021-01-05 17:45:25,245 - data_util.log - INFO - iter:3750  mle_loss:2.394  reward:0.0000
+2021-01-05 17:45:29,517 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:45:55,226 - data_util.log - INFO - iter:3800  mle_loss:2.180  reward:0.0000
+2021-01-05 17:46:21,083 - data_util.log - INFO - iter:3850  mle_loss:2.298  reward:0.0000
+2021-01-05 17:46:29,578 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:46:49,094 - data_util.log - INFO - iter:3900  mle_loss:2.202  reward:0.0000
+2021-01-05 17:47:18,138 - data_util.log - INFO - iter:3950  mle_loss:2.038  reward:0.0000
+2021-01-05 17:47:29,638 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:47:45,137 - data_util.log - INFO - iter:4000  mle_loss:1.965  reward:0.0000
+2021-01-05 17:48:14,195 - data_util.log - INFO - iter:4050  mle_loss:2.011  reward:0.0000
+2021-01-05 17:48:29,699 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:48:41,672 - data_util.log - INFO - iter:4100  mle_loss:2.127  reward:0.0000
+2021-01-05 17:49:08,689 - data_util.log - INFO - iter:4150  mle_loss:2.209  reward:0.0000
+2021-01-05 17:49:29,759 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:49:36,720 - data_util.log - INFO - iter:4200  mle_loss:2.214  reward:0.0000
+2021-01-05 17:50:04,466 - data_util.log - INFO - iter:4250  mle_loss:2.185  reward:0.0000
+2021-01-05 17:50:29,820 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:50:31,001 - data_util.log - INFO - iter:4300  mle_loss:2.120  reward:0.0000
+2021-01-05 17:50:59,915 - data_util.log - INFO - iter:4350  mle_loss:2.142  reward:0.0000
+2021-01-05 17:51:25,713 - data_util.log - INFO - iter:4400  mle_loss:2.043  reward:0.0000
+2021-01-05 17:51:29,880 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:51:55,787 - data_util.log - INFO - iter:4450  mle_loss:2.056  reward:0.0000
+2021-01-05 17:52:22,148 - data_util.log - INFO - iter:4500  mle_loss:2.077  reward:0.0000
+2021-01-05 17:52:29,940 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:52:51,629 - data_util.log - INFO - iter:4550  mle_loss:2.181  reward:0.0000
+2021-01-05 17:53:19,879 - data_util.log - INFO - iter:4600  mle_loss:1.778  reward:0.0000
+2021-01-05 17:53:30,001 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:53:45,495 - data_util.log - INFO - iter:4650  mle_loss:1.781  reward:0.0000
+2021-01-05 17:54:15,119 - data_util.log - INFO - iter:4700  mle_loss:1.871  reward:0.0000
+2021-01-05 17:54:30,061 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:54:43,276 - data_util.log - INFO - iter:4750  mle_loss:2.100  reward:0.0000
+2021-01-05 17:55:10,192 - data_util.log - INFO - iter:4800  mle_loss:1.862  reward:0.0000
+2021-01-05 17:55:30,122 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:55:38,721 - data_util.log - INFO - iter:4850  mle_loss:1.753  reward:0.0000
+2021-01-05 17:56:06,315 - data_util.log - INFO - iter:4900  mle_loss:1.745  reward:0.0000
+2021-01-05 17:56:30,182 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:56:33,121 - data_util.log - INFO - iter:4950  mle_loss:1.673  reward:0.0000
+2021-01-05 17:57:01,617 - data_util.log - INFO - iter:5000  mle_loss:1.804  reward:0.0000
+2021-01-05 17:57:30,243 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:57:30,307 - data_util.log - INFO - iter:5050  mle_loss:1.768  reward:0.0000
+2021-01-05 17:57:59,484 - data_util.log - INFO - iter:5100  mle_loss:1.977  reward:0.0000
+2021-01-05 17:58:26,237 - data_util.log - INFO - iter:5150  mle_loss:1.982  reward:0.0000
+2021-01-05 17:58:30,304 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:58:53,286 - data_util.log - INFO - iter:5200  mle_loss:1.882  reward:0.0000
+2021-01-05 17:59:22,082 - data_util.log - INFO - iter:5250  mle_loss:1.746  reward:0.0000
+2021-01-05 17:59:30,337 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 17:59:48,390 - data_util.log - INFO - iter:5300  mle_loss:1.642  reward:0.0000
+2021-01-05 18:00:16,040 - data_util.log - INFO - iter:5350  mle_loss:1.582  reward:0.0000
+2021-01-05 18:00:30,398 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:00:44,141 - data_util.log - INFO - iter:5400  mle_loss:1.633  reward:0.0000
+2021-01-05 18:01:12,665 - data_util.log - INFO - iter:5450  mle_loss:1.554  reward:0.0000
+2021-01-05 18:01:30,459 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:01:40,813 - data_util.log - INFO - iter:5500  mle_loss:1.737  reward:0.0000
+2021-01-05 18:02:08,584 - data_util.log - INFO - iter:5550  mle_loss:1.681  reward:0.0000
+2021-01-05 18:02:30,505 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:02:36,787 - data_util.log - INFO - iter:5600  mle_loss:1.700  reward:0.0000
+2021-01-05 18:03:04,668 - data_util.log - INFO - iter:5650  mle_loss:1.957  reward:0.0000
+2021-01-05 18:03:30,566 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:03:32,640 - data_util.log - INFO - iter:5700  mle_loss:1.561  reward:0.0000
+2021-01-05 18:04:00,470 - data_util.log - INFO - iter:5750  mle_loss:1.727  reward:0.0000
+2021-01-05 18:04:27,504 - data_util.log - INFO - iter:5800  mle_loss:1.500  reward:0.0000
+2021-01-05 18:04:30,627 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:04:56,206 - data_util.log - INFO - iter:5850  mle_loss:1.605  reward:0.0000
+2021-01-05 18:05:23,719 - data_util.log - INFO - iter:5900  mle_loss:1.515  reward:0.0000
+2021-01-05 18:05:30,687 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:05:50,736 - data_util.log - INFO - iter:5950  mle_loss:1.572  reward:0.0000
+2021-01-05 18:06:18,353 - data_util.log - INFO - iter:6000  mle_loss:1.532  reward:0.0000
+2021-01-05 18:06:30,730 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:06:47,879 - data_util.log - INFO - iter:6050  mle_loss:1.501  reward:0.0000
+2021-01-05 18:07:15,422 - data_util.log - INFO - iter:6100  mle_loss:1.447  reward:0.0000
+2021-01-05 18:07:30,790 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:07:44,672 - data_util.log - INFO - iter:6150  mle_loss:1.381  reward:0.0000
+2021-01-05 18:08:09,934 - data_util.log - INFO - iter:6200  mle_loss:1.425  reward:0.0000
+2021-01-05 18:08:30,850 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:08:37,867 - data_util.log - INFO - iter:6250  mle_loss:1.387  reward:0.0000
+2021-01-05 18:09:07,041 - data_util.log - INFO - iter:6300  mle_loss:1.501  reward:0.0000
+2021-01-05 18:09:30,911 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:09:35,469 - data_util.log - INFO - iter:6350  mle_loss:1.388  reward:0.0000
+2021-01-05 18:10:03,575 - data_util.log - INFO - iter:6400  mle_loss:1.431  reward:0.0000
+2021-01-05 18:10:29,716 - data_util.log - INFO - iter:6450  mle_loss:1.455  reward:0.0000
+2021-01-05 18:10:30,972 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:10:57,251 - data_util.log - INFO - iter:6500  mle_loss:1.656  reward:0.0000
+2021-01-05 18:11:27,253 - data_util.log - INFO - iter:6550  mle_loss:1.540  reward:0.0000
+2021-01-05 18:11:31,032 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:11:53,203 - data_util.log - INFO - iter:6600  mle_loss:1.382  reward:0.0000
+2021-01-05 18:12:20,893 - data_util.log - INFO - iter:6650  mle_loss:1.428  reward:0.0000
+2021-01-05 18:12:31,092 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:12:50,096 - data_util.log - INFO - iter:6700  mle_loss:1.332  reward:0.0000
+2021-01-05 18:13:16,469 - data_util.log - INFO - iter:6750  mle_loss:1.479  reward:0.0000
+2021-01-05 18:13:31,153 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:13:46,484 - data_util.log - INFO - iter:6800  mle_loss:1.462  reward:0.0000
+2021-01-05 18:14:13,238 - data_util.log - INFO - iter:6850  mle_loss:1.282  reward:0.0000
+2021-01-05 18:14:31,213 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:14:40,843 - data_util.log - INFO - iter:6900  mle_loss:1.273  reward:0.0000
+2021-01-05 18:15:09,345 - data_util.log - INFO - iter:6950  mle_loss:1.236  reward:0.0000
+2021-01-05 18:15:31,274 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:15:34,919 - data_util.log - INFO - iter:7000  mle_loss:1.207  reward:0.0000
+2021-01-05 18:16:04,902 - data_util.log - INFO - iter:7050  mle_loss:1.276  reward:0.0000
+2021-01-05 18:16:31,334 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:16:34,093 - data_util.log - INFO - iter:7100  mle_loss:1.399  reward:0.0000
+2021-01-05 18:16:59,271 - data_util.log - INFO - iter:7150  mle_loss:1.281  reward:0.0000
+2021-01-05 18:17:28,327 - data_util.log - INFO - iter:7200  mle_loss:1.494  reward:0.0000
+2021-01-05 18:17:31,337 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:17:55,620 - data_util.log - INFO - iter:7250  mle_loss:1.314  reward:0.0000
+2021-01-05 18:18:24,050 - data_util.log - INFO - iter:7300  mle_loss:1.374  reward:0.0000
+2021-01-05 18:18:31,398 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:18:51,985 - data_util.log - INFO - iter:7350  mle_loss:1.146  reward:0.0000
+2021-01-05 18:19:18,865 - data_util.log - INFO - iter:7400  mle_loss:1.149  reward:0.0000
+2021-01-05 18:19:31,434 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:19:46,234 - data_util.log - INFO - iter:7450  mle_loss:1.144  reward:0.0000
+2021-01-05 18:20:14,641 - data_util.log - INFO - iter:7500  mle_loss:1.181  reward:0.0000
+2021-01-05 18:20:31,494 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:20:43,455 - data_util.log - INFO - iter:7550  mle_loss:1.120  reward:0.0000
+2021-01-05 18:21:11,231 - data_util.log - INFO - iter:7600  mle_loss:1.015  reward:0.0000
+2021-01-05 18:21:31,559 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:21:40,370 - data_util.log - INFO - iter:7650  mle_loss:1.102  reward:0.0000
+2021-01-05 18:22:07,291 - data_util.log - INFO - iter:7700  mle_loss:1.048  reward:0.0000
+2021-01-05 18:22:31,620 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:22:35,534 - data_util.log - INFO - iter:7750  mle_loss:1.179  reward:0.0000
+2021-01-05 18:23:00,892 - data_util.log - INFO - iter:7800  mle_loss:1.130  reward:0.0000
+2021-01-05 18:23:30,704 - data_util.log - INFO - iter:7850  mle_loss:1.290  reward:0.0000
+2021-01-05 18:23:31,657 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:23:58,201 - data_util.log - INFO - iter:7900  mle_loss:1.098  reward:0.0000
+2021-01-05 18:24:25,339 - data_util.log - INFO - iter:7950  mle_loss:1.078  reward:0.0000
+2021-01-05 18:24:31,718 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:24:53,820 - data_util.log - INFO - iter:8000  mle_loss:1.288  reward:0.0000
+2021-01-05 18:25:23,345 - data_util.log - INFO - iter:8050  mle_loss:1.105  reward:0.0000
+2021-01-05 18:25:31,778 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:25:49,858 - data_util.log - INFO - iter:8100  mle_loss:1.017  reward:0.0000
+2021-01-05 18:26:19,031 - data_util.log - INFO - iter:8150  mle_loss:1.009  reward:0.0000
+2021-01-05 18:26:31,839 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:26:45,884 - data_util.log - INFO - iter:8200  mle_loss:0.997  reward:0.0000
+2021-01-05 18:27:15,066 - data_util.log - INFO - iter:8250  mle_loss:1.152  reward:0.0000
+2021-01-05 18:27:31,900 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:27:41,877 - data_util.log - INFO - iter:8300  mle_loss:1.101  reward:0.0000
+2021-01-05 18:28:08,981 - data_util.log - INFO - iter:8350  mle_loss:1.281  reward:0.0000
+2021-01-05 18:28:31,960 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:28:37,792 - data_util.log - INFO - iter:8400  mle_loss:1.226  reward:0.0000
+2021-01-05 18:29:04,577 - data_util.log - INFO - iter:8450  mle_loss:1.239  reward:0.0000
+2021-01-05 18:29:32,021 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:29:32,485 - data_util.log - INFO - iter:8500  mle_loss:1.215  reward:0.0000
+2021-01-05 18:30:02,477 - data_util.log - INFO - iter:8550  mle_loss:1.053  reward:0.0000
+2021-01-05 18:30:30,030 - data_util.log - INFO - iter:8600  mle_loss:1.070  reward:0.0000
+2021-01-05 18:30:32,081 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:30:57,858 - data_util.log - INFO - iter:8650  mle_loss:0.882  reward:0.0000
+2021-01-05 18:31:24,700 - data_util.log - INFO - iter:8700  mle_loss:0.787  reward:0.0000
+2021-01-05 18:31:32,142 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:31:52,441 - data_util.log - INFO - iter:8750  mle_loss:0.863  reward:0.0000
+2021-01-05 18:32:20,991 - data_util.log - INFO - iter:8800  mle_loss:0.876  reward:0.0000
+2021-01-05 18:32:32,202 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:32:48,899 - data_util.log - INFO - iter:8850  mle_loss:0.809  reward:0.0000
+2021-01-05 18:33:15,975 - data_util.log - INFO - iter:8900  mle_loss:0.738  reward:0.0000
+2021-01-05 18:33:32,263 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:33:43,784 - data_util.log - INFO - iter:8950  mle_loss:0.776  reward:0.0000
+2021-01-05 18:34:12,147 - data_util.log - INFO - iter:9000  mle_loss:0.793  reward:0.0000
+2021-01-05 18:34:32,266 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:34:40,371 - data_util.log - INFO - iter:9050  mle_loss:0.675  reward:0.0000
+2021-01-05 18:35:07,303 - data_util.log - INFO - iter:9100  mle_loss:0.751  reward:0.0000
+2021-01-05 18:35:32,326 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:35:37,202 - data_util.log - INFO - iter:9150  mle_loss:0.840  reward:0.0000
+2021-01-05 18:36:04,433 - data_util.log - INFO - iter:9200  mle_loss:0.722  reward:0.0000
+2021-01-05 18:36:32,367 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:36:32,609 - data_util.log - INFO - iter:9250  mle_loss:0.784  reward:0.0000
+2021-01-05 18:37:00,253 - data_util.log - INFO - iter:9300  mle_loss:0.833  reward:0.0000
+2021-01-05 18:37:26,421 - data_util.log - INFO - iter:9350  mle_loss:0.883  reward:0.0000
+2021-01-05 18:37:32,428 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:37:53,210 - data_util.log - INFO - iter:9400  mle_loss:0.857  reward:0.0000
+2021-01-05 18:38:23,372 - data_util.log - INFO - iter:9450  mle_loss:0.876  reward:0.0000
+2021-01-05 18:38:32,489 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:38:51,192 - data_util.log - INFO - iter:9500  mle_loss:0.919  reward:0.0000
+2021-01-05 18:39:19,916 - data_util.log - INFO - iter:9550  mle_loss:1.106  reward:0.0000
+2021-01-05 18:39:32,549 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:39:46,854 - data_util.log - INFO - iter:9600  mle_loss:0.796  reward:0.0000
+2021-01-05 18:40:15,439 - data_util.log - INFO - iter:9650  mle_loss:0.931  reward:0.0000
+2021-01-05 18:40:32,585 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:40:41,721 - data_util.log - INFO - iter:9700  mle_loss:0.860  reward:0.0000
+2021-01-05 18:41:10,958 - data_util.log - INFO - iter:9750  mle_loss:0.940  reward:0.0000
+2021-01-05 18:41:32,646 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:41:37,184 - data_util.log - INFO - iter:9800  mle_loss:0.684  reward:0.0000
+2021-01-05 18:42:06,839 - data_util.log - INFO - iter:9850  mle_loss:0.837  reward:0.0000
+2021-01-05 18:42:32,706 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:42:34,027 - data_util.log - INFO - iter:9900  mle_loss:0.702  reward:0.0000
+2021-01-05 18:43:02,428 - data_util.log - INFO - iter:9950  mle_loss:0.671  reward:0.0000
+2021-01-05 18:43:28,610 - data_util.log - INFO - iter:10000  mle_loss:0.570  reward:0.0000
+2021-01-05 18:43:32,767 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:43:57,041 - data_util.log - INFO - iter:10050  mle_loss:0.631  reward:0.0000
+2021-01-05 18:44:27,168 - data_util.log - INFO - iter:10100  mle_loss:0.719  reward:0.0000
+2021-01-05 18:44:32,832 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:44:54,259 - data_util.log - INFO - iter:10150  mle_loss:0.664  reward:0.0000
+2021-01-05 18:45:21,552 - data_util.log - INFO - iter:10200  mle_loss:0.621  reward:0.0000
+2021-01-05 18:45:32,892 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:45:49,072 - data_util.log - INFO - iter:10250  mle_loss:0.709  reward:0.0000
+2021-01-05 18:46:17,349 - data_util.log - INFO - iter:10300  mle_loss:0.619  reward:0.0000
+2021-01-05 18:46:32,953 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:46:45,761 - data_util.log - INFO - iter:10350  mle_loss:0.627  reward:0.0000
+2021-01-05 18:47:12,868 - data_util.log - INFO - iter:10400  mle_loss:0.530  reward:0.0000
+2021-01-05 18:47:33,013 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:47:40,141 - data_util.log - INFO - iter:10450  mle_loss:0.560  reward:0.0000
+2021-01-05 18:48:08,044 - data_util.log - INFO - iter:10500  mle_loss:0.570  reward:0.0000
+2021-01-05 18:48:33,073 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:48:36,805 - data_util.log - INFO - iter:10550  mle_loss:0.867  reward:0.0000
+2021-01-05 18:49:04,297 - data_util.log - INFO - iter:10600  mle_loss:0.795  reward:0.0000
+2021-01-05 18:49:31,476 - data_util.log - INFO - iter:10650  mle_loss:0.626  reward:0.0000
+2021-01-05 18:49:33,134 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:49:57,151 - data_util.log - INFO - iter:10700  mle_loss:0.548  reward:0.0000
+2021-01-05 18:50:27,948 - data_util.log - INFO - iter:10750  mle_loss:0.612  reward:0.0000
+2021-01-05 18:50:33,194 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:50:52,538 - data_util.log - INFO - iter:10800  mle_loss:0.483  reward:0.0000
+2021-01-05 18:51:21,550 - data_util.log - INFO - iter:10850  mle_loss:0.592  reward:0.0000
+2021-01-05 18:51:33,255 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:51:49,010 - data_util.log - INFO - iter:10900  mle_loss:0.500  reward:0.0000
+2021-01-05 18:52:15,949 - data_util.log - INFO - iter:10950  mle_loss:0.558  reward:0.0000
+2021-01-05 18:52:33,315 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:52:43,614 - data_util.log - INFO - iter:11000  mle_loss:0.742  reward:0.0000
+2021-01-05 18:53:12,950 - data_util.log - INFO - iter:11050  mle_loss:0.839  reward:0.0000
+2021-01-05 18:53:33,376 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:53:40,025 - data_util.log - INFO - iter:11100  mle_loss:0.934  reward:0.0000
+2021-01-05 18:54:08,286 - data_util.log - INFO - iter:11150  mle_loss:0.977  reward:0.0000
+2021-01-05 18:54:33,422 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1999
+2021-01-05 18:54:33,760 - data_util.log - INFO - iter:11200  mle_loss:0.674  reward:0.0000
+2021-01-05 18:55:01,350 - data_util.log - INFO - iter:11250  mle_loss:0.561  reward:0.0000
+2021-01-05 18:55:29,561 - data_util.log - INFO - iter:11300  mle_loss:0.565  reward:0.0000
+2021-01-05 18:55:33,487 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:55:57,146 - data_util.log - INFO - iter:11350  mle_loss:0.529  reward:0.0000
+2021-01-05 18:56:25,535 - data_util.log - INFO - iter:11400  mle_loss:0.536  reward:0.0000
+2021-01-05 18:56:33,514 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:56:51,618 - data_util.log - INFO - iter:11450  mle_loss:0.468  reward:0.0000
+2021-01-05 18:57:19,786 - data_util.log - INFO - iter:11500  mle_loss:0.505  reward:0.0000
+2021-01-05 18:57:33,574 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:57:48,787 - data_util.log - INFO - iter:11550  mle_loss:0.472  reward:0.0000
+2021-01-05 18:58:15,151 - data_util.log - INFO - iter:11600  mle_loss:0.458  reward:0.0000
+2021-01-05 18:58:33,635 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:58:43,373 - data_util.log - INFO - iter:11650  mle_loss:0.539  reward:0.0000
+2021-01-05 18:59:12,064 - data_util.log - INFO - iter:11700  mle_loss:0.587  reward:0.0000
+2021-01-05 18:59:33,695 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 18:59:38,840 - data_util.log - INFO - iter:11750  mle_loss:0.460  reward:0.0000
+2021-01-05 19:00:06,949 - data_util.log - INFO - iter:11800  mle_loss:0.502  reward:0.0000
+2021-01-05 19:00:32,883 - data_util.log - INFO - iter:11850  mle_loss:0.490  reward:0.0000
+2021-01-05 19:00:33,737 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:01:02,475 - data_util.log - INFO - iter:11900  mle_loss:0.492  reward:0.0000
+2021-01-05 19:01:28,797 - data_util.log - INFO - iter:11950  mle_loss:0.427  reward:0.0000
+2021-01-05 19:01:33,785 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:01:54,578 - data_util.log - INFO - iter:12000  mle_loss:0.352  reward:0.0000
+2021-01-05 19:02:24,681 - data_util.log - INFO - iter:12050  mle_loss:0.429  reward:0.0000
+2021-01-05 19:02:33,846 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:02:52,261 - data_util.log - INFO - iter:12100  mle_loss:0.429  reward:0.0000
+2021-01-05 19:03:20,317 - data_util.log - INFO - iter:12150  mle_loss:0.545  reward:0.0000
+2021-01-05 19:03:33,906 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:03:49,008 - data_util.log - INFO - iter:12200  mle_loss:0.499  reward:0.0000
+2021-01-05 19:04:13,386 - data_util.log - INFO - iter:12250  mle_loss:0.316  reward:0.0000
+2021-01-05 19:04:33,967 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:04:42,797 - data_util.log - INFO - iter:12300  mle_loss:0.427  reward:0.0000
+2021-01-05 19:05:10,169 - data_util.log - INFO - iter:12350  mle_loss:0.367  reward:0.0000
+2021-01-05 19:05:34,027 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:05:35,803 - data_util.log - INFO - iter:12400  mle_loss:0.367  reward:0.0000
+2021-01-05 19:06:06,090 - data_util.log - INFO - iter:12450  mle_loss:0.392  reward:0.0000
+2021-01-05 19:06:32,034 - data_util.log - INFO - iter:12500  mle_loss:0.332  reward:0.0000
+2021-01-05 19:06:34,088 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:07:00,420 - data_util.log - INFO - iter:12550  mle_loss:0.296  reward:0.0000
+2021-01-05 19:07:29,317 - data_util.log - INFO - iter:12600  mle_loss:0.339  reward:0.0000
+2021-01-05 19:07:34,148 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:07:56,181 - data_util.log - INFO - iter:12650  mle_loss:0.303  reward:0.0000
+2021-01-05 19:08:23,669 - data_util.log - INFO - iter:12700  mle_loss:0.360  reward:0.0000
+2021-01-05 19:08:34,169 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:08:50,538 - data_util.log - INFO - iter:12750  mle_loss:0.336  reward:0.0000
+2021-01-05 19:09:17,972 - data_util.log - INFO - iter:12800  mle_loss:0.430  reward:0.0000
+2021-01-05 19:09:34,174 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:09:46,566 - data_util.log - INFO - iter:12850  mle_loss:0.437  reward:0.0000
+2021-01-05 19:10:13,853 - data_util.log - INFO - iter:12900  mle_loss:0.345  reward:0.0000
+2021-01-05 19:10:34,177 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:10:40,491 - data_util.log - INFO - iter:12950  mle_loss:0.324  reward:0.0000
+2021-01-05 19:11:09,047 - data_util.log - INFO - iter:13000  mle_loss:0.325  reward:0.0000
+2021-01-05 19:11:34,227 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:11:37,647 - data_util.log - INFO - iter:13050  mle_loss:0.361  reward:0.0000
+2021-01-05 19:12:05,503 - data_util.log - INFO - iter:13100  mle_loss:0.401  reward:0.0000
+2021-01-05 19:12:31,797 - data_util.log - INFO - iter:13150  mle_loss:0.262  reward:0.0000
+2021-01-05 19:12:34,240 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:12:59,873 - data_util.log - INFO - iter:13200  mle_loss:0.374  reward:0.0000
+2021-01-05 19:13:27,483 - data_util.log - INFO - iter:13250  mle_loss:0.274  reward:0.0000
+2021-01-05 19:13:34,301 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:13:53,772 - data_util.log - INFO - iter:13300  mle_loss:0.244  reward:0.0000
+2021-01-05 19:14:21,749 - data_util.log - INFO - iter:13350  mle_loss:0.406  reward:0.0000
+2021-01-05 19:14:34,361 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:14:50,485 - data_util.log - INFO - iter:13400  mle_loss:0.288  reward:0.0000
+2021-01-05 19:15:17,831 - data_util.log - INFO - iter:13450  mle_loss:0.287  reward:0.0000
+2021-01-05 19:15:34,422 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:15:43,904 - data_util.log - INFO - iter:13500  mle_loss:0.275  reward:0.0000
+2021-01-05 19:16:14,297 - data_util.log - INFO - iter:13550  mle_loss:0.466  reward:0.0000
+2021-01-05 19:16:34,482 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:16:41,425 - data_util.log - INFO - iter:13600  mle_loss:0.891  reward:0.0000
+2021-01-05 19:17:10,191 - data_util.log - INFO - iter:13650  mle_loss:1.235  reward:0.0000
+2021-01-05 19:17:34,543 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:17:36,408 - data_util.log - INFO - iter:13700  mle_loss:0.882  reward:0.0000
+2021-01-05 19:18:02,929 - data_util.log - INFO - iter:13750  mle_loss:0.476  reward:0.0000
+2021-01-05 19:18:31,430 - data_util.log - INFO - iter:13800  mle_loss:0.380  reward:0.0000
+2021-01-05 19:18:34,603 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:18:59,461 - data_util.log - INFO - iter:13850  mle_loss:0.356  reward:0.0000
+2021-01-05 19:19:27,396 - data_util.log - INFO - iter:13900  mle_loss:0.280  reward:0.0000
+2021-01-05 19:19:34,664 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:19:54,987 - data_util.log - INFO - iter:13950  mle_loss:0.230  reward:0.0000
+2021-01-05 19:20:21,205 - data_util.log - INFO - iter:14000  mle_loss:0.205  reward:0.0000
+2021-01-05 19:20:34,665 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:20:50,918 - data_util.log - INFO - iter:14050  mle_loss:0.198  reward:0.0000
+2021-01-05 19:21:18,644 - data_util.log - INFO - iter:14100  mle_loss:0.191  reward:0.0000
+2021-01-05 19:21:34,726 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:21:46,058 - data_util.log - INFO - iter:14150  mle_loss:0.216  reward:0.0000
+2021-01-05 19:22:13,328 - data_util.log - INFO - iter:14200  mle_loss:0.184  reward:0.0000
+2021-01-05 19:22:34,786 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:22:40,630 - data_util.log - INFO - iter:14250  mle_loss:0.214  reward:0.0000
+2021-01-05 19:23:08,638 - data_util.log - INFO - iter:14300  mle_loss:0.199  reward:0.0000
+2021-01-05 19:23:34,847 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:23:35,931 - data_util.log - INFO - iter:14350  mle_loss:0.214  reward:0.0000
+2021-01-05 19:24:03,063 - data_util.log - INFO - iter:14400  mle_loss:0.213  reward:0.0000
+2021-01-05 19:24:31,258 - data_util.log - INFO - iter:14450  mle_loss:0.176  reward:0.0000
+2021-01-05 19:24:34,907 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:24:58,331 - data_util.log - INFO - iter:14500  mle_loss:0.181  reward:0.0000
+2021-01-05 19:25:28,882 - data_util.log - INFO - iter:14550  mle_loss:0.181  reward:0.0000
+2021-01-05 19:25:34,967 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:25:54,287 - data_util.log - INFO - iter:14600  mle_loss:0.118  reward:0.0000
+2021-01-05 19:26:22,406 - data_util.log - INFO - iter:14650  mle_loss:0.215  reward:0.0000
+2021-01-05 19:26:35,028 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:26:50,199 - data_util.log - INFO - iter:14700  mle_loss:0.206  reward:0.0000
+2021-01-05 19:27:17,828 - data_util.log - INFO - iter:14750  mle_loss:0.206  reward:0.0000
+2021-01-05 19:27:35,088 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:27:45,210 - data_util.log - INFO - iter:14800  mle_loss:0.227  reward:0.0000
+2021-01-05 19:28:12,310 - data_util.log - INFO - iter:14850  mle_loss:0.189  reward:0.0000
+2021-01-05 19:28:35,149 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:28:40,668 - data_util.log - INFO - iter:14900  mle_loss:0.296  reward:0.0000
+2021-01-05 19:29:08,614 - data_util.log - INFO - iter:14950  mle_loss:0.273  reward:0.0000
+2021-01-05 19:29:34,640 - data_util.log - INFO - iter:15000  mle_loss:0.332  reward:0.0000
+2021-01-05 19:29:35,209 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:30:03,809 - data_util.log - INFO - iter:15050  mle_loss:0.379  reward:0.0000
+2021-01-05 19:30:32,091 - data_util.log - INFO - iter:15100  mle_loss:0.627  reward:0.0000
+2021-01-05 19:30:35,270 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:30:59,646 - data_util.log - INFO - iter:15150  mle_loss:0.333  reward:0.0000
+2021-01-05 19:31:26,418 - data_util.log - INFO - iter:15200  mle_loss:0.565  reward:0.0000
+2021-01-05 19:31:35,330 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:31:54,438 - data_util.log - INFO - iter:15250  mle_loss:0.961  reward:0.0000
+2021-01-05 19:32:21,859 - data_util.log - INFO - iter:15300  mle_loss:0.736  reward:0.0000
+2021-01-05 19:32:35,391 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:32:50,984 - data_util.log - INFO - iter:15350  mle_loss:0.340  reward:0.0000
+2021-01-05 19:33:17,230 - data_util.log - INFO - iter:15400  mle_loss:0.238  reward:0.0000
+2021-01-05 19:33:35,451 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:33:45,406 - data_util.log - INFO - iter:15450  mle_loss:0.232  reward:0.0000
+2021-01-05 19:34:12,718 - data_util.log - INFO - iter:15500  mle_loss:0.189  reward:0.0000
+2021-01-05 19:34:35,512 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:34:41,335 - data_util.log - INFO - iter:15550  mle_loss:0.223  reward:0.0000
+2021-01-05 19:35:10,052 - data_util.log - INFO - iter:15600  mle_loss:0.171  reward:0.0000
+2021-01-05 19:35:35,572 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:35:37,723 - data_util.log - INFO - iter:15650  mle_loss:0.163  reward:0.0000
+2021-01-05 19:36:04,004 - data_util.log - INFO - iter:15700  mle_loss:0.156  reward:0.0000
+2021-01-05 19:36:32,335 - data_util.log - INFO - iter:15750  mle_loss:0.159  reward:0.0000
+2021-01-05 19:36:35,632 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:36:59,213 - data_util.log - INFO - iter:15800  mle_loss:0.168  reward:0.0000
+2021-01-05 19:37:26,042 - data_util.log - INFO - iter:15850  mle_loss:0.147  reward:0.0000
+2021-01-05 19:37:35,693 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:37:54,469 - data_util.log - INFO - iter:15900  mle_loss:0.185  reward:0.0000
+2021-01-05 19:38:21,772 - data_util.log - INFO - iter:15950  mle_loss:0.117  reward:0.0000
+2021-01-05 19:38:35,753 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:38:50,008 - data_util.log - INFO - iter:16000  mle_loss:0.188  reward:0.0000
+2021-01-05 19:39:20,188 - data_util.log - INFO - iter:16050  mle_loss:0.325  reward:0.0000
+2021-01-05 19:39:35,814 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:39:46,420 - data_util.log - INFO - iter:16100  mle_loss:0.161  reward:0.0000
+2021-01-05 19:40:14,621 - data_util.log - INFO - iter:16150  mle_loss:0.154  reward:0.0000
+2021-01-05 19:40:35,874 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:40:39,743 - data_util.log - INFO - iter:16200  mle_loss:0.109  reward:0.0000
+2021-01-05 19:41:09,423 - data_util.log - INFO - iter:16250  mle_loss:0.139  reward:0.0000
+2021-01-05 19:41:35,834 - data_util.log - INFO - iter:16300  mle_loss:0.103  reward:0.0000
+2021-01-05 19:41:35,935 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:42:02,470 - data_util.log - INFO - iter:16350  mle_loss:0.143  reward:0.0000
+2021-01-05 19:42:30,292 - data_util.log - INFO - iter:16400  mle_loss:0.154  reward:0.0000
+2021-01-05 19:42:35,995 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:42:58,074 - data_util.log - INFO - iter:16450  mle_loss:0.158  reward:0.0000
+2021-01-05 19:43:26,145 - data_util.log - INFO - iter:16500  mle_loss:0.131  reward:0.0000
+2021-01-05 19:43:36,055 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:43:56,731 - data_util.log - INFO - iter:16550  mle_loss:0.144  reward:0.0000
+2021-01-05 19:44:23,223 - data_util.log - INFO - iter:16600  mle_loss:0.105  reward:0.0000
+2021-01-05 19:44:36,116 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:44:50,649 - data_util.log - INFO - iter:16650  mle_loss:0.116  reward:0.0000
+2021-01-05 19:45:17,804 - data_util.log - INFO - iter:16700  mle_loss:0.111  reward:0.0000
+2021-01-05 19:45:36,177 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:45:46,077 - data_util.log - INFO - iter:16750  mle_loss:0.177  reward:0.0000
+2021-01-05 19:46:13,231 - data_util.log - INFO - iter:16800  mle_loss:0.166  reward:0.0000
+2021-01-05 19:46:36,237 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:46:41,121 - data_util.log - INFO - iter:16850  mle_loss:0.157  reward:0.0000
+2021-01-05 19:47:07,406 - data_util.log - INFO - iter:16900  mle_loss:0.209  reward:0.0000
+2021-01-05 19:47:35,980 - data_util.log - INFO - iter:16950  mle_loss:0.229  reward:0.0000
+2021-01-05 19:47:36,298 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:48:04,210 - data_util.log - INFO - iter:17000  mle_loss:0.287  reward:0.0000
+2021-01-05 19:48:33,571 - data_util.log - INFO - iter:17050  mle_loss:0.243  reward:0.0000
+2021-01-05 19:48:36,358 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:49:00,193 - data_util.log - INFO - iter:17100  mle_loss:0.156  reward:0.0000
+2021-01-05 19:49:28,215 - data_util.log - INFO - iter:17150  mle_loss:0.341  reward:0.0000
+2021-01-05 19:49:36,418 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:49:56,024 - data_util.log - INFO - iter:17200  mle_loss:0.497  reward:0.0000
+2021-01-05 19:50:22,677 - data_util.log - INFO - iter:17250  mle_loss:0.528  reward:0.0000
+2021-01-05 19:50:36,479 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:50:50,700 - data_util.log - INFO - iter:17300  mle_loss:0.769  reward:0.0000
+2021-01-05 19:51:17,174 - data_util.log - INFO - iter:17350  mle_loss:0.341  reward:0.0000
+2021-01-05 19:51:36,539 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:51:45,611 - data_util.log - INFO - iter:17400  mle_loss:0.417  reward:0.0000
+2021-01-05 19:52:13,792 - data_util.log - INFO - iter:17450  mle_loss:0.277  reward:0.0000
+2021-01-05 19:52:36,600 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:52:39,281 - data_util.log - INFO - iter:17500  mle_loss:0.154  reward:0.0000
+2021-01-05 19:53:09,217 - data_util.log - INFO - iter:17550  mle_loss:0.151  reward:0.0000
+2021-01-05 19:53:36,660 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:53:37,890 - data_util.log - INFO - iter:17600  mle_loss:0.108  reward:0.0000
+2021-01-05 19:54:04,697 - data_util.log - INFO - iter:17650  mle_loss:0.118  reward:0.0000
+2021-01-05 19:54:33,697 - data_util.log - INFO - iter:17700  mle_loss:0.123  reward:0.0000
+2021-01-05 19:54:36,721 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:55:00,274 - data_util.log - INFO - iter:17750  mle_loss:0.093  reward:0.0000
+2021-01-05 19:55:26,324 - data_util.log - INFO - iter:17800  mle_loss:0.097  reward:0.0000
+2021-01-05 19:55:36,781 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:55:56,020 - data_util.log - INFO - iter:17850  mle_loss:0.089  reward:0.0000
+2021-01-05 19:56:21,965 - data_util.log - INFO - iter:17900  mle_loss:0.088  reward:0.0000
+2021-01-05 19:56:36,842 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:56:49,456 - data_util.log - INFO - iter:17950  mle_loss:0.085  reward:0.0000
+2021-01-05 19:57:18,395 - data_util.log - INFO - iter:18000  mle_loss:0.090  reward:0.0000
+2021-01-05 19:57:36,902 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:57:45,725 - data_util.log - INFO - iter:18050  mle_loss:0.069  reward:0.0000
+2021-01-05 19:58:15,229 - data_util.log - INFO - iter:18100  mle_loss:0.123  reward:0.0000
+2021-01-05 19:58:36,963 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:58:42,492 - data_util.log - INFO - iter:18150  mle_loss:0.128  reward:0.0000
+2021-01-05 19:59:09,437 - data_util.log - INFO - iter:18200  mle_loss:0.127  reward:0.0000
+2021-01-05 19:59:37,024 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 19:59:38,003 - data_util.log - INFO - iter:18250  mle_loss:0.133  reward:0.0000
+2021-01-05 20:00:03,493 - data_util.log - INFO - iter:18300  mle_loss:0.078  reward:0.0000
+2021-01-05 20:00:33,394 - data_util.log - INFO - iter:18350  mle_loss:0.090  reward:0.0000
+2021-01-05 20:00:37,084 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:00:59,862 - data_util.log - INFO - iter:18400  mle_loss:0.056  reward:0.0000
+2021-01-05 20:01:26,781 - data_util.log - INFO - iter:18450  mle_loss:0.060  reward:0.0000
+2021-01-05 20:01:37,145 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:01:55,392 - data_util.log - INFO - iter:18500  mle_loss:0.069  reward:0.0000
+2021-01-05 20:02:24,437 - data_util.log - INFO - iter:18550  mle_loss:0.081  reward:0.0000
+2021-01-05 20:02:37,205 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:02:52,378 - data_util.log - INFO - iter:18600  mle_loss:0.050  reward:0.0000
+2021-01-05 20:03:19,645 - data_util.log - INFO - iter:18650  mle_loss:0.075  reward:0.0000
+2021-01-05 20:03:37,266 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:03:45,599 - data_util.log - INFO - iter:18700  mle_loss:0.084  reward:0.0000
+2021-01-05 20:04:16,015 - data_util.log - INFO - iter:18750  mle_loss:0.115  reward:0.0000
+2021-01-05 20:04:37,327 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:04:42,166 - data_util.log - INFO - iter:18800  mle_loss:0.132  reward:0.0000
+2021-01-05 20:05:09,339 - data_util.log - INFO - iter:18850  mle_loss:0.127  reward:0.0000
+2021-01-05 20:05:37,387 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:05:37,875 - data_util.log - INFO - iter:18900  mle_loss:0.191  reward:0.0000
+2021-01-05 20:06:06,087 - data_util.log - INFO - iter:18950  mle_loss:0.273  reward:0.0000
+2021-01-05 20:06:33,995 - data_util.log - INFO - iter:19000  mle_loss:0.222  reward:0.0000
+2021-01-05 20:06:37,448 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:07:01,566 - data_util.log - INFO - iter:19050  mle_loss:0.261  reward:0.0000
+2021-01-05 20:07:29,009 - data_util.log - INFO - iter:19100  mle_loss:0.169  reward:0.0000
+2021-01-05 20:07:37,508 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:07:57,655 - data_util.log - INFO - iter:19150  mle_loss:0.146  reward:0.0000
+2021-01-05 20:08:25,885 - data_util.log - INFO - iter:19200  mle_loss:0.145  reward:0.0000
+2021-01-05 20:08:37,569 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:08:51,486 - data_util.log - INFO - iter:19250  mle_loss:0.120  reward:0.0000
+2021-01-05 20:09:18,929 - data_util.log - INFO - iter:19300  mle_loss:0.119  reward:0.0000
+2021-01-05 20:09:37,629 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:09:45,920 - data_util.log - INFO - iter:19350  mle_loss:0.133  reward:0.0000
+2021-01-05 20:10:15,034 - data_util.log - INFO - iter:19400  mle_loss:0.240  reward:0.0000
+2021-01-05 20:10:37,690 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:10:43,169 - data_util.log - INFO - iter:19450  mle_loss:0.187  reward:0.0000
+2021-01-05 20:11:08,022 - data_util.log - INFO - iter:19500  mle_loss:0.099  reward:0.0000
+2021-01-05 20:11:37,751 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:11:38,804 - data_util.log - INFO - iter:19550  mle_loss:0.137  reward:0.0000
+2021-01-05 20:12:05,419 - data_util.log - INFO - iter:19600  mle_loss:0.159  reward:0.0000
+2021-01-05 20:12:33,296 - data_util.log - INFO - iter:19650  mle_loss:0.117  reward:0.0000
+2021-01-05 20:12:37,811 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:13:00,930 - data_util.log - INFO - iter:19700  mle_loss:0.271  reward:0.0000
+2021-01-05 20:13:29,126 - data_util.log - INFO - iter:19750  mle_loss:0.508  reward:0.0000
+2021-01-05 20:13:37,874 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:13:56,495 - data_util.log - INFO - iter:19800  mle_loss:0.582  reward:0.0000
+2021-01-05 20:14:23,231 - data_util.log - INFO - iter:19850  mle_loss:0.796  reward:0.0000
+2021-01-05 20:14:37,934 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:14:51,494 - data_util.log - INFO - iter:19900  mle_loss:0.428  reward:0.0000
+2021-01-05 20:15:20,259 - data_util.log - INFO - iter:19950  mle_loss:0.223  reward:0.0000
+2021-01-05 20:15:37,995 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:15:47,183 - data_util.log - INFO - iter:20000  mle_loss:0.108  reward:0.0000
+2021-01-05 20:16:38,055 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:17:38,115 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:18:38,176 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:19:38,181 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:20:38,185 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:21:38,246 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:22:38,306 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:23:38,366 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:24:38,427 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:25:38,487 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:26:38,547 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:27:38,608 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:28:38,668 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:29:38,728 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:30:38,789 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:31:38,849 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:32:38,910 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:33:38,970 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:34:39,030 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:35:39,091 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:36:39,151 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:37:39,211 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:38:39,272 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:39:39,332 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:40:39,392 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:41:39,453 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:42:39,513 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:43:39,573 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:44:39,634 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:45:39,694 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 20:46:39,754 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:01:30,552 - data_util.log - INFO - log启动
+2021-01-05 21:01:32,796 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 28
+2021-01-05 21:02:33,098 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:03:33,059 - data_util.log - INFO - iter:20050  mle_loss:0.078  reward:0.0000
+2021-01-05 21:03:33,762 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:04:03,639 - data_util.log - INFO - iter:20100  mle_loss:0.100  reward:0.0000
+2021-01-05 21:04:29,590 - data_util.log - INFO - iter:20150  mle_loss:0.047  reward:0.0000
+2021-01-05 21:04:33,822 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1999
+2021-01-05 21:04:56,574 - data_util.log - INFO - iter:20200  mle_loss:0.065  reward:0.0000
+2021-01-05 21:05:24,667 - data_util.log - INFO - iter:20250  mle_loss:0.092  reward:0.0000
+2021-01-05 21:05:33,841 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:05:54,036 - data_util.log - INFO - iter:20300  mle_loss:0.089  reward:0.0000
+2021-01-05 21:06:21,412 - data_util.log - INFO - iter:20350  mle_loss:0.128  reward:0.0000
+2021-01-05 21:06:33,901 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:06:50,001 - data_util.log - INFO - iter:20400  mle_loss:0.095  reward:0.0000
+2021-01-05 21:07:17,996 - data_util.log - INFO - iter:20450  mle_loss:0.050  reward:0.0000
+2021-01-05 21:07:33,962 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:07:48,596 - data_util.log - INFO - iter:20500  mle_loss:0.073  reward:0.0000
+2021-01-05 21:08:16,669 - data_util.log - INFO - iter:20550  mle_loss:0.043  reward:0.0000
+2021-01-05 21:08:34,023 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:08:45,391 - data_util.log - INFO - iter:20600  mle_loss:0.071  reward:0.0000
+2021-01-05 21:09:13,234 - data_util.log - INFO - iter:20650  mle_loss:0.054  reward:0.0000
+2021-01-05 21:09:34,083 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:09:40,273 - data_util.log - INFO - iter:20700  mle_loss:0.043  reward:0.0000
+2021-01-05 21:10:08,766 - data_util.log - INFO - iter:20750  mle_loss:0.039  reward:0.0000
+2021-01-05 21:10:34,144 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:10:37,782 - data_util.log - INFO - iter:20800  mle_loss:0.043  reward:0.0000
+2021-01-05 21:11:05,083 - data_util.log - INFO - iter:20850  mle_loss:0.038  reward:0.0000
+2021-01-05 21:11:33,256 - data_util.log - INFO - iter:20900  mle_loss:0.029  reward:0.0000
+2021-01-05 21:11:34,204 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:12:00,544 - data_util.log - INFO - iter:20950  mle_loss:0.034  reward:0.0000
+2021-01-05 21:12:28,172 - data_util.log - INFO - iter:21000  mle_loss:0.038  reward:0.0000
+2021-01-05 21:12:34,265 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:12:58,789 - data_util.log - INFO - iter:21050  mle_loss:0.029  reward:0.0000
+2021-01-05 21:13:26,623 - data_util.log - INFO - iter:21100  mle_loss:0.037  reward:0.0000
+2021-01-05 21:13:34,293 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:13:53,958 - data_util.log - INFO - iter:21150  mle_loss:0.037  reward:0.0000
+2021-01-05 21:14:21,148 - data_util.log - INFO - iter:21200  mle_loss:0.031  reward:0.0000
+2021-01-05 21:14:34,324 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:14:47,999 - data_util.log - INFO - iter:21250  mle_loss:0.025  reward:0.0000
+2021-01-05 21:15:17,006 - data_util.log - INFO - iter:21300  mle_loss:0.029  reward:0.0000
+2021-01-05 21:15:34,384 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:15:43,087 - data_util.log - INFO - iter:21350  mle_loss:0.020  reward:0.0000
+2021-01-05 21:16:10,205 - data_util.log - INFO - iter:21400  mle_loss:0.028  reward:0.0000
+2021-01-05 21:16:34,445 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:16:38,671 - data_util.log - INFO - iter:21450  mle_loss:0.045  reward:0.0000
+2021-01-05 21:17:05,489 - data_util.log - INFO - iter:21500  mle_loss:0.090  reward:0.0000
+2021-01-05 21:17:34,506 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:17:34,810 - data_util.log - INFO - iter:21550  mle_loss:0.141  reward:0.0000
+2021-01-05 21:18:03,606 - data_util.log - INFO - iter:21600  mle_loss:0.310  reward:0.0000
+2021-01-05 21:18:27,832 - data_util.log - INFO - iter:21650  mle_loss:0.258  reward:0.0000
+2021-01-05 21:18:34,566 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:18:57,791 - data_util.log - INFO - iter:21700  mle_loss:0.302  reward:0.0000
+2021-01-05 21:19:23,571 - data_util.log - INFO - iter:21750  mle_loss:0.148  reward:0.0000
+2021-01-05 21:19:34,627 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:19:51,780 - data_util.log - INFO - iter:21800  mle_loss:0.132  reward:0.0000
+2021-01-05 21:20:19,759 - data_util.log - INFO - iter:21850  mle_loss:0.087  reward:0.0000
+2021-01-05 21:20:34,687 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:20:46,267 - data_util.log - INFO - iter:21900  mle_loss:0.097  reward:0.0000
+2021-01-05 21:21:15,396 - data_util.log - INFO - iter:21950  mle_loss:0.069  reward:0.0000
+2021-01-05 21:21:34,748 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:21:41,891 - data_util.log - INFO - iter:22000  mle_loss:0.061  reward:0.0000
+2021-01-05 21:22:11,703 - data_util.log - INFO - iter:22050  mle_loss:0.052  reward:0.0000
+2021-01-05 21:22:34,808 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 1998
+2021-01-05 21:22:38,513 - data_util.log - INFO - iter:22100  mle_loss:0.023  reward:0.0000
+2021-01-05 21:23:06,769 - data_util.log - INFO - iter:22150  mle_loss:0.043  reward:0.0000
+2021-01-05 21:23:33,443 - data_util.log - INFO - iter:22200  mle_loss:0.026  reward:0.0000
+2021-01-05 21:23:34,869 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:24:01,152 - data_util.log - INFO - iter:22250  mle_loss:0.021  reward:0.0000
+2021-01-05 21:24:29,270 - data_util.log - INFO - iter:22300  mle_loss:0.034  reward:0.0000
+2021-01-05 21:24:34,929 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:24:55,692 - data_util.log - INFO - iter:22350  mle_loss:0.030  reward:0.0000
+2021-01-05 21:25:23,927 - data_util.log - INFO - iter:22400  mle_loss:0.045  reward:0.0000
+2021-01-05 21:25:34,998 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:25:51,321 - data_util.log - INFO - iter:22450  mle_loss:0.062  reward:0.0000
+2021-01-05 21:26:19,214 - data_util.log - INFO - iter:22500  mle_loss:0.116  reward:0.0000
+2021-01-05 21:26:35,059 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:26:48,022 - data_util.log - INFO - iter:22550  mle_loss:0.210  reward:0.0000
+2021-01-05 21:27:14,616 - data_util.log - INFO - iter:22600  mle_loss:0.354  reward:0.0000
+2021-01-05 21:27:35,119 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:27:42,984 - data_util.log - INFO - iter:22650  mle_loss:0.212  reward:0.0000
+2021-01-05 21:28:11,003 - data_util.log - INFO - iter:22700  mle_loss:0.144  reward:0.0000
+2021-01-05 21:28:35,180 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:28:39,555 - data_util.log - INFO - iter:22750  mle_loss:0.146  reward:0.0000
+2021-01-05 21:29:04,185 - data_util.log - INFO - iter:22800  mle_loss:0.083  reward:0.0000
+2021-01-05 21:29:32,512 - data_util.log - INFO - iter:22850  mle_loss:0.245  reward:0.0000
+2021-01-05 21:29:35,240 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:30:00,938 - data_util.log - INFO - iter:22900  mle_loss:0.181  reward:0.0000
+2021-01-05 21:30:27,554 - data_util.log - INFO - iter:22950  mle_loss:0.205  reward:0.0000
+2021-01-05 21:30:35,253 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:30:56,098 - data_util.log - INFO - iter:23000  mle_loss:0.314  reward:0.0000
+2021-01-05 21:31:25,635 - data_util.log - INFO - iter:23050  mle_loss:0.237  reward:0.0000
+2021-01-05 21:31:35,314 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:31:51,548 - data_util.log - INFO - iter:23100  mle_loss:0.285  reward:0.0000
+2021-01-05 21:32:19,768 - data_util.log - INFO - iter:23150  mle_loss:0.153  reward:0.0000
+2021-01-05 21:32:35,370 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:32:47,463 - data_util.log - INFO - iter:23200  mle_loss:0.102  reward:0.0000
+2021-01-05 21:33:16,094 - data_util.log - INFO - iter:23250  mle_loss:0.097  reward:0.0000
+2021-01-05 21:33:35,430 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:33:42,306 - data_util.log - INFO - iter:23300  mle_loss:0.049  reward:0.0000
+2021-01-05 21:34:09,204 - data_util.log - INFO - iter:23350  mle_loss:0.039  reward:0.0000
+2021-01-05 21:34:35,491 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:34:37,480 - data_util.log - INFO - iter:23400  mle_loss:0.051  reward:0.0000
+2021-01-05 21:35:05,678 - data_util.log - INFO - iter:23450  mle_loss:0.037  reward:0.0000
+2021-01-05 21:35:31,958 - data_util.log - INFO - iter:23500  mle_loss:0.022  reward:0.0000
+2021-01-05 21:35:35,551 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:36:00,307 - data_util.log - INFO - iter:23550  mle_loss:0.027  reward:0.0000
+2021-01-05 21:36:27,105 - data_util.log - INFO - iter:23600  mle_loss:0.027  reward:0.0000
+2021-01-05 21:36:35,612 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:36:55,194 - data_util.log - INFO - iter:23650  mle_loss:0.309  reward:0.0000
+2021-01-05 21:37:24,133 - data_util.log - INFO - iter:23700  mle_loss:0.433  reward:0.0000
+2021-01-05 21:37:35,673 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:37:50,169 - data_util.log - INFO - iter:23750  mle_loss:0.232  reward:0.0000
+2021-01-05 21:38:19,600 - data_util.log - INFO - iter:23800  mle_loss:0.106  reward:0.0000
+2021-01-05 21:38:35,733 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:38:46,102 - data_util.log - INFO - iter:23850  mle_loss:0.053  reward:0.0000
+2021-01-05 21:39:13,978 - data_util.log - INFO - iter:23900  mle_loss:0.058  reward:0.0000
+2021-01-05 21:39:35,794 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:39:43,674 - data_util.log - INFO - iter:23950  mle_loss:0.041  reward:0.0000
+2021-01-05 21:40:10,930 - data_util.log - INFO - iter:24000  mle_loss:0.029  reward:0.0000
+2021-01-05 21:40:35,855 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:40:40,508 - data_util.log - INFO - iter:24050  mle_loss:0.024  reward:0.0000
+2021-01-05 21:41:08,126 - data_util.log - INFO - iter:24100  mle_loss:0.036  reward:0.0000
+2021-01-05 21:41:35,748 - data_util.log - INFO - iter:24150  mle_loss:0.058  reward:0.0000
+2021-01-05 21:41:35,880 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:42:03,858 - data_util.log - INFO - iter:24200  mle_loss:0.028  reward:0.0000
+2021-01-05 21:42:31,059 - data_util.log - INFO - iter:24250  mle_loss:0.026  reward:0.0000
+2021-01-05 21:42:35,940 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:42:57,870 - data_util.log - INFO - iter:24300  mle_loss:0.022  reward:0.0000
+2021-01-05 21:43:26,574 - data_util.log - INFO - iter:24350  mle_loss:0.024  reward:0.0000
+2021-01-05 21:43:36,000 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:43:52,219 - data_util.log - INFO - iter:24400  mle_loss:0.027  reward:0.0000
+2021-01-05 21:44:21,659 - data_util.log - INFO - iter:24450  mle_loss:0.030  reward:0.0000
+2021-01-05 21:44:36,061 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:44:48,519 - data_util.log - INFO - iter:24500  mle_loss:0.023  reward:0.0000
+2021-01-05 21:45:17,407 - data_util.log - INFO - iter:24550  mle_loss:0.020  reward:0.0000
+2021-01-05 21:45:36,121 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:45:45,971 - data_util.log - INFO - iter:24600  mle_loss:0.038  reward:0.0000
+2021-01-05 21:46:11,440 - data_util.log - INFO - iter:24650  mle_loss:0.016  reward:0.0000
+2021-01-05 21:46:36,182 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:46:39,834 - data_util.log - INFO - iter:24700  mle_loss:0.033  reward:0.0000
+2021-01-05 21:47:08,572 - data_util.log - INFO - iter:24750  mle_loss:0.018  reward:0.0000
+2021-01-05 21:47:35,385 - data_util.log - INFO - iter:24800  mle_loss:0.017  reward:0.0000
+2021-01-05 21:47:36,242 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:48:03,877 - data_util.log - INFO - iter:24850  mle_loss:0.017  reward:0.0000
+2021-01-05 21:48:30,780 - data_util.log - INFO - iter:24900  mle_loss:0.017  reward:0.0000
+2021-01-05 21:48:36,303 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:48:57,655 - data_util.log - INFO - iter:24950  mle_loss:0.014  reward:0.0000
+2021-01-05 21:49:25,529 - data_util.log - INFO - iter:25000  mle_loss:0.019  reward:0.0000
+2021-01-05 21:49:36,363 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:49:54,694 - data_util.log - INFO - iter:25050  mle_loss:0.011  reward:0.0000
+2021-01-05 21:50:23,374 - data_util.log - INFO - iter:25100  mle_loss:0.014  reward:0.0000
+2021-01-05 21:50:36,424 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:50:49,926 - data_util.log - INFO - iter:25150  mle_loss:0.009  reward:0.0000
+2021-01-05 21:51:16,690 - data_util.log - INFO - iter:25200  mle_loss:0.007  reward:0.0000
+2021-01-05 21:51:36,485 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:51:45,544 - data_util.log - INFO - iter:25250  mle_loss:0.013  reward:0.0000
+2021-01-05 21:52:11,343 - data_util.log - INFO - iter:25300  mle_loss:0.007  reward:0.0000
+2021-01-05 21:52:36,503 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:52:39,051 - data_util.log - INFO - iter:25350  mle_loss:0.009  reward:0.0000
+2021-01-05 21:53:06,723 - data_util.log - INFO - iter:25400  mle_loss:0.016  reward:0.0000
+2021-01-05 21:53:35,147 - data_util.log - INFO - iter:25450  mle_loss:0.013  reward:0.0000
+2021-01-05 21:53:36,564 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:54:03,059 - data_util.log - INFO - iter:25500  mle_loss:0.015  reward:0.0000
+2021-01-05 21:54:30,391 - data_util.log - INFO - iter:25550  mle_loss:0.019  reward:0.0000
+2021-01-05 21:54:36,624 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:54:58,629 - data_util.log - INFO - iter:25600  mle_loss:0.008  reward:0.0000
+2021-01-05 21:55:26,065 - data_util.log - INFO - iter:25650  mle_loss:0.008  reward:0.0000
+2021-01-05 21:55:36,685 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:55:53,810 - data_util.log - INFO - iter:25700  mle_loss:0.017  reward:0.0000
+2021-01-05 21:56:21,306 - data_util.log - INFO - iter:25750  mle_loss:0.007  reward:0.0000
+2021-01-05 21:56:36,746 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:56:48,457 - data_util.log - INFO - iter:25800  mle_loss:0.047  reward:0.0000
+2021-01-05 21:57:16,472 - data_util.log - INFO - iter:25850  mle_loss:0.194  reward:0.0000
+2021-01-05 21:57:36,806 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:57:44,171 - data_util.log - INFO - iter:25900  mle_loss:0.980  reward:0.0000
+2021-01-05 21:58:10,564 - data_util.log - INFO - iter:25950  mle_loss:2.292  reward:0.0000
+2021-01-05 21:58:36,865 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 21:58:38,237 - data_util.log - INFO - iter:26000  mle_loss:1.843  reward:0.0000
+2021-01-05 21:59:07,434 - data_util.log - INFO - iter:26050  mle_loss:2.488  reward:0.0000
+2021-01-05 21:59:34,273 - data_util.log - INFO - iter:26100  mle_loss:2.762  reward:0.0000
+2021-01-05 21:59:36,926 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:00:01,878 - data_util.log - INFO - iter:26150  mle_loss:3.329  reward:0.0000
+2021-01-05 22:00:28,383 - data_util.log - INFO - iter:26200  mle_loss:3.587  reward:0.0000
+2021-01-05 22:00:36,986 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:00:56,039 - data_util.log - INFO - iter:26250  mle_loss:3.607  reward:0.0000
+2021-01-05 22:01:24,452 - data_util.log - INFO - iter:26300  mle_loss:3.843  reward:0.0000
+2021-01-05 22:01:37,047 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:01:52,336 - data_util.log - INFO - iter:26350  mle_loss:3.685  reward:0.0000
+2021-01-05 22:02:19,971 - data_util.log - INFO - iter:26400  mle_loss:4.127  reward:0.0000
+2021-01-05 22:02:37,107 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:02:45,946 - data_util.log - INFO - iter:26450  mle_loss:3.074  reward:0.0000
+2021-01-05 22:03:12,805 - data_util.log - INFO - iter:26500  mle_loss:3.580  reward:0.0000
+2021-01-05 22:03:37,168 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:04:37,231 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:05:37,291 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:06:37,352 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:07:37,413 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:08:37,474 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:09:37,535 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:10:37,596 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:11:37,656 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:12:37,717 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:13:37,778 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:14:37,839 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:15:37,900 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:16:37,960 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:17:38,021 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:18:38,082 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:19:38,143 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:20:38,204 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:21:38,264 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:22:38,293 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:23:38,297 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:24:38,358 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2000
+2021-01-05 22:25:38,419 - data_util.log - INFO - Bucket queue 

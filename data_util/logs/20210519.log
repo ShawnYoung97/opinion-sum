@@ -1,0 +1,26 @@
+2021-05-19 21:22:27,023 - data_util.log - INFO - log启动
+2021-05-19 21:22:30,831 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-19 21:22:40,792 - data_util.log - INFO - log启动
+2021-05-19 21:22:44,595 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 34
+2021-05-19 21:23:44,659 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-19 21:23:44,668 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 3993
+2021-05-19 21:24:24,083 - data_util.log - INFO - log启动
+2021-05-19 21:24:28,205 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2021-05-19 21:25:29,127 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2021-05-19 21:25:56,399 - data_util.log - INFO - Bucket queue size: 2, Input queue size: 3989
+2021-05-19 21:27:03,575 - data_util.log - INFO - Bucket queue size: 63, Input queue size: 4000
+2021-05-19 21:28:40,084 - data_util.log - INFO - Bucket queue size: 121, Input queue size: 4000
+2021-05-19 21:30:11,716 - data_util.log - INFO - Bucket queue size: 282, Input queue size: 3757
+2021-05-19 21:31:17,955 - data_util.log - INFO - Bucket queue size: 445, Input queue size: 3207
+2021-05-19 21:32:24,815 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2376
+2021-05-19 21:33:51,581 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 2856
+2021-05-19 21:34:59,070 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:36:02,787 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:37:02,827 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:38:02,887 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:39:02,948 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:40:02,987 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:41:03,047 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:42:03,108 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:43:03,168 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
+2021-05-19 21:44:03,229 - data_util.log - INFO - Bucket queue size: 1000, Input queue size: 4000
